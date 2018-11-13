@@ -6,7 +6,7 @@
 "thresholds_sm_md":[420,800],
 "aspectRatio_sm_md_lg" : [[1,1],[16,9],[16,9]],
 "xAxisScale":[0,1],
-"yAxisScale":[0,0.8],
+"yAxisScale":[0,0.65],
 "varunit": "change in months",
 "numberrows_sm_md_lg":[2,3,6],
 "xaxislabel":"more green &rarr;",
