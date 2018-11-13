@@ -3439,1168 +3439,1719 @@ id,road,region,value,city
 3438,Aberthaw Road,Ringland,0.015684326,Newport
 3439,Acacia Avenue,Alway,0.113627368,Newport
 3440,Acacia Square,Alway,0.20267975,Newport
-3441,Adeline Street,Pillgwenlly,0.147206218,Newport
-3442,Afon Mead,Graig,0.196589341,Newport
-3443,Alanbrooke Avenue,Malpas,0.2011822,Newport
-3444,Albert Street,Pillgwenlly,0.0193243,Newport
-3445,Albion Close,Pillgwenlly,0.117750063,Newport
-3446,Albion Court,Pillgwenlly,0.020342125,Newport
-3447,Albion Street,Pillgwenlly,0.078781,Newport
-3448,Alcock Close,Liswerry,0.277907625,Newport
-3449,Alder Grove,Malpas,0.239915875,Newport
-3450,Alexandra Road,Pillgwenlly,0.064239621,Newport
-3451,Alice Street,Pillgwenlly,0.014318542,Newport
-3452,Allen Close,Bettws,0.108309577,Newport
-3453,Allt-yr-yn Avenue,Allt-yr-yn,0.442105837,Newport
-3454,Allt-Yr-Yn Close,Allt-yr-yn,0.147335731,Newport
-3455,Allt-Yr-Yn Court,Allt-yr-yn,0.333680821,Newport
-3456,Allt-Yr-Yn Crescent,Allt-yr-yn,0.200806177,Newport
-3457,Allt-yr-Yn Heights,Allt-yr-yn,0.182082607,Newport
-3458,Allt-Yr-Yn Heights,Allt-yr-yn,0.109464625,Newport
-3459,Allt-Yr-Yn Road,Allt-yr-yn,0.172980701,Newport
-3460,Allt-Yr-Yn View,Allt-yr-yn,0.482398854,Newport
-3461,Allt-Yr-Yn Way,Allt-yr-yn,0.164188167,Newport
-3462,Alma Street,Pillgwenlly,0.192221647,Newport
-3463,Almond Drive,Malpas,0.153389398,Newport
-3464,Alway Crescent,Alway,0.091701879,Newport
-3465,Amelia Avenue,Liswerry,0.047657553,Newport
-3466,Amelia Close,Liswerry,0.060087885,Newport
-3467,Amelia Grove,Liswerry,0.062563588,Newport
-3468,Amelia Way,Liswerry,0.048603629,Newport
-3469,Amy Johnson Close,Liswerry,0.094257833,Newport
-3470,Anderson Close,Gaer,0.25244575,Newport
-3471,Anderson Place,Malpas,0.11416396,Newport
-3472,Anson Green,Ringland,0.04512856,Newport
-3473,Archibald Street,Beechwood,0.013167243,Newport
-3474,Argosy Close,Liswerry,0.0536645,Newport
-3475,Argosy Way,Liswerry,0.081144143,Newport
-3476,Arlington Close,Malpas,0.123459875,Newport
-3477,Arlington Grange Close,Pillgwenlly,0.00012,Newport
-3478,Armstrong Close,Liswerry,0.054444357,Newport
-3479,Arne Close,Ringland,0.082056583,Newport
-3480,Arnold Close,Gaer,0.0103733,Newport
-3481,Arthur Bliss Road,Alway,0.033022469,Newport
-3482,Arthur Bliss Road,Ringland,0.155314167,Newport
-3483,Arthur Close,Pillgwenlly,0.531855417,Newport
-3484,Arthur Street,Pillgwenlly,0.13118002,Newport
-3485,Arundel Road,Beechwood,0.022999875,Newport
-3486,Ash Tree View,Allt-yr-yn,0.103195417,Newport
-3487,Ashley Road,Alway,0.176861429,Newport
-3488,Aspen Way,Malpas,0.157302979,Newport
-3489,Auckland Road,Allt-yr-yn,0.154323625,Newport
-3490,Augustus John Close,Beechwood,0.07175255,Newport
-3491,Avalon Drive,Beechwood,0.175542392,Newport
-3492,Avon Close,Bettws,0.12124665,Newport
-3493,Azalea Road,Graig,0.317893233,Newport
-3494,Bacon Place,Malpas,0.133941139,Newport
-3495,Badgers Wood Close,Graig,0.159893857,Newport
-3496,Badminton Road,Beechwood,0.230583744,Newport
-3497,Bailey Crescent,Langstone,0.057221692,Newport
-3498,Baird Close,Malpas,0.124604833,Newport
-3499,Baldwin Close,Pillgwenlly,0.031468688,Newport
-3500,Baldwin Street,Pillgwenlly,0.014519375,Newport
-3501,Balfe Road,Alway,0.0547679,Newport
-3502,Balfe Road,Ringland,0.1197447,Newport
-3503,Balmoral Lane,Alway,0.0112042,Newport
-3504,Balmoral Road,Alway,0.011364219,Newport
-3505,Balmoral Road,Beechwood,0.000614,Newport
-3506,Bantock Close,Ringland,0.083261,Newport
-3507,Bardsy Close,Beechwood,0.138793875,Newport
-3508,Barrack Hill,Allt-yr-yn,0.176333966,Newport
-3509,Barthropp Street,Liswerry,0.027426579,Newport
-3510,Bassaleg Road,Allt-yr-yn,0.313801378,Newport
-3511,Bassaleg Road,Gaer,0.1889552,Newport
-3512,Batchelor Road,Beechwood,0.043315269,Newport
-3513,Beatty Road,Ringland,0.138515695,Newport
-3514,Beaufort Place,Beechwood,0.11580976,Newport
-3515,Beaufort Road,Beechwood,0.181937099,Newport
-3516,Beaumaris Close,Graig,0.3261705,Newport
-3517,Beecham Street,Alway,0.247171214,Newport
-3518,Beechcroft Road,Alway,0.09269859,Newport
-3519,Beechcroft Road,Beechwood,0.150537,Newport
-3520,Beechdale Road,Alway,0.099020541,Newport
-3521,Beechfield Avenue,Alway,0.118480803,Newport
-3522,Beechfield Avenue,Beechwood,0.304707,Newport
-3523,Beechwood Crescent,Alway,0.103704543,Newport
-3524,Beechwood Road,Alway,0.361977289,Newport
-3525,Beechwood Road,Beechwood,0.321696045,Newport
-3526,Belle Vue Terrace,Pillgwenlly,0.169032625,Newport
-3527,Ben Jonson Way,Gaer,0.084055148,Newport
-3528,Benbow Road,Ringland,0.07908595,Newport
-3529,Berkley Close,Graig,0.156058538,Newport
-3530,Berkley Road,Graig,0.192132813,Newport
-3531,Bessemer Close,Malpas,0.1210895,Newport
-3532,Bettws Close,Bettws,0.28102,Newport
-3533,Bettws Hill,Bettws,0.691876623,Newport
-3534,Bettws Lane,Bettws,0.3187735,Newport
-3535,Bettws Lane,Malpas,0.251462643,Newport
-3536,Bideford Close,Gaer,0.146736071,Newport
-3537,Bideford Road,Gaer,0.134995765,Newport
-3538,Bilston Street,Liswerry,0.025495714,Newport
-3539,Birch Hill,Malpas,0.101479135,Newport
-3540,Birch Trees,Graig,0.205120125,Newport
-3541,Birchgrove Close,Malpas,0.193794944,Newport
-3542,Bishpool Avenue,Ringland,0.079515157,Newport
-3543,Bishpool Close,Ringland,0.071358167,Newport
-3544,Bishpool Court,Ringland,0.0911815,Newport
-3545,Bishpool Gardens,Ringland,0.066526769,Newport
-3546,Bishpool Grove,Ringland,0.184871286,Newport
-3547,Bishpool Lane,Ringland,0.166206076,Newport
-3548,Bishpool Place,Ringland,0.08994225,Newport
-3549,Bishpool Rise,Ringland,0.037551179,Newport
-3550,Bishpool View,Ringland,0.060877944,Newport
-3551,Bishpool Way,Ringland,0.088540475,Newport
-3552,Blackett Avenue,Malpas,0.235913467,Newport
-3553,Blackwater Close,Bettws,0.199223375,Newport
-3554,Blake Road,Liswerry,0.180908875,Newport
-3555,Blenheim Road,Alway,0.00348125,Newport
-3556,Bleriot Close,Liswerry,0.198084889,Newport
-3557,Bloomfield Close,Ringland,0.34044065,Newport
-3558,Blossom Close,Langstone,0.149335049,Newport
-3559,Bluebell Way,Graig,0.185300463,Newport
-3560,Bolt Close,Pillgwenlly,0.155268682,Newport
-3561,Bolt Street,Pillgwenlly,0.047082213,Newport
-3562,Bolton Road,Allt-yr-yn,0.1468807,Newport
-3563,Boswell Close,Gaer,0.001808714,Newport
-3564,Bosworth Drive,Allt-yr-yn,0.313729232,Newport
-3565,Boyle Close,Malpas,0.172090786,Newport
-3566,Brain Close,Ringland,0.102308423,Newport
-3567,Bramley Close,Langstone,0.19327875,Newport
-3568,Brangwyn Crescent,Beechwood,0.246826858,Newport
-3569,Britten Close,Alway,0.008808167,Newport
-3570,Broad Quay Road,Nash,0.083266742,Newport
-3571,Broad Street,Pillgwenlly,0.027920545,Newport
-3572,Broadcommon Close,Liswerry,0.319439321,Newport
-3573,Broadleaf Way,Allt-yr-yn,0.00012,Newport
-3574,Broadmead Park,Liswerry,0.192604988,Newport
-3575,Broadwater Road,Liswerry,0.130711712,Newport
-3576,Broadwood Close,Ringland,0.19391842,Newport
-3577,Bronllys Grove,Coedkernew,0.04232125,Newport
-3578,Bronllys Mews,Coedkernew,0.034336,Newport
-3579,Bronte Grove,Gaer,0.18758588,Newport
-3580,Brookfield Close,Liswerry,0.087202382,Newport
-3581,Brookside,Bettws,0.041248703,Newport
-3582,Brown Close,Liswerry,0.22664895,Newport
-3583,Browning Close,Gaer,0.04353625,Newport
-3584,Brunel Street,Pillgwenlly,0.036696188,Newport
-3585,Bryn Hedydd,Graig,0.522596968,Newport
-3586,Bryngwyn Road,Allt-yr-yn,0.160151898,Newport
-3587,Buchan Close,Gaer,0.117373333,Newport
-3588,Buchanan Way,Coedkernew,0.1200729,Newport
-3589,Buckingham Crescent,Beechwood,0.217107353,Newport
-3590,Buckingham Place,Beechwood,0.381772333,Newport
-3591,Builth Close,Coedkernew,0.07846,Newport
-3592,Burberry Close,Graig,0.131670857,Newport
-3593,Burleigh Road,Allt-yr-yn,0.1789389,Newport
-3594,Burnfort Road,Gaer,0.0679505,Newport
-3595,Burns Close,Gaer,0.255020269,Newport
-3596,Burton Road,Beechwood,0.074693981,Newport
-3597,Buttercup Close,Graig,0.068348313,Newport
-3598,Buttermere Way,Beechwood,0.250465175,Newport
-3599,Butterworth Close,Ringland,0.082838917,Newport
-3600,Buxton Close,Gaer,0.1235385,Newport
-3601,Byrde Close,Alway,0.172646077,Newport
-3602,Byron Road,Gaer,0.141796765,Newport
-3603,Cae Brynton Road,Gaer,0.293171132,Newport
-3604,Cae Perllan Road,Gaer,0.147443708,Newport
-3605,Caerau Crescent,Allt-yr-yn,0.300993885,Newport
-3606,Caerau Road,Allt-yr-yn,0.115536065,Newport
-3607,Caerleon Road,Beechwood,0.313164845,Newport
-3608,Caerlicken Lane,Langstone,0.635546329,Newport
-3609,Caernarvon Drive,Graig,0.310945371,Newport
-3610,Caerphilly Close,Graig,0.250244992,Newport
-3611,Caerphilly Road,Graig,0.322648545,Newport
-3612,Caldicot Street,Liswerry,0.062650867,Newport
-3613,Caldy Close,Beechwood,0.215354643,Newport
-3614,Camellia Avenue,Graig,0.202368274,Newport
-3615,Campanula Drive,Graig,0.185772014,Newport
-3616,Camperdown Road,Liswerry,0.083480367,Newport
-3617,Campion Close,Allt-yr-yn,0.075478563,Newport
-3618,Canal Terrace,Pillgwenlly,0.053909333,Newport
-3619,Canberra Crescent,Allt-yr-yn,0.284493608,Newport
-3620,Capel Close,Pillgwenlly,0.01877,Newport
-3621,Capel Crescent,Pillgwenlly,0.115196746,Newport
-3622,Capel Dewi Hall Road,Pillgwenlly,0.00012,Newport
-3623,Cardiff Road,Coedkernew,0.235452112,Newport
-3624,Cardiff Road,Gaer,0.148804721,Newport
-3625,Cardiff Road,Pillgwenlly,0.220571496,Newport
-3626,Cardigan Place,Beechwood,0.1575816,Newport
-3627,Carey Road,Alway,0.0198593,Newport
-3628,Carisbrooke Road,Beechwood,0.017648583,Newport
-3629,Carlisle Street,Pillgwenlly,0.026130038,Newport
-3630,Carpenter Close,Langstone,0.424651306,Newport
-3631,Cartwright Green,Malpas,0.075786538,Newport
-3632,Castell Coch Drive,Coedkernew,0.095814763,Newport
-3633,Castle Park Close,Gaer,0.110802952,Newport
-3634,Castle Park Road,Gaer,0.166402344,Newport
-3635,Castle Street,Pillgwenlly,0.01643025,Newport
-3636,Caswell Way,Liswerry,0.254737346,Newport
-3637,Catalpa Close,Malpas,0.135083,Newport
-3638,Cats Ash Road,Langstone,0.40403923,Newport
-3639,Catsash Road,Caerleon,0.690169063,Newport
-3640,Cecil Sharp Road,Ringland,0.0285177,Newport
-3641,Celtic Way,Coedkernew,0.047065664,Newport
-3642,Central Avenue,Liswerry,0.181995008,Newport
-3643,Chadwick Close,Malpas,0.267349188,Newport
-3644,Channel View,Graig,0.135520917,Newport
-3645,Chapel Terrace,Graig,0.202781528,Newport
-3646,Chapman Close,Malpas,0.332259393,Newport
-3647,Charlotte Green,Pillgwenlly,0.140585767,Newport
-3648,Charlotte Walk,Pillgwenlly,0.050228188,Newport
-3649,Chaucer Road,Beechwood,0.144895066,Newport
-3650,Chelmer Close,Bettws,0.112942556,Newport
-3651,Chepstow Road,Alway,0.051340693,Newport
-3652,Chepstow Road,Beechwood,0.070988612,Newport
-3653,Chepstow Road,Langstone,0.424771326,Newport
-3654,Chepstow Road,Ringland,0.20477278,Newport
-3655,Cherry Tree Close,Langstone,0.1983293,Newport
-3656,Cherry Tree Close,Malpas,0.154157875,Newport
-3657,Chiltern Close,Ringland,0.12851275,Newport
-3658,Chirk Close,Coedkernew,0.171397313,Newport
-3659,Christchurch Hill,Caerleon,0.542335354,Newport
-3660,Christchurch Road,Alway,0.206667125,Newport
-3661,Christchurch Road,Beechwood,0.190041618,Newport
-3662,Christchurch Road,Caerleon,0.449988427,Newport
-3663,Church Court,Beechwood,0.2105063,Newport
-3664,Church Crescent,Graig,0.172002658,Newport
-3665,Church Farm Close,Bettws,0.45687725,Newport
-3666,Church Street,Pillgwenlly,0.080270217,Newport
-3667,Church View,Graig,0.151784,Newport
-3668,Churchmead,Graig,0.383941389,Newport
-3669,Churchward Drive,Liswerry,0.176939152,Newport
-3670,Claremont,Malpas,0.169492213,Newport
-3671,Clarence Street,Pillgwenlly,0.01426834,Newport
-3672,Clearwater Road,Liswerry,0.341560944,Newport
-3673,Clearwell Court,Graig,0.3282883,Newport
-3674,Clement Atlee Drive,Ringland,0.250291565,Newport
-3675,Cleppa Park,Coedkernew,0.347699549,Newport
-3676,Clevedon Road,Beechwood,0.215831775,Newport
-3677,Clewer Court,Allt-yr-yn,0.296472978,Newport
-3678,Clist Road,Bettws,0.091599045,Newport
-3679,Clos Carno,Bettws,0.199992944,Newport
-3680,Clos Ennig,Bettws,0.060864667,Newport
-3681,Clydach Close,Bettws,0.260554773,Newport
-3682,Clyffard Crescent,Allt-yr-yn,0.1206665,Newport
-3683,Clytha Crescent,Pillgwenlly,0.074554269,Newport
-3684,Clytha Park Road,Allt-yr-yn,0.257566369,Newport
-3685,Coleridge Road,Alway,0.000112,Newport
-3686,Coleridge Road,Beechwood,0.073108,Newport
-3687,Collingwood Avenue,Liswerry,0.144291321,Newport
-3688,Collingwood Close,Liswerry,0.0115365,Newport
-3689,Collingwood Crescent,Liswerry,0.106704868,Newport
-3690,Collingwood Road,Liswerry,0.092617,Newport
-3691,Collins Close,Gaer,0.20192825,Newport
-3692,Colston Avenue,Liswerry,0.063536882,Newport
-3693,Colston Court,Liswerry,0.085272,Newport
-3694,Colston Place,Liswerry,0.040104917,Newport
-3695,Colts Foot Close,Allt-yr-yn,0.263711667,Newport
-3696,Comfrey Close,Allt-yr-yn,0.183266774,Newport
-3697,Commercial Road,Pillgwenlly,0.027065923,Newport
-3698,Constable Drive,Beechwood,0.147113411,Newport
-3699,Constables Close,Pillgwenlly,0.069148,Newport
-3700,Conway Court,Alway,0.034585,Newport
-3701,Conway Croft,Alway,0.156616853,Newport
-3702,Conway Grove,Coedkernew,0.113155031,Newport
-3703,Conway Road,Alway,0.035755669,Newport
-3704,Conway Road,Beechwood,0.020107288,Newport
-3705,Conway Sac,Alway,0.09121,Newport
-3706,Coolgreany Close,Malpas,0.174856769,Newport
-3707,Coolgreany Crescent,Malpas,0.10212325,Newport
-3708,Coomassie Street,Pillgwenlly,0.109042429,Newport
-3709,Cooper Close,Langstone,0.349074778,Newport
-3710,Coriander Close,Allt-yr-yn,0.167535667,Newport
-3711,Cornbrook Road,Bettws,0.095606218,Newport
-3712,Corporation Road,Liswerry,0.151874481,Newport
-3713,Corporation Road,Nash,0.415916694,Newport
-3714,Cot Farm Circle,Ringland,0.10129713,Newport
-3715,Cot Farm Close,Ringland,0.033870944,Newport
-3716,Cotman Close,Beechwood,0.211781632,Newport
-3717,Cotswold Close,Ringland,0.055865036,Newport
-3718,Cotswold Way,Ringland,0.180866806,Newport
-3719,Coulson Close,Pillgwenlly,0.010352083,Newport
-3720,Court Crescent,Graig,0.226848846,Newport
-3721,Court Meadow,Langstone,0.221735979,Newport
-3722,Court View,Langstone,0.327054885,Newport
-3723,Courtybella Terrace,Pillgwenlly,0.260411338,Newport
-3724,Cowper Close,Gaer,0.239511036,Newport
-3725,Cowshed Lane,Graig,0.374802306,Newport
-3726,Crescent Road,Beechwood,0.101956838,Newport
-3727,Criccieth Close,Coedkernew,0.057331333,Newport
-3728,Cromwell Road,Liswerry,0.038318918,Newport
-3729,Crouch Close,Bettws,0.147317368,Newport
-3730,Cunningham Road,Ringland,0.081526932,Newport
-3731,Curie Close,Malpas,0.128241333,Newport
-3732,Cwm Cwddy Drive,Graig,0.278451095,Newport
-3733,Cwm Dylan Close,Graig,0.187815409,Newport
-3734,Daffodil Lane,Graig,0.18189082,Newport
-3735,Dale Road,Ringland,0.0222396,Newport
-3736,Daniel Place,Pillgwenlly,0.340180056,Newport
-3737,Darent Close,Bettws,0.12083387,Newport
-3738,Darent Road,Bettws,0.044655409,Newport
-3739,Dart Road,Bettws,0.140448276,Newport
-3740,Darwin Drive,Malpas,0.101465093,Newport
-3741,David Close,Pillgwenlly,0.086923313,Newport
-3742,Davy Close,Malpas,0.14001575,Newport
-3743,Dawson Close,Ringland,0.04926318,Newport
-3744,Delius Close,Alway,0.117981,Newport
-3745,Delphinium Road,Graig,0.177346,Newport
-3746,Dents Close,Alway,0.13220225,Newport
-3747,Dents Hill,Alway,0.375747522,Newport
-3748,Dents Hill,Ringland,0.443921,Newport
-3749,Derby Grove,Liswerry,0.09752055,Newport
-3750,Derwent Court,Bettws,0.124016891,Newport
-3751,Devon Place,Allt-yr-yn,0.19268465,Newport
-3752,Dewberry Grove,Graig,0.17140412,Newport
-3753,Dewstow Street,Liswerry,0.044963,Newport
-3754,Dibdin Close,Ringland,0.058458682,Newport
-3755,Dickens Drive,Gaer,0.143939692,Newport
-3756,Docks Way,Gaer,0.333476015,Newport
-3757,Docks Way,Pillgwenlly,0.273598789,Newport
-3758,Dolphin Street,Pillgwenlly,0.029630048,Newport
-3759,Don Close,Bettws,0.3554225,Newport
-3760,Dorset Close,Liswerry,0.215467417,Newport
-3761,Dorset Crescent,Liswerry,0.064637061,Newport
-3762,Dowland Close,Ringland,0.154310357,Newport
-3763,Downing Street,Liswerry,0.008243789,Newport
-3764,Downton Hall Close,Pillgwenlly,0.00012,Newport
-3765,Drake Close,Ringland,0.100850667,Newport
-3766,Drinkwater Close,Gaer,0.064387722,Newport
-3767,Drinkwater Gardens,Gaer,0.165143085,Newport
-3768,Drinkwater Rise,Gaer,0.07706545,Newport
-3769,Drinkwater View,Gaer,0.0604796,Newport
-3770,Drovers Mews,Pillgwenlly,0.1705213,Newport
-3771,Dudley Street,Liswerry,0.014033917,Newport
-3772,Duffryn Close,Graig,0.14340175,Newport
-3773,Duffryn Drive,Coedkernew,0.6936583,Newport
-3774,Duffryn Lane,Coedkernew,0.024711,Newport
-3775,Duke Street,Pillgwenlly,0.014945071,Newport
-3776,Dunraven Drive,Coedkernew,0.130677212,Newport
-3777,Dunstable Road,Ringland,0.169146565,Newport
-3778,East Bank Road,Nash,0.052119788,Newport
-3779,East Dock Road,Pillgwenlly,0.135043094,Newport
-3780,East Grove Road,Alway,0.112947946,Newport
-3781,East Market Street,Pillgwenlly,0.043100067,Newport
-3782,East Way Road,Pillgwenlly,0.103722572,Newport
-3783,Eastmoor Road,Liswerry,0.166129739,Newport
-3784,Edison Ridge,Malpas,0.200120886,Newport
-3785,Edward German Crescent,Ringland,0.07558242,Newport
-3786,Edward VII Avenue,Allt-yr-yn,0.328971341,Newport
-3787,Edward VII Crescent,Allt-yr-yn,0.251938091,Newport
-3788,Eisteddfod Walk,Ringland,0.52283825,Newport
-3789,Elan Close,Bettws,0.193579196,Newport
-3790,Elgar Avenue,Alway,0.149530702,Newport
-3791,Elgar Circle,Alway,0.117139243,Newport
-3792,Elgar Close,Alway,0.172792587,Newport
-3793,Elm Grove,Malpas,0.133113533,Newport
-3794,Enterprise Way,Pillgwenlly,0.153205471,Newport
-3795,Enville Close,Allt-yr-yn,0.120429333,Newport
-3796,Enville Road,Allt-yr-yn,0.229277955,Newport
-3797,Eric Coates Close,Ringland,0.187670429,Newport
-3798,Eschol Close,Liswerry,0.063390357,Newport
-3799,Esperanto Way,Liswerry,0.106157261,Newport
-3800,Estuary Road,Liswerry,0.244171808,Newport
-3801,Evesham Court,Allt-yr-yn,0.39667575,Newport
-3802,Eveswell Court,Beechwood,0.044753462,Newport
-3803,Eveswell Park Road,Beechwood,0.294165535,Newport
-3804,Eveswell Street,Beechwood,0.024637567,Newport
-3805,Exe Road,Bettws,0.118941321,Newport
-3806,Factory Road,Allt-yr-yn,0.125918716,Newport
-3807,Fairfax Close,Liswerry,0.039907313,Newport
-3808,Fairfax Road,Liswerry,0.033314636,Newport
-3809,Fairoak Grove,Graig,0.0735735,Newport
-3810,Fallowfield Drive,Liswerry,0.116973321,Newport
-3811,Faraday Close,Malpas,0.138500267,Newport
-3812,Farmwood Close,Alway,0.136194239,Newport
-3813,Farnaby Close,Ringland,0.189536977,Newport
-3814,Farriers Gate,Graig,0.172880115,Newport
-3815,Faulkner Road,Allt-yr-yn,0.221214433,Newport
-3816,Fenner Brockway Close,Ringland,0.113914333,Newport
-3817,Fern Rise,Malpas,0.12186913,Newport
-3818,Fernside,Liswerry,0.035997222,Newport
-3819,Fforest Glade,Beechwood,0.302862883,Newport
-3820,Ffos-y-Fran,Graig,0.215717608,Newport
-3821,Ffos-y-Fran Close,Graig,0.23644,Newport
-3822,Fields Park Avenue,Allt-yr-yn,0.300094907,Newport
-3823,Fields Park Crescent,Allt-yr-yn,0.298897556,Newport
-3824,Fields Park Gardens,Allt-yr-yn,0.181714,Newport
-3825,Fields Park Lane,Allt-yr-yn,0.5011905,Newport
-3826,Fields Park Road,Allt-yr-yn,0.163475462,Newport
-3827,Fields Road,Allt-yr-yn,0.174775063,Newport
-3828,Firbank Avenue,Beechwood,0.230520095,Newport
-3829,Firbank Crescent,Beechwood,0.053191077,Newport
-3830,Fisher Close,Ringland,0.084960792,Newport
-3831,Fleetwood Close,Liswerry,0.118629714,Newport
-3832,Fleming Close,Malpas,0.338481731,Newport
-3833,Flint Close,Beechwood,0.196663933,Newport
-3834,Ford Farm Lane,Langstone,0.338787222,Newport
-3835,Forest Close,Beechwood,0.110945184,Newport
-3836,Forge Lane,Graig,0.480481034,Newport
-3837,Forge Mews,Graig,0.414799833,Newport
-3838,Forge Road,Graig,0.338997625,Newport
-3839,Fort View,Graig,0.18373769,Newport
-3840,Fosse Close,Liswerry,0.1712925,Newport
-3841,Fosse Road,Liswerry,0.142131904,Newport
-3842,Foxwood Close,Graig,0.190236364,Newport
-3843,Francis Drive,Pillgwenlly,0.015366857,Newport
-3844,Francis Street,Pillgwenlly,0.0222843,Newport
-3845,Fred Edwards Close,Ringland,0.0736015,Newport
-3846,Frederick Mews,Pillgwenlly,0.0789187,Newport
-3847,Frederick Street,Pillgwenlly,0.153140885,Newport
-3848,Freshwater Road,Liswerry,0.24312425,Newport
-3849,Frobisher Road,Liswerry,0.072623531,Newport
-3850,Frome Walk,Bettws,0.0543581,Newport
-3851,Gaer Park Avenue,Gaer,0.058373442,Newport
-3852,Gaer Park Drive,Gaer,0.059673814,Newport
-3853,Gaer Park Hill,Gaer,0.076759543,Newport
-3854,Gaer Park Lane,Allt-yr-yn,0.143047,Newport
-3855,Gaer Park Lane,Gaer,0.1789435,Newport
-3856,Gaer Park Parade,Gaer,0.112546269,Newport
-3857,Gaer Park Road,Gaer,0.046950848,Newport
-3858,Gaer Road,Gaer,0.214265429,Newport
-3859,Gaer Vale,Gaer,0.195339559,Newport
-3860,Gainsborough Drive,Beechwood,0.233013262,Newport
-3861,Garth Close,Graig,0.09458275,Newport
-3862,Garth Terrace,Graig,0.299125625,Newport
-3863,Gaskell Street,Liswerry,0.035448739,Newport
-3864,George Lansbury Drive,Ringland,0.170976385,Newport
-3865,George Street,Pillgwenlly,0.001628875,Newport
-3866,George Street Bridge,Pillgwenlly,0.049345125,Newport
-3867,Gerbera Drive,Graig,0.122341917,Newport
-3868,Gibbons Close,Alway,0.0076545,Newport
-3869,Gibbs Road,Alway,0.104727315,Newport
-3870,Gibbs Road,Beechwood,0.361848,Newport
-3871,Glanmor Crescent,Alway,0.183386088,Newport
-3872,Glanmor Park Avenue,Alway,0.112954391,Newport
-3873,Glanwern Avenue,Alway,0.075538078,Newport
-3874,Glanwern Avenue,Ringland,0.166179346,Newport
-3875,Glanwern Close,Alway,0.0145825,Newport
-3876,Glanwern Drive,Alway,0.086141188,Newport
-3877,Glanwern Grove,Alway,0.02180835,Newport
-3878,Glanwern Rise,Alway,0.367278791,Newport
-3879,Glasllwch Crescent,Allt-yr-yn,0.162334953,Newport
-3880,Glasllwch Crescent,Rogerstone,0.0449915,Newport
-3881,Glasllwch Lane,Allt-yr-yn,0.641808958,Newport
-3882,Glebe Gardens,Graig,0.256605643,Newport
-3883,Gloch Wen Close,Graig,0.0767854,Newport
-3884,Godfrey Road,Allt-yr-yn,0.214978122,Newport
-3885,Gold Tops,Allt-yr-yn,0.221322973,Newport
-3886,Goldsmith Close,Gaer,0.237269083,Newport
-3887,Goodrich Grove,Coedkernew,0.105358033,Newport
-3888,Goossens Close,Ringland,0.179786042,Newport
-3889,Goya Close,Beechwood,0.280435444,Newport
-3890,Graham Bell Close,Malpas,0.146990813,Newport
-3891,Graig Close,Graig,0.134497708,Newport
-3892,Graig Park Avenue,Malpas,0.081412895,Newport
-3893,Graig Park Circle,Malpas,0.068026169,Newport
-3894,Graig Park Hill,Malpas,0.078990969,Newport
-3895,Graig Park Lane,Malpas,0.044293,Newport
-3896,Graig Park Parade,Malpas,0.039790923,Newport
-3897,Graig Park Road,Malpas,0.093184415,Newport
-3898,Graig Park Villas,Malpas,0.053333929,Newport
-3899,Graig Wood Close,Malpas,0.194454074,Newport
-3900,Grange Court,Gaer,0.1001825,Newport
-3901,Greene Close,Ringland,0.077752615,Newport
-3902,Greenmeadow Avenue,Liswerry,0.105801795,Newport
-3903,Greenmeadow Road,Liswerry,0.119512271,Newport
-3904,Greenwich Road,Pillgwenlly,0.270947219,Newport
-3905,Grenadier Drive,Langstone,0.122916265,Newport
-3906,Grosmont Way,Coedkernew,0.092739595,Newport
-3907,Grosvenor Road,Graig,0.206813216,Newport
-3908,Grove Park Drive,Malpas,0.284936452,Newport
-3909,Groves Road,Allt-yr-yn,0.157668272,Newport
-3910,Gwenddwr Grange Close,Pillgwenlly,0.00012,Newport
-3911,Haldane Place,Malpas,0.092592976,Newport
-3912,Halle Close,Ringland,0.037520333,Newport
-3913,Hamilton Street,Liswerry,0.063128636,Newport
-3914,Hammond Drive,Liswerry,0.073329304,Newport
-3915,Hampden Court,Liswerry,0.082327375,Newport
-3916,Hampden Road,Liswerry,0.122371771,Newport
-3917,Hampshire Avenue,Liswerry,0.05184454,Newport
-3918,Hampshire Close,Liswerry,0.198318929,Newport
-3919,Hampshire Crescent,Liswerry,0.056444424,Newport
-3920,Handel Close,Ringland,0.055928692,Newport
-3921,Handsworth Street,Liswerry,0.07412965,Newport
-3922,Harding Avenue,Malpas,0.202972867,Newport
-3923,Hardy Close,Gaer,0.255365208,Newport
-3924,Hargreaves Drive,Malpas,0.322420393,Newport
-3925,Harlech Drive,Graig,0.179512964,Newport
-3926,Harlequin Court,Allt-yr-yn,0.078406,Newport
-3927,Harlequin Drive,Allt-yr-yn,0.1606,Newport
-3928,Hartridge Farm Road,Llanwern,0.660622875,Newport
-3929,Hartridge Farm Road,Ringland,0.561658214,Newport
-3930,Harvey Close,Malpas,0.164639773,Newport
-3931,Hathaway Street,Liswerry,0.067647773,Newport
-3932,Hatherleigh,Alway,0.179733333,Newport
-3933,Hawarden Road,Alway,0.02233824,Newport
-3934,Hawke Close,Ringland,0.035326929,Newport
-3935,Hawkins Crescent,Ringland,0.071453707,Newport
-3936,Hawksworth Grove,Liswerry,0.164208167,Newport
-3937,Hawthorn Avenue,Alway,0.191695745,Newport
-3938,Hawthorne Fosse,Alway,0.240851222,Newport
-3939,Hawthorne Square,Alway,0.110089722,Newport
-3940,Hayling Close,Beechwood,0.17622275,Newport
-3941,Haynes Court,Pillgwenlly,0.134705667,Newport
-3942,Hazell Drive,Coedkernew,0.112248946,Newport
-3943,Hazlitt Close,Gaer,0.216214063,Newport
-3944,Heath Close,Liswerry,0.21661425,Newport
-3945,Heather Road,Beechwood,0.171734676,Newport
-3946,Heidenheim Drive,Allt-yr-yn,0.460604667,Newport
-3947,Helford Square,Bettws,0.055764056,Newport
-3948,Hendre Farm Court,Ringland,0.3400961,Newport
-3949,Hendre Farm Drive,Ringland,0.128762258,Newport
-3950,Hendre Farm Gardens,Ringland,0.26787625,Newport
-3951,Henry Wood Close,Alway,0.08338458,Newport
-3952,Henry Wood Walk,Alway,0.111458885,Newport
-3953,Henson Street,Liswerry,0.186214944,Newport
-3954,Heol Senni,Bettws,0.151832767,Newport
-3955,Herbert Street,Pillgwenlly,0.159153722,Newport
-3956,Herbert Walk,Pillgwenlly,0.209583365,Newport
-3957,Hertford Place,Beechwood,0.110354808,Newport
-3958,Highcroft Road,Allt-yr-yn,0.157745917,Newport
-3959,Highfield Gardens,Graig,0.151570594,Newport
-3960,Highfield Lane,Graig,0.565113688,Newport
-3961,Highfield Road,Gaer,0.096736405,Newport
-3962,Highfield Road,Graig,0.222517464,Newport
-3963,Hilla Road,Allt-yr-yn,0.12776855,Newport
-3964,Hillside Gardens,Gaer,0.115353056,Newport
-3965,Hillview Crescent,Liswerry,0.140734493,Newport
-3966,Hobart Close,Allt-yr-yn,0.25772135,Newport
-3967,Hogarth Close,Beechwood,0.112090962,Newport
-3968,Holbein Road,Beechwood,0.336391846,Newport
-3969,Hollybush Avenue,Malpas,0.148937415,Newport
-3970,Hollybush Close,Malpas,0.128014778,Newport
-3971,Holst Close,Ringland,0.039942231,Newport
-3972,Hood Road,Ringland,0.099641875,Newport
-3973,Horrocks Close,Malpas,0.320606533,Newport
-3974,Hove Avenue,Beechwood,0.11676645,Newport
-3975,Howard Close,Ringland,0.117998286,Newport
-3976,Howe Circle,Ringland,0.057431379,Newport
-3977,Humber Close,Bettws,0.144362944,Newport
-3978,Humber Road,Bettws,0.099067924,Newport
-3979,Huxley Green,Malpas,0.06456915,Newport
-3980,Ifton Place,Liswerry,0.104100306,Newport
-3981,Ifton Street,Liswerry,0.015381861,Newport
-3982,Imperial Way,Coedkernew,0.3736189,Newport
-3983,Itchen Close,Bettws,0.052647,Newport
-3984,Itchen Road,Bettws,0.207346304,Newport
-3985,Ivy Road,Allt-yr-yn,0.0607495,Newport
-3986,Jamaica Circle,Coedkernew,0.085853386,Newport
-3987,Jamaica Close,Coedkernew,0.063800833,Newport
-3988,Jamaica Drive,Coedkernew,0.125450429,Newport
-3989,Jamaica Gardens,Coedkernew,0.0137005,Newport
-3990,Jamaica Grove,Coedkernew,0.059435675,Newport
-3991,James Street,Pillgwenlly,0.056828321,Newport
-3992,Jane Austen Close,Gaer,0.233267923,Newport
-3993,Japonica Close,Malpas,0.204845458,Newport
-3994,Jasmine Close,Graig,0.14071365,Newport
-3995,Jeans Close,Malpas,0.1607195,Newport
-3996,Jeddo Close,Pillgwenlly,0.241497107,Newport
-3997,Jeddo Street,Pillgwenlly,0.29397615,Newport
-3998,Jellicoe Close,Ringland,0.210311333,Newport
-3999,Jenkins Street,Liswerry,0.043733438,Newport
-4000,John Bull Close,Ringland,0.108360375,Newport
-4001,John Ireland Close,Alway,0.069452135,Newport
-4002,John Street,Pillgwenlly,0.045931636,Newport
-4003,Joyce Close,Gaer,0.1000901,Newport
-4004,Keats Close,Gaer,0.347941469,Newport
-4005,Keene Street,Liswerry,0.074613636,Newport
-4006,Kelly Road,Beechwood,0.153956237,Newport
-4007,Kelvin Close,Malpas,0.274826368,Newport
-4008,Kenilworth Road,Alway,0.013961324,Newport
-4009,Kensington Gardens,Beechwood,0.2723375,Newport
-4010,Kensington Grove,Beechwood,0.047567438,Newport
-4011,Kensington Place,Beechwood,0.276411221,Newport
-4012,Kidwelly Close,Coedkernew,0.0800085,Newport
-4013,Kier Hardie Crescent,Ringland,0.095453311,Newport
-4014,Kier Hardie Drive,Ringland,0.18067086,Newport
-4015,King's Acre,Allt-yr-yn,0.2793666,Newport
-4016,King's Parade,Pillgwenlly,0.063449741,Newport
-4017,Kipling Hill,Gaer,0.224694329,Newport
-4018,Kirby Daniel Court,Pillgwenlly,0.072065643,Newport
-4019,Kirby Lane,Pillgwenlly,0.2680966,Newport
-4020,Kitty Hawk Drive,Liswerry,0.386899081,Newport
-4021,Laburnham Bush Lane,Liswerry,0.068206556,Newport
-4022,Laburnum Drive,Alway,0.235133375,Newport
-4023,Ladyhill Court,Alway,0.04471835,Newport
-4024,Ladyhill Gardens,Alway,0.187425167,Newport
-4025,Ladyhill Green,Alway,0.022023667,Newport
-4026,Ladyhill Road,Alway,0.163167409,Newport
-4027,Lake Road,Liswerry,0.1415244,Newport
-4028,Lakeside Drive,Coedkernew,0.215890848,Newport
-4029,Lamb Close,Gaer,0.149946364,Newport
-4030,Lambert Close,Allt-yr-yn,0.2711818,Newport
-4031,Lambourne Crescent,Bettws,0.152494186,Newport
-4032,Lambourne Walk,Bettws,0.248833808,Newport
-4033,Lambourne Way,Bettws,0.20814182,Newport
-4034,Landseer Close,Beechwood,0.363289615,Newport
-4035,Langland Way,Liswerry,0.157167705,Newport
-4036,Langstone Court Road,Langstone,0.707350409,Newport
-4037,Langstone Rise,Langstone,0.23330325,Newport
-4038,Lansdowne Road,Gaer,0.087574745,Newport
-4039,Larch Court,Malpas,0.375316727,Newport
-4040,Larch Grove,Malpas,0.136997946,Newport
-4041,Laurel Crescent,Malpas,0.174500981,Newport
-4042,Laurel Drive,Graig,0.163369625,Newport
-4043,Laurel Road,Graig,0.208143902,Newport
-4044,Lavender Way,Graig,0.122620563,Newport
-4045,Lavery Close,Beechwood,0.111324545,Newport
-4046,Lawrence Hill,Alway,0.330562617,Newport
-4047,Lawrence Hill Avenue,Alway,0.119102855,Newport
-4048,Lea Close,Bettws,0.105877481,Newport
-4049,Leach Road,Bettws,0.463791883,Newport
-4050,Lee Way,Liswerry,0.069933631,Newport
-4051,Leeway Court,Liswerry,0.049023773,Newport
-4052,Lewis Close,Pillgwenlly,0.165973045,Newport
-4053,Libeneth Road,Alway,0.319393664,Newport
-4054,Liberty Grove,Liswerry,0.239042652,Newport
-4055,Lilac Grove,Graig,0.294410214,Newport
-4056,Lilburne Drive,Liswerry,0.21017931,Newport
-4057,Lilleshall Street,Liswerry,0.166658391,Newport
-4058,Lime Close,Pillgwenlly,0.0272995,Newport
-4059,Lime Crescent,Alway,0.13208994,Newport
-4060,Lincoln Close,Beechwood,0.122768583,Newport
-4061,Lindbergh Close,Liswerry,0.1402475,Newport
-4062,Linden Road,Alway,0.20331312,Newport
-4063,Linley Close,Ringland,0.154055714,Newport
-4064,Linton Street,Pillgwenlly,0.018716222,Newport
-4065,Liscombe Street,Liswerry,0.037485289,Newport
-4066,Lister Green,Malpas,0.091561444,Newport
-4067,Liswerry Park Drive,Alway,0.208005089,Newport
-4068,Liswerry Road,Alway,0.139017451,Newport
-4069,Liswerry Road,Liswerry,0.109030371,Newport
-4070,Livale Close,Bettws,0.218777714,Newport
-4071,Livale Court,Bettws,0.0978762,Newport
-4072,Livale Road,Bettws,0.152424,Newport
-4073,Llanberis Close,Graig,0.181095583,Newport
-4074,Llanidloes Mews,Coedkernew,0.010805333,Newport
-4075,Llanover Close,Malpas,0.227459405,Newport
-4076,Llanthewy Road,Allt-yr-yn,0.141399098,Newport
-4077,Llanwern Road,Ringland,0.212102385,Newport
-4078,Llewellyn Grove,Malpas,0.103241,Newport
-4079,Llewellyn Street,Alway,0.009942143,Newport
-4080,Llewellyn Walk,Malpas,0.071505423,Newport
-4081,Lloyd Street,Liswerry,0.015166457,Newport
-4082,Llwyn Deri Close,Graig,0.202265417,Newport
-4083,Llwynderi Road,Allt-yr-yn,0.122923158,Newport
-4084,Locke Street,Allt-yr-yn,0.008649295,Newport
-4085,Lodden Close,Bettws,0.1620577,Newport
-4086,Longditch Lane,Liswerry,0.2271328,Newport
-4087,Longtown Grove,Coedkernew,0.106540932,Newport
-4088,Lower Dock Street,Pillgwenlly,0.060052606,Newport
-4089,Lower George Street,Pillgwenlly,0.066645167,Newport
-4090,Lowndes Close,Graig,0.2051245,Newport
-4091,Lucas Street,Allt-yr-yn,0.013730447,Newport
-4092,Ludlow Close,Liswerry,0.0884175,Newport
-4093,Lundy Drive,Beechwood,0.114769667,Newport
-4094,Lyndhurst Avenue,Gaer,0.099335189,Newport
-4095,Lysaght Avenue,Liswerry,0.001907185,Newport
-4096,Lysaght Circle,Liswerry,0.032125875,Newport
-4097,Lysaght Way,Liswerry,0.00338985,Newport
-4098,Macaulay Gardens,Gaer,0.05166725,Newport
-4099,Maesglas Avenue,Gaer,0.068879051,Newport
-4100,Maesglas Close,Gaer,0.136013593,Newport
-4101,Maesglas Crescent,Gaer,0.038244826,Newport
-4102,Maesglas Grove,Gaer,0.102982951,Newport
-4103,Maesglas Road,Gaer,0.072767954,Newport
-4104,Maesglas Road,Pillgwenlly,0.44453425,Newport
-4105,Magnolia Close,Malpas,0.0887135,Newport
-4106,Magor Road,Langstone,0.3046761,Newport
-4107,Magor Street,Liswerry,0.020653529,Newport
-4108,Malcolm Sargent Close,Ringland,0.310419151,Newport
-4109,Malpas Road,Llantarnam,0.35546725,Newport
-4110,Malpas Road,Malpas,0.178659938,Newport
-4111,Malvern Close,Beechwood,0.201816364,Newport
-4112,Manley Road,Allt-yr-yn,0.195262375,Newport
-4113,Mansel Street,Alway,0.021438607,Newport
-4114,Maplewood,Langstone,0.0525304,Newport
-4115,Marayat Walk,Gaer,0.260765,Newport
-4116,Marconi Close,Malpas,0.4209027,Newport
-4117,Marigold Close,Graig,0.125023583,Newport
-4118,Mariner Way,Nash,0.171278029,Newport
-4119,Marion Place,Pillgwenlly,0.195216515,Newport
-4120,Marion Street,Pillgwenlly,0.340680068,Newport
-4121,Marlowe Gardens,Gaer,0.259993,Newport
-4122,Marshfield Street,Liswerry,0.01766255,Newport
-4123,Marston Court,Allt-yr-yn,0.125745667,Newport
-4124,Masefield Vale,Gaer,0.348204612,Newport
-4125,Maugham Close,Gaer,0.22480585,Newport
-4126,Meadow Close,Allt-yr-yn,0.00012,Newport
-4127,Meadowlands Drive,Graig,0.293738641,Newport
-4128,Meads Close,Liswerry,0.1049453,Newport
-4129,Medlock Close,Bettws,0.113214292,Newport
-4130,Medlock Crescent,Bettws,0.086144766,Newport
-4131,Medway Close,Bettws,0.14728025,Newport
-4132,Medway Court,Bettws,0.103547318,Newport
-4133,Medway Road,Bettws,0.101527957,Newport
-4134,Melbourne Way,Allt-yr-yn,0.224837412,Newport
-4135,Melfort Gardens,Gaer,0.298854346,Newport
-4136,Melfort Road,Gaer,0.132015458,Newport
-4137,Mendalgief Road,Pillgwenlly,0.10117734,Newport
-4138,Mendip Close,Ringland,0.058077464,Newport
-4139,Meon Close,Bettws,0.088068857,Newport
-4140,Meredith Close,Gaer,0.109725081,Newport
-4141,Merlin Crescent,Beechwood,0.228988667,Newport
-4142,Mill Heath,Bettws,0.193574238,Newport
-4143,Mill Lane,Langstone,0.726896813,Newport
-4144,Mill Parade,Pillgwenlly,0.102566913,Newport
-4145,Miller Close,Langstone,0.237323848,Newport
-4146,Milman Street,Pillgwenlly,0.066620176,Newport
-4147,Milner Street,Liswerry,0.075408173,Newport
-4148,Milton Close,Ringland,0.233584278,Newport
-4149,Milton Road,Beechwood,0.109233029,Newport
-4150,Mission Court,Pillgwenlly,0.046840674,Newport
-4151,Mole Close,Bettws,0.0794489,Newport
-4152,Monet Crescent,Beechwood,0.414294952,Newport
-4153,Monmouth Castle Drive,Pillgwenlly,0.003160936,Newport
-4154,Monmouth Drive,Beechwood,0.16151775,Newport
-4155,Monnow Walk,Bettws,0.098200011,Newport
-4156,Monnow Way,Bettws,0.109228052,Newport
-4157,Mons Close,Allt-yr-yn,0.185721324,Newport
-4158,Montgomery Road,Malpas,0.092421212,Newport
-4159,Montreal Close,Allt-yr-yn,0.218227136,Newport
-4160,Moore Crescent,Ringland,0.084091,Newport
-4161,Moorland Avenue,Liswerry,0.07949469,Newport
-4162,Moorland Gardens,Liswerry,0.185421889,Newport
-4163,Moorland Park,Liswerry,0.176505398,Newport
-4164,Morgraig Avenue,Coedkernew,0.198170056,Newport
-4165,Morlais Mews,Coedkernew,0.01527475,Newport
-4166,Morley Close,Ringland,0.06743,Newport
-4167,Morton Way,Gaer,0.19570275,Newport
-4168,Mount Bax,Alway,0.2885716,Newport
-4169,Mount Pleasant,Malpas,0.35646075,Newport
-4170,Mountbatten Close,Ringland,0.174506759,Newport
-4171,Mountjoy Place,Pillgwenlly,0.170639,Newport
-4172,Mountjoy Road,Pillgwenlly,0.072722583,Newport
-4173,Mountjoy Street,Pillgwenlly,0.087067643,Newport
-4174,Moxon Road,Malpas,0.173731194,Newport
-4175,Mulcaster Avenue,Liswerry,0.103605462,Newport
-4176,Munnings Drive,Beechwood,0.221372529,Newport
-4177,Myra Hess Close,Ringland,0.171731227,Newport
-4178,Myrtle Grove,Alway,0.182041875,Newport
-4179,Nant Coch Drive,Allt-yr-yn,0.240927868,Newport
-4180,Nantcoch Rise,Allt-yr-yn,0.251249292,Newport
-4181,Narbeth Close,Coedkernew,0.017032938,Newport
-4182,Nash Drive,Liswerry,0.199787909,Newport
-4183,Nash Grove,Liswerry,0.062218109,Newport
-4184,Nash Mead,Liswerry,0.293375573,Newport
-4185,Nash Road,Liswerry,0.230035237,Newport
-4186,Neath Abbey Grove,Pillgwenlly,0.00012,Newport
-4187,Nelson Drive,Ringland,0.085695849,Newport
-4188,Neston Road,Ringland,0.204801306,Newport
-4189,Neuadda Close,Graig,0.3106825,Newport
-4190,New Pastures,Gaer,0.10138012,Newport
-4191,New Quay Road,Nash,0.123217603,Newport
-4192,New Ruperra Street,Pillgwenlly,0.003391889,Newport
-4193,New Street,Pillgwenlly,0.001776091,Newport
-4194,Newman Close,Ringland,0.05991675,Newport
-4195,Newton Way,Malpas,0.225816091,Newport
-4196,Nidd Close,Bettws,0.220265275,Newport
-4197,Norfolk Road,Beechwood,0.106356769,Newport
-4198,North Lake Drive,Coedkernew,0.050027046,Newport
-4199,Northumberland Road,Beechwood,0.092238917,Newport
-4200,Oakfield Gardens,Allt-yr-yn,0.573301667,Newport
-4201,Oakfield Road,Allt-yr-yn,0.234451681,Newport
-4202,Oaklands Park Drive,Graig,0.102378122,Newport
-4203,Oaklands Road,Beechwood,0.468103208,Newport
-4204,Oakley Street,Liswerry,0.031218089,Newport
-4205,Oaks Close,Gaer,0.1523053,Newport
-4206,Ogmore Crescent,Bettws,0.221082167,Newport
-4207,Old Cardiff Road,Gaer,0.159183229,Newport
-4208,Old Castle Close,Coedkernew,0.072682333,Newport
-4209,Old Chepstow Road,Langstone,0.531889138,Newport
-4210,Old Hill,Caerleon,0.616498893,Newport
-4211,Old Hill Crescent,Caerleon,0.183604491,Newport
-4212,Old Langstone Court Road,Langstone,0.470243387,Newport
-4213,Old Roman Road,Langstone,0.621296773,Newport
-4214,Oliphant Circle,Malpas,0.224752637,Newport
-4215,Oliver Road,Liswerry,0.120166167,Newport
-4216,Ombersley Road,Allt-yr-yn,0.137813,Newport
-4217,Oswald Road,Pillgwenlly,0.065150091,Newport
-4218,Otter Close,Bettws,0.105350143,Newport
-4219,Oxford Street,Beechwood,0.069377214,Newport
-4220,Oxwich Grove,Coedkernew,0.0184613,Newport
-4221,Oystermouth Mews,Coedkernew,0.048269214,Newport
-4222,Oystermouth Way,Coedkernew,0.06006364,Newport
-4223,Palm Square,Alway,0.179172667,Newport
-4224,Pant Glas Court,Graig,0.332094714,Newport
-4225,Parfitt Street,Liswerry,0.068370375,Newport
-4226,Park Avenue,Gaer,0.109357196,Newport
-4227,Park Close,Gaer,0.498734222,Newport
-4228,Park Crescent,Gaer,0.155850096,Newport
-4229,Park Drive,Gaer,0.092119561,Newport
-4230,Park End,Langstone,0.158767519,Newport
-4231,Park Gardens,Gaer,0.16501725,Newport
-4232,Park View,Graig,0.211883768,Newport
-4233,Park View Gardens,Graig,0.182088152,Newport
-4234,Parkfield Place,Allt-yr-yn,0.116828118,Newport
-4235,Parkwood Drive,Graig,0.2117595,Newport
-4236,Parret Close,Bettws,0.156371386,Newport
-4237,Parret Road,Bettws,0.188687571,Newport
-4238,Parry Drive,Alway,0.134255085,Newport
-4239,Patti Close,Ringland,0.306183344,Newport
-4240,Pear Tree Lane,Liswerry,0.52303925,Newport
-4241,Pembroke Grove,Liswerry,0.060027281,Newport
-4242,Pen-y-bryn Close,Bettws,0.178606947,Newport
-4243,Pen y Groes Grove,Graig,0.149367192,Newport
-4244,Pencarn Avenue,Coedkernew,0.411079671,Newport
-4245,Pencarn Lane,Coedkernew,0.190645037,Newport
-4246,Pencarn Way,Coedkernew,0.502951,Newport
-4247,Penhow Mews,Coedkernew,0.075161375,Newport
-4248,Penkin Close,Alway,0.227881417,Newport
-4249,Penkin Hill,Alway,0.1130705,Newport
-4250,Penllyn Avenue,Allt-yr-yn,0.065573143,Newport
-4251,Pennard Close,Coedkernew,0.0206095,Newport
-4252,Penny Crescent,Malpas,0.260576959,Newport
-4253,Pensidan View,Graig,0.255618767,Newport
-4254,Pentonville,Allt-yr-yn,0.026295786,Newport
-4255,Pentre-poeth Close,Graig,0.206303421,Newport
-4256,Pentre-poeth Road,Graig,0.558003392,Newport
-4257,Pentre-tai Road,Graig,0.221721974,Newport
-4258,Pentwyn Lane,Bettws,0.536970489,Newport
-4259,Penylan Close,Graig,0.138087611,Newport
-4260,Penylan Road,Alway,0.113185444,Newport
-4261,Pepys Grove,Gaer,0.202013233,Newport
-4262,Petunia Walk,Graig,0.118511429,Newport
-4263,Picton Walk,Coedkernew,0.080247333,Newport
-4264,Pillmawr Circle,Malpas,0.130738727,Newport
-4265,Pillmawr Road,Malpas,0.21475453,Newport
-4266,Pilton Vale,Malpas,0.169633626,Newport
-4267,Pinewood Close,Malpas,0.237529115,Newport
-4268,Piper Close,Beechwood,0.146351235,Newport
-4269,Piper Close,Caerleon,0.229778,Newport
-4270,Playford Crescent,Ringland,0.100842203,Newport
-4271,Plym Walk,Bettws,0.199886222,Newport
-4272,Pontfaen Road,Liswerry,0.115044135,Newport
-4273,Poplar Road,Alway,0.1864029,Newport
-4274,Poppy Place,Graig,0.14494455,Newport
-4275,Port Road,Pillgwenlly,0.256497453,Newport
-4276,Portland Street,Pillgwenlly,0.108260092,Newport
-4277,Portskewett Street,Liswerry,0.041661271,Newport
-4278,Potter Street,Pillgwenlly,0.031032532,Newport
-4279,Pottery Road,Pillgwenlly,0.025282269,Newport
-4280,Pottery Terrace,Pillgwenlly,0.194388328,Newport
-4281,Powis Close,Coedkernew,0.126306844,Newport
-4282,Preston Avenue,Allt-yr-yn,0.139627329,Newport
-4283,Price Close,Pillgwenlly,0.20104655,Newport
-4284,Priestley Close,Gaer,0.146265611,Newport
-4285,Primrose Way,Graig,0.105571682,Newport
-4286,Priory Crescent,Langstone,0.160678652,Newport
-4287,Priory Drive,Langstone,0.378183558,Newport
-4288,Priory Gardens,Langstone,0.171416133,Newport
-4289,Priory Grove,Langstone,0.140729455,Newport
-4290,Priory View,Langstone,0.037706,Newport
-4291,Priory Way,Langstone,0.13811125,Newport
-4292,Purcell Square,Alway,0.1414905,Newport
-4293,Quantock Drive,Ringland,0.201940895,Newport
-4294,Quebec Close,Allt-yr-yn,0.239480333,Newport
-4295,Queen's Close,Allt-yr-yn,0.108489577,Newport
-4296,Queen's Croft,Allt-yr-yn,0.130547611,Newport
-4297,Queen's Hill,Allt-yr-yn,0.188941991,Newport
-4298,Queen's Hill Crescent,Allt-yr-yn,0.082194137,Newport
-4299,Queensway Meadows,Liswerry,0.365005649,Newport
-4300,Quilter Close,Ringland,0.136103346,Newport
-4301,Raglan Mews,Coedkernew,0.067686167,Newport
-4302,Ramsey Close,Beechwood,0.285413857,Newport
-4303,Rankine Close,Malpas,0.25091775,Newport
-4304,Raphael Close,Beechwood,0.151185462,Newport
-4305,Redbrook Road,Allt-yr-yn,0.197997369,Newport
-4306,Redvers Street,Liswerry,0.096449444,Newport
-4307,Reene Court,Liswerry,0.363435438,Newport
-4308,Rees Close,Malpas,0.200904889,Newport
-4309,Rembrandt Way,Beechwood,0.399953735,Newport
-4310,Renoir Road,Beechwood,0.454511076,Newport
-4311,Renoir Road,Caerleon,0.521301667,Newport
-4312,Reynolds Close,Beechwood,0.495262,Newport
-4313,Rhuddlan Close,Graig,0.3556411,Newport
-4314,Rhymney Way,Graig,0.196814347,Newport
-4315,Ribble Square,Bettws,0.112462237,Newport
-4316,Ridgeway,Allt-yr-yn,0.416998774,Newport
-4317,Ridgeway Avenue,Allt-yr-yn,0.134394318,Newport
-4318,Ridgeway Close,Allt-yr-yn,0.11625836,Newport
-4319,Ridgeway Court,Allt-yr-yn,0.141384722,Newport
-4320,Ridgeway Crescent,Allt-yr-yn,0.185618671,Newport
-4321,Ridgeway Drive,Allt-yr-yn,0.11002987,Newport
-4322,Ridgeway Gardens,Allt-yr-yn,0.0323021,Newport
-4323,Ridgeway Grove,Allt-yr-yn,0.234991938,Newport
-4324,Ridgeway Hill,Allt-yr-yn,0.131613295,Newport
-4325,Ridgeway Park Road,Allt-yr-yn,0.123890873,Newport
-4326,Ridgeway Place,Allt-yr-yn,0.0668864,Newport
-4327,Ridgeway Reach,Allt-yr-yn,0.021281875,Newport
-4328,Ridgeway Rise,Allt-yr-yn,0.103589458,Newport
-4329,Ridgeway View,Allt-yr-yn,0.107258333,Newport
-4330,Ridgeway Villas,Allt-yr-yn,0.086313417,Newport
-4331,Ridgeway Walk,Allt-yr-yn,0.0651263,Newport
-4332,Ringland Circle,Alway,0.337965883,Newport
-4333,Ringland Circle,Ringland,0.252731263,Newport
-4334,Ringland Way,Llanwern,0.317917639,Newport
-4335,Ringland Way,Ringland,0.275485168,Newport
-4336,Ringwood Avenue,Ringland,0.123132228,Newport
-4337,Ringwood Hill,Alway,0.098114765,Newport
-4338,Ringwood Hill,Ringland,0.230974143,Newport
-4339,Ringwood Place,Alway,0.154087375,Newport
-4340,Risca Road,Allt-yr-yn,0.260066367,Newport
-4341,Rivermead Way,Graig,0.293247208,Newport
-4342,Robert Close,Pillgwenlly,0.135734867,Newport
-4343,Robertson Way,Malpas,0.171484689,Newport
-4344,Robin Hood Lane,Langstone,0.772462,Newport
-4345,Rochester Road,Beechwood,0.004353467,Newport
-4346,Roding Close,Bettws,0.256535263,Newport
-4347,Romney Close,Beechwood,0.208581278,Newport
-4348,Rose Street,Allt-yr-yn,0.005658278,Newport
-4349,Rose Walk,Graig,0.097614429,Newport
-4350,Rosecroft Drive,Langstone,0.194025029,Newport
-4351,Rosendale Court,Beechwood,0.44661475,Newport
-4352,Rosslyn Road,Beechwood,0.012723563,Newport
-4353,Rother Close,Bettws,0.077915875,Newport
-4354,Rothesay Road,Beechwood,0.009567233,Newport
-4355,Rowan Way,Malpas,0.173978968,Newport
-4356,Royal Oak Drive,Ringland,0.171646773,Newport
-4357,Royal Oak Hill,Caerleon,0.443231,Newport
-4358,Royal Oak Hill,Ringland,0.337729735,Newport
-4359,Royston Crescent,Liswerry,0.055200804,Newport
-4360,Rubens Close,Beechwood,0.160884,Newport
-4361,Ruperra Close,Graig,0.199053444,Newport
-4362,Ruperra Lane,Pillgwenlly,0.057396958,Newport
-4363,Ruperra Street,Pillgwenlly,0.071135595,Newport
-4364,Rupert Brooke Drive,Gaer,0.083269604,Newport
-4365,Ruskin Rise,Gaer,0.146009337,Newport
-4366,Russell Close,Graig,0.248243029,Newport
-4367,Russell Drive,Malpas,0.192946365,Newport
-4368,Russet Close,Langstone,0.1016062,Newport
-4369,Rutherford Hill,Malpas,0.115478852,Newport
-4370,Rutland Place,Pillgwenlly,0.0781662,Newport
-4371,Scott Close,Gaer,0.297407591,Newport
-4372,Seabreeze Avenue,Liswerry,0.082056043,Newport
-4373,Seabreeze Crescent,Liswerry,0.040305464,Newport
-4374,Seabreeze Drive,Liswerry,0.06443131,Newport
-4375,Sedgemoor Court,Allt-yr-yn,0.1250605,Newport
-4376,Serpentine Road,Allt-yr-yn,0.309493896,Newport
-4377,Seven Stiles Avenue,Liswerry,0.161451838,Newport
-4378,Shakespeare Crescent,Gaer,0.130235459,Newport
-4379,Shannon Road,Bettws,0.238535714,Newport
-4380,Shaw Grove,Gaer,0.182338953,Newport
-4381,Shelley Road,Beechwood,0.215929778,Newport
-4382,Shepherd Drive,Langstone,0.289429847,Newport
-4383,Sheridan Close,Gaer,0.20798275,Newport
-4384,Shetland Close,Beechwood,0.146131773,Newport
-4385,Sickert Close,Beechwood,0.121838556,Newport
-4386,Silure Way,Langstone,0.241277486,Newport
-4387,Simpson Close,Malpas,0.0621195,Newport
-4388,Sims Square,Alway,0.189107,Newport
-4389,Skenfrith Mews,Coedkernew,0.049002667,Newport
-4390,Slade Street,Liswerry,0.00947485,Newport
-4391,Snowdrop Lane,Graig,0.423325875,Newport
-4392,Soho Street,Beechwood,0.20393125,Newport
-4393,Soho Street,Liswerry,0.489857946,Newport
-4394,Somerton Crescent,Alway,0.254123474,Newport
-4395,Somerton Lane,Liswerry,0.236969152,Newport
-4396,Somerton Park,Liswerry,0.138155487,Newport
-4397,Somerton Road,Alway,0.089840012,Newport
-4398,Somerton Road,Liswerry,0.082645689,Newport
-4399,Sorrel Drive,Allt-yr-yn,0.251443791,Newport
-4400,South Lake Drive,Coedkernew,0.167893452,Newport
-4401,South Market Street,Pillgwenlly,0.159388392,Newport
-4402,Southville Road,Allt-yr-yn,0.141249467,Newport
-4403,Spartan Close,Langstone,0.0991549,Newport
-4404,Spencer Road,Allt-yr-yn,0.187980969,Newport
-4405,Spooner Close,Coedkernew,0.200675378,Newport
-4406,Spring Gardens,Pillgwenlly,0.178466,Newport
-4407,Springfield Close,Graig,0.210143667,Newport
-4408,Springfield Drive,Ringland,0.276254776,Newport
-4409,Springfield Lane,Graig,0.228404419,Newport
-4410,Springfield Road,Graig,0.271241286,Newport
-4411,Spytty Lane,Liswerry,0.272490144,Newport
-4412,Spytty Road,Alway,0.1754455,Newport
-4413,Spytty Road,Liswerry,0.218936307,Newport
-4414,St Basils Crescent,Graig,0.124260125,Newport
-4415,St Benedict's Court,Graig,0.195635,Newport
-4416,St Briavels Mews,Coedkernew,0.067223,Newport
-4417,St Brides Crescent,Gaer,0.32518153,Newport
-4418,St Brides Gardens,Gaer,0.228769987,Newport
-4419,St David's Crescent,Gaer,0.148470366,Newport
-4420,St Martin's Court,Gaer,0.02743,Newport
-4421,St Michael Street,Pillgwenlly,0.007828088,Newport
-4422,St. John's Road,Beechwood,0.137385183,Newport
-4423,St. John's Road,Liswerry,0.020420167,Newport
-4424,St. Julian's Road,Beechwood,0.23988875,Newport
-4425,St. Mark's Crescent,Allt-yr-yn,0.245185056,Newport
-4426,St. Michael's Mews,Pillgwenlly,0.094674727,Newport
-4427,St. Stephen's Road,Pillgwenlly,0.001715192,Newport
-4428,Stadium Way,Liswerry,0.321634015,Newport
-4429,Stamford Court,Allt-yr-yn,0.25550025,Newport
-4430,Stanford Road,Alway,0.123960912,Newport
-4431,Stanford Road,Ringland,0.2113305,Newport
-4432,Stanley Road,Allt-yr-yn,0.043317583,Newport
-4433,Station Approach,Graig,0.283607536,Newport
-4434,Steer Crescent,Beechwood,0.309120118,Newport
-4435,Stelvio Park Avenue,Gaer,0.168156886,Newport
-4436,Stelvio Park Close,Gaer,0.0849365,Newport
-4437,Stelvio Park Crescent,Gaer,0.171199094,Newport
-4438,Stelvio Park Drive,Gaer,0.119652239,Newport
-4439,Stelvio Park Gardens,Gaer,0.20976325,Newport
-4440,Stelvio Park Grove,Gaer,0.022879,Newport
-4441,Stelvio Park Rise,Gaer,0.1042505,Newport
-4442,Stelvio Park View,Gaer,0.05037275,Newport
-4443,Stephenson Street,Liswerry,0.416945154,Newport
-4444,Stephenson Street,Nash,0.311078959,Newport
-4445,Stephenson Street,Pillgwenlly,0.013309278,Newport
-4446,Sterndale Bennett Road,Ringland,0.425023059,Newport
-4447,Stockwood Close,Langstone,0.092019682,Newport
-4448,Stockwood View,Langstone,0.078723036,Newport
-4449,Stow Hill,Allt-yr-yn,0.060603,Newport
-4450,Stow Hill,Gaer,0.197291788,Newport
-4451,Stow Park Circle,Gaer,0.715528079,Newport
-4452,Stow Park Crescent,Gaer,0.467609343,Newport
-4453,Stow Park Gardens,Gaer,0.7188354,Newport
-4454,Sullivan Circle,Alway,0.063287,Newport
-4455,Sullivan Circle,Ringland,0.060697918,Newport
-4456,Sunnybank,Graig,0.270129095,Newport
-4457,Sussex Close,Liswerry,0.1098376,Newport
-4458,Sutherland Crescent,Beechwood,0.303511611,Newport
-4459,Swinburne Close,Beechwood,0.130906648,Newport
-4460,Sycamore Avenue,Alway,0.086321373,Newport
-4461,Sylvan Close,Malpas,0.137487813,Newport
-4462,Tabernacle Drive,Graig,0.055019412,Newport
-4463,Tallis Close,Ringland,0.164175,Newport
-4464,Tamar Close,Bettws,0.15117625,Newport
-4465,Tamar Valley Close,Pillgwenlly,0.00012,Newport
-4466,Tantallus Close,Liswerry,0.0189943,Newport
-4467,Tantallus Crescent,Liswerry,0.056865964,Newport
-4468,Tantallus Way,Liswerry,0.101158781,Newport
-4469,Tees Close,Bettws,0.155765071,Newport
-4470,Telford Street,Liswerry,0.0639433,Newport
-4471,Temple Street,Pillgwenlly,0.136255543,Newport
-4472,Tenby Close,Coedkernew,0.0495909,Newport
-4473,Tennyson Road,Beechwood,0.079957778,Newport
-4474,Thames Close,Bettws,0.223785,Newport
-4475,The Bryn,Bettws,0.24809275,Newport
-4476,The Coldra,Ringland,0.18505101,Newport
-4477,The Coppins,Malpas,0.08917975,Newport
-4478,The Firs,Malpas,0.456263567,Newport
-4479,The Glen,Langstone,0.485307821,Newport
-4480,The Griffin,Graig,0.3916979,Newport
-4481,The Nurseries,Langstone,0.170431915,Newport
-4482,The Paddocks,Langstone,0.225875688,Newport
-4483,The Redlands,Alway,0.071475333,Newport
-4484,The Rosegarden,Allt-yr-yn,0.4419485,Newport
-4485,The Spinney,Malpas,0.050181188,Newport
-4486,Thirlmere Place,Beechwood,0.0829725,Newport
-4487,Thompson Avenue,Liswerry,0.092679601,Newport
-4488,Thompson Close,Liswerry,0.033023167,Newport
-4489,Tippett Close,Ringland,0.126041875,Newport
-4490,Tom Mann Close,Ringland,0.096035885,Newport
-4491,Tone Close,Bettws,0.08158264,Newport
-4492,Tone Road,Bettws,0.062325851,Newport
-4493,Tone Square,Bettws,0.0312825,Newport
-4494,Toronto Close,Allt-yr-yn,0.242424346,Newport
-4495,Torridge Road,Bettws,0.093440375,Newport
-4496,Traston Avenue,Liswerry,0.103256543,Newport
-4497,Traston Close,Liswerry,0.138905621,Newport
-4498,Traston Lane,Liswerry,0.400581778,Newport
-4499,Traston Road,Liswerry,0.094085033,Newport
-4500,Traston Road,Nash,0.290077452,Newport
-4501,Treberth Avenue,Ringland,0.074308886,Newport
-4502,Treberth Close,Ringland,0.097268389,Newport
-4503,Treberth Court,Ringland,0.0545624,Newport
-4504,Treberth Crescent,Ringland,0.101730591,Newport
-4505,Treberth Drive,Ringland,0.065455714,Newport
-4506,Treberth Gardens,Ringland,0.038673417,Newport
-4507,Treberth Grove,Ringland,0.075578375,Newport
-4508,Treberth Rise,Ringland,0.069587278,Newport
-4509,Treberth View,Ringland,0.097048167,Newport
-4510,Treberth Way,Ringland,0.063746661,Newport
-4511,Tredegar Street,Graig,0.108607625,Newport
-4512,Tredegar Street,Pillgwenlly,0.0935622,Newport
-4513,Tregarn Close,Langstone,0.356109214,Newport
-4514,Tregarn Court,Langstone,0.183116025,Newport
-4515,Tregarn Road,Langstone,0.411341459,Newport
-4516,Trent Road,Bettws,0.114210735,Newport
-4517,Trevithick Close,Malpas,0.12977555,Newport
-4518,Trinity Place,Pillgwenlly,0.0340414,Newport
-4519,Tunnel Terrace,Allt-yr-yn,0.0763295,Newport
-4520,Tweedy Lane,Beechwood,0.065072688,Newport
-4521,Ty Coch Close,Graig,0.216535,Newport
-4522,Tyllwyd Road,Allt-yr-yn,0.159712353,Newport
-4523,Tyne Close,Bettws,0.125171318,Newport
-4524,Upper Tennyson Road,Beechwood,0.244316,Newport
-4525,Upton Road,Allt-yr-yn,0.053298889,Newport
-4526,Usk View,Beechwood,0.088489625,Newport
-4527,Usk Way,Pillgwenlly,0.146823443,Newport
-4528,Vale View,Beechwood,0.25384258,Newport
-4529,Vancouver Drive,Allt-yr-yn,0.1852567,Newport
-4530,Vaughan Court,Coedkernew,0.05736325,Newport
-4531,Vaughan Williams Drive,Alway,0.136097522,Newport
-4532,Velodrome Way,Liswerry,0.126320012,Newport
-4533,Vermeer Crescent,Beechwood,0.141244389,Newport
-4534,Viaduct Close,Graig,0.104014725,Newport
-4535,Viaduct View,Graig,0.110118722,Newport
-4536,Viaduct Way,Graig,0.333326927,Newport
-4537,Vicarage Close,Graig,0.620989767,Newport
-4538,Victoria Avenue,Beechwood,0.123175576,Newport
-4539,Victoria Court,Beechwood,0.039340214,Newport
-4540,Victoria Lane,Beechwood,0.4843545,Newport
-4541,Violet Walk,Graig,0.054740222,Newport
-4542,Walden Grange Close,Alway,0.066498727,Newport
-4543,Walford Davies Drive,Alway,0.063457067,Newport
-4544,Wallis Street,Pillgwenlly,0.000777611,Newport
-4545,Walmer Road,Beechwood,0.006555289,Newport
-4546,Walsall Street,Liswerry,0.047993705,Newport
-4547,Walton Close,Alway,0.00404425,Newport
-4548,Ward Close,Beechwood,0.156034583,Newport
-4549,Warlock Close,Ringland,0.060355,Newport
-4550,Warwick Road,Alway,0.008633176,Newport
-4551,Watch House Parade,Pillgwenlly,0.018292538,Newport
-4552,Wavell Drive,Malpas,0.1555505,Newport
-4553,Waveney Close,Bettws,0.174752591,Newport
-4554,Weare Close,Bettws,0.112964474,Newport
-4555,Wednesbury Street,Liswerry,0.053218,Newport
-4556,Welland Circle,Bettws,0.139573588,Newport
-4557,Welland Crescent,Bettws,0.095932588,Newport
-4558,Wellington Road,Allt-yr-yn,0.173801033,Newport
-4559,Wells Close,Gaer,0.074297875,Newport
-4560,Wentworth Close,Graig,0.195115917,Newport
-4561,West Market Street,Pillgwenlly,0.042097,Newport
-4562,West Park Road,Allt-yr-yn,0.01761405,Newport
-4563,West Park Road,Gaer,0.0325805,Newport
-4564,West Way Road,Pillgwenlly,0.422609705,Newport
-4565,Western Avenue,Allt-yr-yn,0.228156277,Newport
-4566,Westfield Avenue,Malpas,0.058842577,Newport
-4567,Westfield Drive,Malpas,0.169375469,Newport
-4568,Westfield Gardens,Malpas,0.175221022,Newport
-4569,Westfield Rise,Malpas,0.029307889,Newport
-4570,Westfield Road,Allt-yr-yn,0.350678589,Newport
-4571,Westfield Way,Malpas,0.121145148,Newport
-4572,Westmoor Close,Liswerry,0.0826935,Newport
-4573,Westray Close,Beechwood,0.062955286,Newport
-4574,Westville Road,Allt-yr-yn,0.079111667,Newport
-4575,Wharf Road,Beechwood,0.094404659,Newport
-4576,Whistler Close,Beechwood,0.409366333,Newport
-4577,White Avenue,Coedkernew,0.123387625,Newport
-4578,Whitstone Road,Alway,0.157519986,Newport
-4579,Whittle Drive,Malpas,0.101130266,Newport
-4580,William Morris Drive,Ringland,0.214864014,Newport
-4581,Willow Close,Liswerry,0.111620118,Newport
-4582,Wilson Road,Beechwood,0.136844773,Newport
-4583,Wilson Street,Pillgwenlly,0.000171611,Newport
-4584,Winchester Close,Gaer,0.123347375,Newport
-4585,Windrush Close,Bettws,0.145656625,Newport
-4586,Windsor Castle Road,Pillgwenlly,0.00012,Newport
-4587,Windsor Road,Beechwood,0.010389643,Newport
-4588,Wingate Street,Pillgwenlly,0.0096042,Newport
-4589,Wistaria Close,Malpas,0.121594,Newport
-4590,Wolseley Close,Pillgwenlly,0.0747449,Newport
-4591,Wolseley Street,Pillgwenlly,0.04949397,Newport
-4592,Woodland Drive,Graig,0.108307032,Newport
-4593,Woodland Park Road,Beechwood,0.265635032,Newport
-4594,Woodland Road,Beechwood,0.289012116,Newport
-4595,Woodlands Drive,Malpas,0.299654071,Newport
-4596,Woodville Road,Allt-yr-yn,0.225450606,Newport
-4597,Worcester Crescent,Beechwood,0.158899212,Newport
-4598,Wordsworth Road,Beechwood,0.132152568,Newport
-4599,Wright Close,Liswerry,0.217745176,Newport
-4600,Wye Crescent,Bettws,0.225785576,Newport
-4601,Wyeverne Road,Alway,0.016751971,Newport
-4602,Yeo Close,Bettws,0.144975088,Newport
-4603,Yeo Road,Bettws,0.383502643,Newport
-4604,Yewberry Close,Malpas,0.257786438,Newport
-4605,Yewberry Lane,Malpas,0.388919205,Newport
+3441,Acer Way,Rogerstone,0.0811325,Newport
+3442,Acorn Close,Rogerstone,0.208536081,Newport
+3443,Adelaide Street,Shaftesbury,0.042795054,Newport
+3444,Adeline Street,Pillgwenlly,0.147206218,Newport
+3445,Afon Mead,Graig,0.196589341,Newport
+3446,Agincourt Street,Shaftesbury,0.067121036,Newport
+3447,Ailesbury Street,Shaftesbury,0.033756038,Newport
+3448,Alan Close,Rogerstone,0.088025143,Newport
+3449,Alanbrooke Avenue,Malpas,0.2011822,Newport
+3450,Albany Street,Shaftesbury,0.078448287,Newport
+3451,Albert Avenue,Victoria,0.015976826,Newport
+3452,Albert Street,Pillgwenlly,0.0193243,Newport
+3453,Albert Terrace,Stow Hill,0.337997325,Newport
+3454,Albion Close,Pillgwenlly,0.117750063,Newport
+3455,Albion Court,Pillgwenlly,0.020342125,Newport
+3456,Albion Street,Pillgwenlly,0.078781,Newport
+3457,Alcock Close,Liswerry,0.277907625,Newport
+3458,Alder Grove,Malpas,0.239915875,Newport
+3459,Alderney Street,Shaftesbury,0.027536789,Newport
+3460,Alexandra Road,Pillgwenlly,0.064239621,Newport
+3461,Alfred Street,St. Julians,0.002007643,Newport
+3462,Alfred Street,Victoria,0.0007385,Newport
+3463,Alice Street,Pillgwenlly,0.014318542,Newport
+3464,Allen Close,Bettws,0.108309577,Newport
+3465,Allt-yr-yn Avenue,Allt-yr-yn,0.442105837,Newport
+3466,Allt-Yr-Yn Close,Allt-yr-yn,0.147335731,Newport
+3467,Allt-Yr-Yn Court,Allt-yr-yn,0.333680821,Newport
+3468,Allt-Yr-Yn Crescent,Allt-yr-yn,0.200806177,Newport
+3469,Allt-yr-Yn Heights,Allt-yr-yn,0.182082607,Newport
+3470,Allt-Yr-Yn Heights,Allt-yr-yn,0.109464625,Newport
+3471,Allt-Yr-Yn Road,Allt-yr-yn,0.172980701,Newport
+3472,Allt-Yr-Yn View,Allt-yr-yn,0.482398854,Newport
+3473,Allt-Yr-Yn Way,Allt-yr-yn,0.164188167,Newport
+3474,Alma Street,Pillgwenlly,0.192221647,Newport
+3475,Almond Drive,Malpas,0.153389398,Newport
+3476,Alway Crescent,Alway,0.091701879,Newport
+3477,Alwyn Close,Rogerstone,0.091934063,Newport
+3478,Amber Close,Victoria,0.0067911,Newport
+3479,Amelia Avenue,Liswerry,0.047657553,Newport
+3480,Amelia Close,Liswerry,0.060087885,Newport
+3481,Amelia Grove,Liswerry,0.062563588,Newport
+3482,Amelia Way,Liswerry,0.048603629,Newport
+3483,Amy Johnson Close,Liswerry,0.094257833,Newport
+3484,Anderson Close,Gaer,0.25244575,Newport
+3485,Anderson Place,Malpas,0.11416396,Newport
+3486,Annesley Road,St. Julians,0.02759334,Newport
+3487,Anson Green,Ringland,0.04512856,Newport
+3488,Aragon Street,Shaftesbury,0.040111722,Newport
+3489,Archibald Street,Beechwood,0.013167243,Newport
+3490,Argosy Close,Liswerry,0.0536645,Newport
+3491,Argosy Way,Liswerry,0.081144143,Newport
+3492,Argosy Way,Victoria,0.080536622,Newport
+3493,Argyle Street,Shaftesbury,0.037605048,Newport
+3494,Arlington Close,Malpas,0.123459875,Newport
+3495,Arlington Grange Close,Pillgwenlly,0.00012,Newport
+3496,Armstrong Close,Liswerry,0.054444357,Newport
+3497,Arne Close,Ringland,0.082056583,Newport
+3498,Arnold Close,Gaer,0.0103733,Newport
+3499,Arthur Bliss Road,Alway,0.033022469,Newport
+3500,Arthur Bliss Road,Ringland,0.155314167,Newport
+3501,Arthur Close,Pillgwenlly,0.531855417,Newport
+3502,Arthur Street,Pillgwenlly,0.13118002,Newport
+3503,Arundel Road,Beechwood,0.022999875,Newport
+3504,Ash Tree View,Allt-yr-yn,0.103195417,Newport
+3505,Ashley Road,Alway,0.176861429,Newport
+3506,Aspen Way,Malpas,0.157302979,Newport
+3507,Aston Crescent,Shaftesbury,0.0433679,Newport
+3508,Aubrey Hames Close,Stow Hill,0.099867447,Newport
+3509,Auckland Road,Allt-yr-yn,0.154323625,Newport
+3510,Augustus John Close,Beechwood,0.07175255,Newport
+3511,Avalon Drive,Beechwood,0.175542392,Newport
+3512,Avon Close,Bettws,0.12124665,Newport
+3513,Azalea Road,Graig,0.317893233,Newport
+3514,Azalea Road,Risca West,0.174814438,Newport
+3515,Bacon Place,Malpas,0.133941139,Newport
+3516,Badgers Wood Close,Graig,0.159893857,Newport
+3517,Badminton Road,Beechwood,0.230583744,Newport
+3518,Badminton Road,St. Julians,0.538391,Newport
+3519,Bailey Crescent,Langstone,0.057221692,Newport
+3520,Bailey Street,Stow Hill,0.030041806,Newport
+3521,Baird Close,Malpas,0.124604833,Newport
+3522,Bala Drive,Rogerstone,0.127384258,Newport
+3523,Baldwin Close,Pillgwenlly,0.031468688,Newport
+3524,Baldwin Street,Pillgwenlly,0.014519375,Newport
+3525,Balfe Road,Alway,0.0547679,Newport
+3526,Balfe Road,Ringland,0.1197447,Newport
+3527,Balmoral Lane,Alway,0.0112042,Newport
+3528,Balmoral Road,Alway,0.011364219,Newport
+3529,Balmoral Road,Beechwood,0.000614,Newport
+3530,Baneswell Courtyard,Stow Hill,0.140487286,Newport
+3531,Baneswell Road,Stow Hill,0.000832933,Newport
+3532,Bank Street,St. Julians,0.121699609,Newport
+3533,Bantock Close,Ringland,0.083261,Newport
+3534,Bardsy Close,Beechwood,0.138793875,Newport
+3535,Barnard Street,Victoria,0.0214465,Newport
+3536,Barrack Hill,Allt-yr-yn,0.176333966,Newport
+3537,Barrack Hill,Shaftesbury,0.1800259,Newport
+3538,Barthropp Street,Liswerry,0.027426579,Newport
+3539,Bassaleg Road,Allt-yr-yn,0.313801378,Newport
+3540,Bassaleg Road,Gaer,0.1889552,Newport
+3541,Bassaleg Road,Rogerstone,0.497935383,Newport
+3542,Batchelor Road,Beechwood,0.043315269,Newport
+3543,Bath Street,St. Julians,0.010583765,Newport
+3544,Beacons Close,Rogerstone,0.078149731,Newport
+3545,Beatty Road,Ringland,0.138515695,Newport
+3546,Beaufort Place,Beechwood,0.11580976,Newport
+3547,Beaufort Road,Beechwood,0.181937099,Newport
+3548,Beaufort Terrace,Stow Hill,0.133047714,Newport
+3549,Beaumaris Close,Graig,0.3261705,Newport
+3550,Bedford Road,Victoria,0.020234621,Newport
+3551,Beech Grove,Tredegar Park,0.179279586,Newport
+3552,Beecham Street,Alway,0.247171214,Newport
+3553,Beechcroft Road,Alway,0.09269859,Newport
+3554,Beechcroft Road,Beechwood,0.150537,Newport
+3555,Beechdale Road,Alway,0.099020541,Newport
+3556,Beechfield Avenue,Alway,0.118480803,Newport
+3557,Beechfield Avenue,Beechwood,0.304707,Newport
+3558,Beechwood Crescent,Alway,0.103704543,Newport
+3559,Beechwood Road,Alway,0.361977289,Newport
+3560,Beechwood Road,Beechwood,0.321696045,Newport
+3561,Belle Vue Lane,Stow Hill,0.2587539,Newport
+3562,Belle Vue Terrace,Pillgwenlly,0.169032625,Newport
+3563,Belvedere Terrace,Shaftesbury,0.011190278,Newport
+3564,Ben Jonson Way,Gaer,0.084055148,Newport
+3565,Benbow Road,Ringland,0.07908595,Newport
+3566,Bentley Close,Rogerstone,0.174169571,Newport
+3567,Beresford Road,Victoria,0.0148627,Newport
+3568,Berkley Close,Graig,0.156058538,Newport
+3569,Berkley Road,Graig,0.192132813,Newport
+3570,Bessemer Close,Malpas,0.1210895,Newport
+3571,Bethesda Close,Rogerstone,0.111069605,Newport
+3572,Bethesda Place,Rogerstone,0.39321864,Newport
+3573,Bethesda Rise,Rogerstone,0.130846816,Newport
+3574,Bettws Close,Bettws,0.28102,Newport
+3575,Bettws Hill,Bettws,0.691876623,Newport
+3576,Bettws Lane,Bettws,0.3187735,Newport
+3577,Bettws Lane,Malpas,0.251462643,Newport
+3578,Bettws Lane,Shaftesbury,0.328193979,Newport
+3579,Bideford Close,Gaer,0.146736071,Newport
+3580,Bideford Road,Gaer,0.134995765,Newport
+3581,Bilston Street,Liswerry,0.025495714,Newport
+3582,Birch Grove,Rogerstone,0.20458575,Newport
+3583,Birch Hill,Malpas,0.101479135,Newport
+3584,Birch Trees,Graig,0.205120125,Newport
+3585,Birchgrove Close,Malpas,0.193794944,Newport
+3586,Bishop Street,St. Julians,0.035628289,Newport
+3587,Bishpool Avenue,Ringland,0.079515157,Newport
+3588,Bishpool Close,Ringland,0.071358167,Newport
+3589,Bishpool Court,Ringland,0.0911815,Newport
+3590,Bishpool Gardens,Ringland,0.066526769,Newport
+3591,Bishpool Grove,Ringland,0.184871286,Newport
+3592,Bishpool Lane,Ringland,0.166206076,Newport
+3593,Bishpool Place,Ringland,0.08994225,Newport
+3594,Bishpool Rise,Ringland,0.037551179,Newport
+3595,Bishpool View,Ringland,0.060877944,Newport
+3596,Bishpool Way,Ringland,0.088540475,Newport
+3597,Bishton Street,Victoria,0.005721867,Newport
+3598,Blackbird Close,Rogerstone,0.134392025,Newport
+3599,Blackett Avenue,Malpas,0.235913467,Newport
+3600,Blackwater Close,Bettws,0.199223375,Newport
+3601,Blaen-Y-Pant Avenue,Shaftesbury,0.190125727,Newport
+3602,Blaen-Y-Pant Crescent,Shaftesbury,0.165703982,Newport
+3603,Blaen-Y-Pant Place,Shaftesbury,0.202141773,Newport
+3604,Blake Road,Liswerry,0.180908875,Newport
+3605,Blanche Close,Tredegar Park,0.0986298,Newport
+3606,Blenheim Road,Alway,0.00348125,Newport
+3607,Bleriot Close,Liswerry,0.198084889,Newport
+3608,Blewitt Street,Stow Hill,0.072867407,Newport
+3609,Bloomfield Close,Ringland,0.34044065,Newport
+3610,Blossom Close,Langstone,0.149335049,Newport
+3611,Bluebell Way,Graig,0.185300463,Newport
+3612,Bolt Close,Pillgwenlly,0.155268682,Newport
+3613,Bolt Street,Pillgwenlly,0.047082213,Newport
+3614,Bolton Road,Allt-yr-yn,0.1468807,Newport
+3615,Bond Street,St. Julians,0.013363941,Newport
+3616,Boswell Close,Gaer,0.001808714,Newport
+3617,Bosworth Drive,Allt-yr-yn,0.313729232,Newport
+3618,Boyle Close,Malpas,0.172090786,Newport
+3619,Brain Close,Ringland,0.102308423,Newport
+3620,Bramley Close,Langstone,0.19327875,Newport
+3621,Brangwyn Crescent,Beechwood,0.246826858,Newport
+3622,Brecon Road,St. Julians,0.081733889,Newport
+3623,Bridge Street,Stow Hill,0.101799181,Newport
+3624,Brigantine Close,Tredegar Park,0.082464333,Newport
+3625,Brigantine Drive,Tredegar Park,0.129117875,Newport
+3626,Brigantine Grove,Tredegar Park,0.061353536,Newport
+3627,Brigantine Way,Tredegar Park,0.072304097,Newport
+3628,Bristol Street,Victoria,0.006726646,Newport
+3629,Britten Close,Alway,0.008808167,Newport
+3630,Broad Quay Road,Nash,0.083266742,Newport
+3631,Broad Street,Pillgwenlly,0.027920545,Newport
+3632,Broadcommon Close,Liswerry,0.319439321,Newport
+3633,Broadleaf Way,Allt-yr-yn,0.00012,Newport
+3634,Broadmead Park,Liswerry,0.192604988,Newport
+3635,Broadwater Road,Liswerry,0.130711712,Newport
+3636,Broadwood Close,Ringland,0.19391842,Newport
+3637,Bronllys Grove,Coedkernew,0.04232125,Newport
+3638,Bronllys Mews,Coedkernew,0.034336,Newport
+3639,Bronte Grove,Gaer,0.18758588,Newport
+3640,Brookfield Close,Liswerry,0.087202382,Newport
+3641,Brookside,Bettws,0.041248703,Newport
+3642,Broom Close,Rogerstone,0.185186188,Newport
+3643,Brown Close,Liswerry,0.22664895,Newport
+3644,Browning Close,Gaer,0.04353625,Newport
+3645,Brunel Avenue,Rogerstone,0.252974305,Newport
+3646,Brunel Street,Pillgwenlly,0.036696188,Newport
+3647,Bryn Bevan,Shaftesbury,0.184075024,Newport
+3648,Bryn Hedydd,Graig,0.522596968,Newport
+3649,Brynderwen Grove,St. Julians,0.1098095,Newport
+3650,Brynderwen Grove,Victoria,0.106903625,Newport
+3651,Brynderwen Road,St. Julians,0.1268115,Newport
+3652,Brynderwen Road,Victoria,0.118111647,Newport
+3653,Brynglas Avenue,Shaftesbury,0.144585345,Newport
+3654,Brynglas Close,Shaftesbury,0.204342571,Newport
+3655,Brynglas Court,Shaftesbury,0.055111913,Newport
+3656,Brynglas Crescent,Shaftesbury,0.029934444,Newport
+3657,Brynglas Drive,Shaftesbury,0.146772083,Newport
+3658,Brynglas Road,Shaftesbury,0.224363714,Newport
+3659,Bryngwyn Road,Allt-yr-yn,0.160151898,Newport
+3660,Brynhyfryd Avenue,Stow Hill,0.054557875,Newport
+3661,Brynhyfryd Road,Stow Hill,0.099520542,Newport
+3662,Buccaneer Close,Tredegar Park,0.063359833,Newport
+3663,Buccaneer Grove,Tredegar Park,0.052034722,Newport
+3664,Buccaneer Way,Tredegar Park,0.08851975,Newport
+3665,Buchan Close,Gaer,0.117373333,Newport
+3666,Buchanan Way,Coedkernew,0.1200729,Newport
+3667,Buckingham Crescent,Beechwood,0.217107353,Newport
+3668,Buckingham Place,Beechwood,0.381772333,Newport
+3669,Builth Close,Coedkernew,0.07846,Newport
+3670,Burberry Close,Graig,0.131670857,Newport
+3671,Burleigh Road,Allt-yr-yn,0.1789389,Newport
+3672,Burnfort Road,Gaer,0.0679505,Newport
+3673,Burns Close,Gaer,0.255020269,Newport
+3674,Burton Road,Beechwood,0.074693981,Newport
+3675,Buttercup Close,Graig,0.068348313,Newport
+3676,Buttermere Way,Beechwood,0.250465175,Newport
+3677,Buttermere Way,St. Julians,0.175180625,Newport
+3678,Butterworth Close,Ringland,0.082838917,Newport
+3679,Buxton Close,Gaer,0.1235385,Newport
+3680,Byrde Close,Alway,0.172646077,Newport
+3681,Byron Road,Gaer,0.141796765,Newport
+3682,Caban Close,Rogerstone,0.1217653,Newport
+3683,Cae Brynton Road,Gaer,0.293171132,Newport
+3684,Cae Perllan Road,Gaer,0.147443708,Newport
+3685,Caerau Crescent,Allt-yr-yn,0.300993885,Newport
+3686,Caerau Road,Allt-yr-yn,0.115536065,Newport
+3687,Caerau Road,Stow Hill,0.344203464,Newport
+3688,Caerleon Road,Beechwood,0.313164845,Newport
+3689,Caerleon Road,St. Julians,0.092443012,Newport
+3690,Caerleon Road,Victoria,0.13837342,Newport
+3691,Caerlicken Lane,Langstone,0.635546329,Newport
+3692,Caernarvon Drive,Graig,0.310945371,Newport
+3693,Caerphilly Close,Graig,0.250244992,Newport
+3694,Caerphilly Road,Graig,0.322648545,Newport
+3695,Caldicot Street,Liswerry,0.062650867,Newport
+3696,Caldy Close,Beechwood,0.215354643,Newport
+3697,Cambridge Road,Victoria,0.25914675,Newport
+3698,Camellia Avenue,Graig,0.202368274,Newport
+3699,Camelot Place,Victoria,0.047268,Newport
+3700,Campanula Drive,Graig,0.185772014,Newport
+3701,Camperdown Road,Liswerry,0.083480367,Newport
+3702,Campion Close,Allt-yr-yn,0.075478563,Newport
+3703,Canal Parade,Stow Hill,0.262669136,Newport
+3704,Canal Street,Shaftesbury,0.034312786,Newport
+3705,Canal Terrace,Pillgwenlly,0.053909333,Newport
+3706,Canberra Crescent,Allt-yr-yn,0.284493608,Newport
+3707,Canon Street,St. Julians,0.0498325,Newport
+3708,Canterbury Close,Shaftesbury,0.218135318,Newport
+3709,Cantref Close,Rogerstone,0.1782257,Newport
+3710,Capel Close,Pillgwenlly,0.01877,Newport
+3711,Capel Crescent,Pillgwenlly,0.115196746,Newport
+3712,Capel Dewi Hall Road,Pillgwenlly,0.00012,Newport
+3713,Cardiff Road,Coedkernew,0.235452112,Newport
+3714,Cardiff Road,Gaer,0.148804721,Newport
+3715,Cardiff Road,Pillgwenlly,0.220571496,Newport
+3716,Cardiff Road,Stow Hill,0.126429564,Newport
+3717,Cardigan Place,Beechwood,0.1575816,Newport
+3718,Carey Road,Alway,0.0198593,Newport
+3719,Carisbrooke Road,Beechwood,0.017648583,Newport
+3720,Carlisle Street,Pillgwenlly,0.026130038,Newport
+3721,Carlton Road,St. Julians,0.105705905,Newport
+3722,Caroline Street,Stow Hill,0.043701132,Newport
+3723,Carpenter Close,Langstone,0.424651306,Newport
+3724,Cartwright Green,Malpas,0.075786538,Newport
+3725,Castell Coch Drive,Coedkernew,0.095814763,Newport
+3726,Castle Close,Rogerstone,0.248211063,Newport
+3727,Castle Park Close,Gaer,0.110802952,Newport
+3728,Castle Park Road,Gaer,0.166402344,Newport
+3729,Castle Street,Pillgwenlly,0.01643025,Newport
+3730,Castle View,Rogerstone,0.176292167,Newport
+3731,Caswell Way,Liswerry,0.254737346,Newport
+3732,Catalpa Close,Malpas,0.135083,Newport
+3733,Catherine Close,Tredegar Park,0.11901025,Newport
+3734,Cats Ash Road,Langstone,0.40403923,Newport
+3735,Catsash Road,Caerleon,0.690169063,Newport
+3736,Caxton Place,Stow Hill,0.0043993,Newport
+3737,Cecil Lane,Rogerstone,0.019422053,Newport
+3738,Cecil Sharp Road,Ringland,0.0285177,Newport
+3739,Cedar Road,Victoria,0.03057985,Newport
+3740,Cedar Wood Close,Rogerstone,0.163034208,Newport
+3741,Cedar Wood Drive,Rogerstone,0.143180667,Newport
+3742,Cefn Close,Rogerstone,0.159581313,Newport
+3743,Cefn Court,Rogerstone,0.19047435,Newport
+3744,Cefn Drive,Rogerstone,0.311185333,Newport
+3745,Cefn Rise,Rogerstone,0.090117357,Newport
+3746,Cefn Road,Rogerstone,0.324399777,Newport
+3747,Cefn Walk,Rogerstone,0.126353435,Newport
+3748,Celtic Way,Coedkernew,0.047065664,Newport
+3749,Cenfedd Street,St. Julians,0.0132968,Newport
+3750,Central Avenue,Liswerry,0.181995008,Newport
+3751,Chadwick Close,Malpas,0.267349188,Newport
+3752,Chaffinch Way,Tredegar Park,0.238505756,Newport
+3753,Channel View,Graig,0.135520917,Newport
+3754,Chapel Terrace,Graig,0.202781528,Newport
+3755,Chapman Close,Malpas,0.332259393,Newport
+3756,Charles Street,Stow Hill,0.045446188,Newport
+3757,Charlotte Green,Pillgwenlly,0.140585767,Newport
+3758,Charlotte Walk,Pillgwenlly,0.050228188,Newport
+3759,Charnwood Road,St. Julians,0.029261833,Newport
+3760,Chartist Drive,Rogerstone,0.482312881,Newport
+3761,Chaucer Road,Beechwood,0.144895066,Newport
+3762,Chelmer Close,Bettws,0.112942556,Newport
+3763,Chelston Place,Shaftesbury,0.115412273,Newport
+3764,Chepstow Road,Alway,0.051340693,Newport
+3765,Chepstow Road,Beechwood,0.070988612,Newport
+3766,Chepstow Road,Langstone,0.424771326,Newport
+3767,Chepstow Road,Ringland,0.20477278,Newport
+3768,Chepstow Road,Victoria,0.059389466,Newport
+3769,Cherry Tree Close,Langstone,0.1983293,Newport
+3770,Cherry Tree Close,Malpas,0.154157875,Newport
+3771,Chichester Close,St. Julians,0.140560571,Newport
+3772,Chiltern Close,Ringland,0.12851275,Newport
+3773,Chirk Close,Coedkernew,0.171397313,Newport
+3774,Christchurch Hill,Caerleon,0.542335354,Newport
+3775,Christchurch Road,Alway,0.206667125,Newport
+3776,Christchurch Road,Beechwood,0.190041618,Newport
+3777,Christchurch Road,Caerleon,0.449988427,Newport
+3778,Christchurch Road,St. Julians,0.099287149,Newport
+3779,Christchurch Road,Victoria,0.022065071,Newport
+3780,Christina Crescent,Rogerstone,0.240531167,Newport
+3781,Church Close,Rogerstone,0.088059778,Newport
+3782,Church Court,Beechwood,0.2105063,Newport
+3783,Church Crescent,Graig,0.172002658,Newport
+3784,Church Farm Close,Bettws,0.45687725,Newport
+3785,Church Road,Victoria,0.031871055,Newport
+3786,Church Street,Pillgwenlly,0.080270217,Newport
+3787,Church Street,Rogerstone,0.0603863,Newport
+3788,Church View,Graig,0.151784,Newport
+3789,Churchmead,Graig,0.383941389,Newport
+3790,Churchward Drive,Liswerry,0.176939152,Newport
+3791,Claremont,Malpas,0.169492213,Newport
+3792,Clarence Place,Victoria,0.023583756,Newport
+3793,Clarence Street,Pillgwenlly,0.01426834,Newport
+3794,Clayton Street,St. Julians,0.054533417,Newport
+3795,Clearwater Road,Liswerry,0.341560944,Newport
+3796,Clearwell Court,Graig,0.3282883,Newport
+3797,Clement Atlee Drive,Ringland,0.250291565,Newport
+3798,Cleppa Park,Coedkernew,0.347699549,Newport
+3799,Clevedon Road,Beechwood,0.215831775,Newport
+3800,Clewer Court,Allt-yr-yn,0.296472978,Newport
+3801,Clifton Place,Stow Hill,0.294419143,Newport
+3802,Clifton Road,Stow Hill,0.251887727,Newport
+3803,Clipper Close,St. Julians,0.140132105,Newport
+3804,Clist Road,Bettws,0.091599045,Newport
+3805,Clos Carno,Bettws,0.199992944,Newport
+3806,Clos Ennig,Bettws,0.060864667,Newport
+3807,Clydach Close,Bettws,0.260554773,Newport
+3808,Clyffard Crescent,Allt-yr-yn,0.1206665,Newport
+3809,Clyffard Crescent,Stow Hill,0.123998846,Newport
+3810,Clytha Crescent,Pillgwenlly,0.074554269,Newport
+3811,Clytha Park Road,Allt-yr-yn,0.257566369,Newport
+3812,Clytha Park Road,Stow Hill,0.021643,Newport
+3813,Clytha Square,Stow Hill,0.115695477,Newport
+3814,Coldra Road,Stow Hill,0.027565659,Newport
+3815,Coleridge Road,Alway,0.000112,Newport
+3816,Coleridge Road,Beechwood,0.073108,Newport
+3817,Collier Street,St. Julians,0.069941143,Newport
+3818,Collingwood Avenue,Liswerry,0.144291321,Newport
+3819,Collingwood Close,Liswerry,0.0115365,Newport
+3820,Collingwood Crescent,Liswerry,0.106704868,Newport
+3821,Collingwood Road,Liswerry,0.092617,Newport
+3822,Collins Close,Gaer,0.20192825,Newport
+3823,Colne Street,Victoria,0.028791786,Newport
+3824,Colston Avenue,Liswerry,0.063536882,Newport
+3825,Colston Court,Liswerry,0.085272,Newport
+3826,Colston Place,Liswerry,0.040104917,Newport
+3827,Colts Foot Close,Allt-yr-yn,0.263711667,Newport
+3828,Comfrey Close,Allt-yr-yn,0.183266774,Newport
+3829,Commercial Road,Pillgwenlly,0.027065923,Newport
+3830,Commercial Road,Stow Hill,0.032071036,Newport
+3831,Commercial Street,Stow Hill,0.010663044,Newport
+3832,Compton Close,Rogerstone,0.2275145,Newport
+3833,Coniston Close,St. Julians,0.077875556,Newport
+3834,Constable Drive,Beechwood,0.147113411,Newport
+3835,Constables Close,Pillgwenlly,0.069148,Newport
+3836,Constance Street,St. Julians,0.010310016,Newport
+3837,Conway Court,Alway,0.034585,Newport
+3838,Conway Croft,Alway,0.156616853,Newport
+3839,Conway Grove,Coedkernew,0.113155031,Newport
+3840,Conway Road,Alway,0.035755669,Newport
+3841,Conway Road,Beechwood,0.020107288,Newport
+3842,Conway Sac,Alway,0.09121,Newport
+3843,Coolgreany Close,Malpas,0.174856769,Newport
+3844,Coolgreany Crescent,Malpas,0.10212325,Newport
+3845,Coomassie Street,Pillgwenlly,0.109042429,Newport
+3846,Cooper Close,Langstone,0.349074778,Newport
+3847,Corelli Street,St. Julians,0.015174833,Newport
+3848,Coriander Close,Allt-yr-yn,0.167535667,Newport
+3849,Cormorant Way,Tredegar Park,0.118245371,Newport
+3850,Corn Street,Stow Hill,0.016609225,Newport
+3851,Cornbrook Road,Bettws,0.095606218,Newport
+3852,Cornflower Close,Rogerstone,0.056769792,Newport
+3853,Cornwall Road,St. Julians,0.161813926,Newport
+3854,Coromorant Way,Tredegar Park,0.127935833,Newport
+3855,Corporation Road,Liswerry,0.151874481,Newport
+3856,Corporation Road,Nash,0.415916694,Newport
+3857,Corporation Road,Victoria,0.08612135,Newport
+3858,Cot Farm Circle,Ringland,0.10129713,Newport
+3859,Cot Farm Close,Ringland,0.033870944,Newport
+3860,Cotman Close,Beechwood,0.211781632,Newport
+3861,Cotswold Close,Ringland,0.055865036,Newport
+3862,Cotswold Way,Ringland,0.180866806,Newport
+3863,Coulson Close,Pillgwenlly,0.010352083,Newport
+3864,Court Crescent,Graig,0.226848846,Newport
+3865,Court Gardens,Rogerstone,0.135254585,Newport
+3866,Court Meadow,Langstone,0.221735979,Newport
+3867,Court View,Langstone,0.327054885,Newport
+3868,Courtfield Close,Rogerstone,0.14218511,Newport
+3869,Courtney Street,St. Julians,0.199747179,Newport
+3870,Courtybella Terrace,Pillgwenlly,0.260411338,Newport
+3871,Coverack Road,Victoria,0.186067061,Newport
+3872,Cowper Close,Gaer,0.239511036,Newport
+3873,Cowshed Lane,Graig,0.374802306,Newport
+3874,Crawford Street,St. Julians,0.075936885,Newport
+3875,Crescent Road,Beechwood,0.101956838,Newport
+3876,Criccieth Close,Coedkernew,0.057331333,Newport
+3877,Crindau Road,Shaftesbury,0.048348278,Newport
+3878,Crocus Close,Rogerstone,0.0722297,Newport
+3879,Croesllanfro Gardens,Rogerstone,0.131310879,Newport
+3880,Cromwell Road,Liswerry,0.038318918,Newport
+3881,Cross Lane,Stow Hill,0.012337306,Newport
+3882,Crouch Close,Bettws,0.147317368,Newport
+3883,Crown Street,Victoria,0.020735316,Newport
+3884,Croydon Close,St. Julians,0.53299395,Newport
+3885,Croydon Court,St. Julians,0.126847571,Newport
+3886,Cumberland Road,St. Julians,0.03308845,Newport
+3887,Cunningham Road,Ringland,0.081526932,Newport
+3888,Curie Close,Malpas,0.128241333,Newport
+3889,Cutter Close,St. Julians,0.145482444,Newport
+3890,Cwm Cwddy Drive,Graig,0.278451095,Newport
+3891,Cwm Dylan Close,Graig,0.187815409,Newport
+3892,Cwm Lane,Rogerstone,0.532450564,Newport
+3893,Cwrt Camlas,Rogerstone,0.098623615,Newport
+3894,Cyril Street,Victoria,0.012834318,Newport
+3895,Daffodil Lane,Graig,0.18189082,Newport
+3896,Dale Road,Ringland,0.0222396,Newport
+3897,Daniel Place,Pillgwenlly,0.340180056,Newport
+3898,Darent Close,Bettws,0.12083387,Newport
+3899,Darent Road,Bettws,0.044655409,Newport
+3900,Darlington Court,St. Julians,0.0847676,Newport
+3901,Dart Road,Bettws,0.140448276,Newport
+3902,Darwin Drive,Malpas,0.101465093,Newport
+3903,David Close,Pillgwenlly,0.086923313,Newport
+3904,Davy Close,Malpas,0.14001575,Newport
+3905,Dawson Close,Ringland,0.04926318,Newport
+3906,De Haia Road,Rogerstone,0.00012,Newport
+3907,Dean Street,St. Julians,0.003225391,Newport
+3908,Dean Street,Victoria,0.0013685,Newport
+3909,Delius Close,Alway,0.117981,Newport
+3910,Delius Close,Rogerstone,0.245063625,Newport
+3911,Delphinium Road,Graig,0.177346,Newport
+3912,Denbigh Road,St. Julians,0.07316775,Newport
+3913,Dents Close,Alway,0.13220225,Newport
+3914,Dents Hill,Alway,0.375747522,Newport
+3915,Dents Hill,Ringland,0.443921,Newport
+3916,Derby Grove,Liswerry,0.09752055,Newport
+3917,Derwent Court,Bettws,0.124016891,Newport
+3918,Devon Place,Allt-yr-yn,0.19268465,Newport
+3919,Devon Place,Stow Hill,0.051141077,Newport
+3920,Dewberry Grove,Graig,0.17140412,Newport
+3921,Dewsland Park Road,Stow Hill,0.103683645,Newport
+3922,Dewstow Street,Liswerry,0.044963,Newport
+3923,Dibdin Close,Ringland,0.058458682,Newport
+3924,Dickens Drive,Gaer,0.143939692,Newport
+3925,Diwedd Camlas,Rogerstone,0.079353667,Newport
+3926,Docks Way,Gaer,0.333476015,Newport
+3927,Docks Way,Pillgwenlly,0.273598789,Newport
+3928,Docks Way,Tredegar Park,0.356983429,Newport
+3929,Dolphin Street,Pillgwenlly,0.029630048,Newport
+3930,Don Close,Bettws,0.3554225,Newport
+3931,Dorset Close,Liswerry,0.215467417,Newport
+3932,Dorset Crescent,Liswerry,0.064637061,Newport
+3933,Dos Road,Shaftesbury,0.055684895,Newport
+3934,Dowland Close,Ringland,0.154310357,Newport
+3935,Downing Street,Liswerry,0.008243789,Newport
+3936,Downton Hall Close,Pillgwenlly,0.00012,Newport
+3937,Drake Close,Ringland,0.100850667,Newport
+3938,Drinkwater Close,Gaer,0.064387722,Newport
+3939,Drinkwater Gardens,Gaer,0.165143085,Newport
+3940,Drinkwater Rise,Gaer,0.07706545,Newport
+3941,Drinkwater View,Gaer,0.0604796,Newport
+3942,Drovers Mews,Pillgwenlly,0.1705213,Newport
+3943,Duckpool Road,St. Julians,0.019435696,Newport
+3944,Duckpool Road,Victoria,0.015709702,Newport
+3945,Dudley Street,Liswerry,0.014033917,Newport
+3946,Duffryn Close,Graig,0.14340175,Newport
+3947,Duffryn Drive,Coedkernew,0.6936583,Newport
+3948,Duffryn Drive,Tredegar Park,0.26126167,Newport
+3949,Duffryn Lane,Coedkernew,0.024711,Newport
+3950,Duffryn Way,Tredegar Park,0.166818293,Newport
+3951,Duke Street,Pillgwenlly,0.014945071,Newport
+3952,Dumfries Place,Stow Hill,0.00330645,Newport
+3953,Dunraven Drive,Coedkernew,0.130677212,Newport
+3954,Dunstable Road,Ringland,0.169146565,Newport
+3955,Durham Lane,St. Julians,0.037275133,Newport
+3956,Durham Road,St. Julians,0.01621985,Newport
+3957,East Bank Road,Nash,0.052119788,Newport
+3958,East Dock Road,Pillgwenlly,0.135043094,Newport
+3959,East Grove Road,Alway,0.112947946,Newport
+3960,East Market Street,Pillgwenlly,0.043100067,Newport
+3961,East Street,Stow Hill,0.104936725,Newport
+3962,East Usk Road,St. Julians,0.090519288,Newport
+3963,East Way Road,Pillgwenlly,0.103722572,Newport
+3964,Eastmoor Road,Liswerry,0.166129739,Newport
+3965,Ebenezer Drive,Rogerstone,0.217092016,Newport
+3966,Ebenezer Terrace,Stow Hill,0.155273816,Newport
+3967,Edison Ridge,Malpas,0.200120886,Newport
+3968,Edney View,Tredegar Park,0.109638125,Newport
+3969,Edward German Crescent,Ringland,0.07558242,Newport
+3970,Edward VII Avenue,Allt-yr-yn,0.328971341,Newport
+3971,Edward VII Crescent,Allt-yr-yn,0.251938091,Newport
+3972,Edwin Street,Shaftesbury,0.183055591,Newport
+3973,Eisteddfod Walk,Ringland,0.52283825,Newport
+3974,Elaine Crescent,St. Julians,0.117189258,Newport
+3975,Elan Close,Bettws,0.193579196,Newport
+3976,Elgar Avenue,Alway,0.149530702,Newport
+3977,Elgar Circle,Alway,0.117139243,Newport
+3978,Elgar Close,Alway,0.172792587,Newport
+3979,Elm Grove,Malpas,0.133113533,Newport
+3980,Elysia Street,St. Julians,0.002574455,Newport
+3981,Emlyn Street,Stow Hill,0.044690729,Newport
+3982,Ennerdale Court,St. Julians,0.061030978,Newport
+3983,Enterprise Way,Pillgwenlly,0.153205471,Newport
+3984,Enville Close,Allt-yr-yn,0.120429333,Newport
+3985,Enville Road,Allt-yr-yn,0.229277955,Newport
+3986,Eric Coates Close,Ringland,0.187670429,Newport
+3987,Eschol Close,Liswerry,0.063390357,Newport
+3988,Esperanto Way,Liswerry,0.106157261,Newport
+3989,Essex Street,Victoria,0.054469079,Newport
+3990,Estuary Road,Liswerry,0.244171808,Newport
+3991,Eton Road,Victoria,0.020146571,Newport
+3992,Evans Street,Shaftesbury,0.214098054,Newport
+3993,Evesham Court,Allt-yr-yn,0.39667575,Newport
+3994,Eveswell Court,Beechwood,0.044753462,Newport
+3995,Eveswell Park Road,Beechwood,0.294165535,Newport
+3996,Eveswell Street,Beechwood,0.024637567,Newport
+3997,Excelsior Close,Victoria,0.039930125,Newport
+3998,Exe Road,Bettws,0.118941321,Newport
+3999,Exeter Road,Victoria,0.105400833,Newport
+4000,Exeter Street,Victoria,0.060993406,Newport
+4001,Factory Road,Allt-yr-yn,0.125918716,Newport
+4002,Fairfax Close,Liswerry,0.039907313,Newport
+4003,Fairfax Road,Liswerry,0.033314636,Newport
+4004,Fairoak Avenue,Victoria,0.051496787,Newport
+4005,Fairoak Grove,Graig,0.0735735,Newport
+4006,Fairoak Terrace,Victoria,0.015574185,Newport
+4007,Fairway Close,Rogerstone,0.144883265,Newport
+4008,Fallowfield Drive,Liswerry,0.116973321,Newport
+4009,Faraday Close,Malpas,0.138500267,Newport
+4010,Farmwood Close,Alway,0.136194239,Newport
+4011,Farnaby Close,Ringland,0.189536977,Newport
+4012,Farriers Gate,Graig,0.172880115,Newport
+4013,Faulkner Road,Allt-yr-yn,0.221214433,Newport
+4014,Feering Street,Victoria,0.028040823,Newport
+4015,Fenner Brockway Close,Ringland,0.113914333,Newport
+4016,Fern Rise,Malpas,0.12186913,Newport
+4017,Fernside,Liswerry,0.035997222,Newport
+4018,Ffordd Camlas,Rogerstone,0.079496323,Newport
+4019,Fforest Glade,Beechwood,0.302862883,Newport
+4020,Ffos-y-Fran,Graig,0.215717608,Newport
+4021,Ffos-y-Fran Close,Graig,0.23644,Newport
+4022,Fields Park Avenue,Allt-yr-yn,0.300094907,Newport
+4023,Fields Park Crescent,Allt-yr-yn,0.298897556,Newport
+4024,Fields Park Gardens,Allt-yr-yn,0.181714,Newport
+4025,Fields Park Lane,Allt-yr-yn,0.5011905,Newport
+4026,Fields Park Road,Allt-yr-yn,0.163475462,Newport
+4027,Fields Road,Allt-yr-yn,0.174775063,Newport
+4028,Filey Road,St. Julians,0.0699014,Newport
+4029,Firbank Avenue,Beechwood,0.230520095,Newport
+4030,Firbank Crescent,Beechwood,0.053191077,Newport
+4031,Fisher Close,Ringland,0.084960792,Newport
+4032,Fleetwood Close,Liswerry,0.118629714,Newport
+4033,Fleming Close,Malpas,0.338481731,Newport
+4034,Flint Close,Beechwood,0.196663933,Newport
+4035,Ford Farm Lane,Langstone,0.338787222,Newport
+4036,Ford Street,Stow Hill,0.059666611,Newport
+4037,Forest Close,Beechwood,0.110945184,Newport
+4038,Forge Lane,Graig,0.480481034,Newport
+4039,Forge Mews,Graig,0.414799833,Newport
+4040,Forge Road,Graig,0.338997625,Newport
+4041,Fort View,Graig,0.18373769,Newport
+4042,Fosse Close,Liswerry,0.1712925,Newport
+4043,Fosse Road,Liswerry,0.142131904,Newport
+4044,Foxwood Close,Graig,0.190236364,Newport
+4045,Francis Drive,Pillgwenlly,0.015366857,Newport
+4046,Francis Street,Pillgwenlly,0.0222843,Newport
+4047,Frank Street,St. Julians,0.0023186,Newport
+4048,Fred Edwards Close,Ringland,0.0736015,Newport
+4049,Frederick Mews,Pillgwenlly,0.0789187,Newport
+4050,Frederick Street,Pillgwenlly,0.153140885,Newport
+4051,Freshwater Road,Liswerry,0.24312425,Newport
+4052,Friars Road,Stow Hill,0.378582423,Newport
+4053,Frobisher Road,Liswerry,0.072623531,Newport
+4054,Frome Walk,Bettws,0.0543581,Newport
+4055,Fuscia Way,Rogerstone,0.091682131,Newport
+4056,Gaer Park Avenue,Gaer,0.058373442,Newport
+4057,Gaer Park Drive,Gaer,0.059673814,Newport
+4058,Gaer Park Hill,Gaer,0.076759543,Newport
+4059,Gaer Park Lane,Allt-yr-yn,0.143047,Newport
+4060,Gaer Park Lane,Gaer,0.1789435,Newport
+4061,Gaer Park Parade,Gaer,0.112546269,Newport
+4062,Gaer Park Road,Gaer,0.046950848,Newport
+4063,Gaer Road,Gaer,0.214265429,Newport
+4064,Gaer Street,Stow Hill,0.039890545,Newport
+4065,Gaer Vale,Gaer,0.195339559,Newport
+4066,Gainsborough Drive,Beechwood,0.233013262,Newport
+4067,Garth Close,Graig,0.09458275,Newport
+4068,Garth Terrace,Graig,0.299125625,Newport
+4069,Gaskell Street,Liswerry,0.035448739,Newport
+4070,George Lansbury Drive,Ringland,0.170976385,Newport
+4071,George Street,Pillgwenlly,0.001628875,Newport
+4072,George Street,Stow Hill,0.037952254,Newport
+4073,George Street Bridge,Pillgwenlly,0.049345125,Newport
+4074,George Street Bridge,Stow Hill,0.142907765,Newport
+4075,George Street Bridge,Victoria,0.081968957,Newport
+4076,Gerbera Drive,Graig,0.122341917,Newport
+4077,Gibbons Close,Alway,0.0076545,Newport
+4078,Gibbs Road,Alway,0.104727315,Newport
+4079,Gibbs Road,Beechwood,0.361848,Newport
+4080,Glanmor Crescent,Alway,0.183386088,Newport
+4081,Glanmor Park Avenue,Alway,0.112954391,Newport
+4082,Glanwern Avenue,Alway,0.075538078,Newport
+4083,Glanwern Avenue,Ringland,0.166179346,Newport
+4084,Glanwern Close,Alway,0.0145825,Newport
+4085,Glanwern Drive,Alway,0.086141188,Newport
+4086,Glanwern Grove,Alway,0.02180835,Newport
+4087,Glanwern Rise,Alway,0.367278791,Newport
+4088,Glasllwch Crescent,Allt-yr-yn,0.162334953,Newport
+4089,Glasllwch Crescent,Rogerstone,0.116834846,Newport
+4090,Glasllwch Lane,Allt-yr-yn,0.641808958,Newport
+4091,Glasllwch Lane,Rogerstone,0.498525738,Newport
+4092,Glasllwch View,Rogerstone,0.305817288,Newport
+4093,Glassworks Cottages,Shaftesbury,0.060054036,Newport
+4094,Glastonbury Close,Shaftesbury,0.4147265,Newport
+4095,Glebe Gardens,Graig,0.256605643,Newport
+4096,Glebe Street,Victoria,0.0040168,Newport
+4097,Gloch Wen Close,Graig,0.0767854,Newport
+4098,Gloster Place,St. Julians,0.0126905,Newport
+4099,Gloster Place,Victoria,0.0021475,Newport
+4100,Gloster Street,St. Julians,0.0229135,Newport
+4101,Godfrey Road,Allt-yr-yn,0.214978122,Newport
+4102,Gold Tops,Allt-yr-yn,0.221322973,Newport
+4103,Golden Mile View,Rogerstone,0.316599418,Newport
+4104,Goldsmith Close,Gaer,0.237269083,Newport
+4105,Goodrich Crescent,Shaftesbury,0.014137951,Newport
+4106,Goodrich Grove,Coedkernew,0.105358033,Newport
+4107,Goossens Close,Ringland,0.179786042,Newport
+4108,Gordon Street,Victoria,0.03169512,Newport
+4109,Gore Street,St. Julians,0.06142625,Newport
+4110,Goya Close,Beechwood,0.280435444,Newport
+4111,Grafton Road,Victoria,0.019292948,Newport
+4112,Graham Bell Close,Malpas,0.146990813,Newport
+4113,Graham Street,Stow Hill,0.051718325,Newport
+4114,Graig Close,Graig,0.134497708,Newport
+4115,Graig Park Avenue,Malpas,0.081412895,Newport
+4116,Graig Park Circle,Malpas,0.068026169,Newport
+4117,Graig Park Hill,Malpas,0.078990969,Newport
+4118,Graig Park Lane,Malpas,0.044293,Newport
+4119,Graig Park Parade,Malpas,0.039790923,Newport
+4120,Graig Park Road,Malpas,0.093184415,Newport
+4121,Graig Park Villas,Malpas,0.053333929,Newport
+4122,Graig Wood Close,Malpas,0.194454074,Newport
+4123,Grange Court,Gaer,0.1001825,Newport
+4124,Granville Close,Rogerstone,0.181367867,Newport
+4125,Granville Lane,Stow Hill,0.064447125,Newport
+4126,Granville Street,Stow Hill,0.110360364,Newport
+4127,Great Oaks Park,Rogerstone,0.201662727,Newport
+4128,Greene Close,Ringland,0.077752615,Newport
+4129,Greenfield Road,Rogerstone,0.149264392,Newport
+4130,Greenmeadow Avenue,Liswerry,0.105801795,Newport
+4131,Greenmeadow Road,Liswerry,0.119512271,Newport
+4132,Greenwich Road,Pillgwenlly,0.270947219,Newport
+4133,Grenadier Drive,Langstone,0.122916265,Newport
+4134,Groes Close,Rogerstone,0.3795034,Newport
+4135,Groes Lane,Rogerstone,0.614593452,Newport
+4136,Groes Road,Rogerstone,0.388399162,Newport
+4137,Grosmont Way,Coedkernew,0.092739595,Newport
+4138,Grosvenor Road,Graig,0.206813216,Newport
+4139,Grove Park Drive,Malpas,0.284936452,Newport
+4140,Groves Road,Allt-yr-yn,0.157668272,Newport
+4141,Gwenddwr Grange Close,Pillgwenlly,0.00012,Newport
+4142,Haisbro' Avenue,St. Julians,0.090790182,Newport
+4143,Haldane Place,Malpas,0.092592976,Newport
+4144,Halle Close,Ringland,0.037520333,Newport
+4145,Halstead Street,Victoria,0.009693625,Newport
+4146,Hamilton Street,Liswerry,0.063128636,Newport
+4147,Hammond Drive,Liswerry,0.073329304,Newport
+4148,Hampden Court,Liswerry,0.082327375,Newport
+4149,Hampden Road,Liswerry,0.122371771,Newport
+4150,Hampshire Avenue,Liswerry,0.05184454,Newport
+4151,Hampshire Close,Liswerry,0.198318929,Newport
+4152,Hampshire Crescent,Liswerry,0.056444424,Newport
+4153,Handel Close,Ringland,0.055928692,Newport
+4154,Handsworth Street,Liswerry,0.07412965,Newport
+4155,Harding Avenue,Malpas,0.202972867,Newport
+4156,Hardy Close,Gaer,0.255365208,Newport
+4157,Hargreaves Drive,Malpas,0.322420393,Newport
+4158,Harlech Drive,Graig,0.179512964,Newport
+4159,Harlequin Court,Allt-yr-yn,0.078406,Newport
+4160,Harlequin Court,Shaftesbury,0.122812625,Newport
+4161,Harlequin Drive,Allt-yr-yn,0.1606,Newport
+4162,Harlequin Drive,Shaftesbury,0.091259357,Newport
+4163,Harrogate Road,St. Julians,0.069308875,Newport
+4164,Harrow Road,Victoria,0.024283,Newport
+4165,Hartridge Farm Road,Llanwern,0.660622875,Newport
+4166,Hartridge Farm Road,Ringland,0.561658214,Newport
+4167,Harvey Close,Malpas,0.164639773,Newport
+4168,Hathaway Street,Liswerry,0.067647773,Newport
+4169,Hatherleigh,Alway,0.179733333,Newport
+4170,Havelock Street,Stow Hill,0.0455212,Newport
+4171,Hawarden Road,Alway,0.02233824,Newport
+4172,Hawke Close,Ringland,0.035326929,Newport
+4173,Hawkins Crescent,Ringland,0.071453707,Newport
+4174,Hawksmoor Close,Rogerstone,0.083839154,Newport
+4175,Hawksworth Grove,Liswerry,0.164208167,Newport
+4176,Hawthorn Avenue,Alway,0.191695745,Newport
+4177,Hawthorne Fosse,Alway,0.240851222,Newport
+4178,Hawthorne Square,Alway,0.110089722,Newport
+4179,Hayling Close,Beechwood,0.17622275,Newport
+4180,Haynes Court,Pillgwenlly,0.134705667,Newport
+4181,Hazell Drive,Coedkernew,0.112248946,Newport
+4182,Hazlitt Close,Gaer,0.216214063,Newport
+4183,Heath Close,Liswerry,0.21661425,Newport
+4184,Heather Road,Beechwood,0.171734676,Newport
+4185,Heather Road,St. Julians,0.114147337,Newport
+4186,Heidenheim Drive,,0.07466525,Newport
+4187,Heidenheim Drive,Allt-yr-yn,0.460604667,Newport
+4188,Heidenheim Drive,Shaftesbury,0.237851478,Newport
+4189,Heidenheim Drive,Stow Hill,0.2183525,Newport
+4190,Helford Square,Bettws,0.055764056,Newport
+4191,Hendre Farm Court,Ringland,0.3400961,Newport
+4192,Hendre Farm Drive,Ringland,0.128762258,Newport
+4193,Hendre Farm Gardens,Ringland,0.26787625,Newport
+4194,Henry Morgan Close,Tredegar Park,0.086353324,Newport
+4195,Henry Wood Close,Alway,0.08338458,Newport
+4196,Henry Wood Walk,Alway,0.111458885,Newport
+4197,Hensol Close,Rogerstone,0.140336676,Newport
+4198,Henson Street,Liswerry,0.186214944,Newport
+4199,Heol Senni,Bettws,0.151832767,Newport
+4200,Herbert Road,St. Julians,0.416581958,Newport
+4201,Herbert Street,Pillgwenlly,0.159153722,Newport
+4202,Herbert Walk,Pillgwenlly,0.209583365,Newport
+4203,Hereford Street,Victoria,0.018142155,Newport
+4204,Heron Way,Tredegar Park,0.232101644,Newport
+4205,Hertford Place,Beechwood,0.110354808,Newport
+4206,High Banks,St. Julians,0.110345293,Newport
+4207,High Cross Close,Rogerstone,0.11404475,Newport
+4208,High Cross Drive,Rogerstone,0.172364322,Newport
+4209,High Cross Lane,Rogerstone,0.194851488,Newport
+4210,High Cross Road,Rogerstone,0.16880325,Newport
+4211,Highcroft Road,Allt-yr-yn,0.157745917,Newport
+4212,Highfield Gardens,Graig,0.151570594,Newport
+4213,Highfield Lane,Graig,0.565113688,Newport
+4214,Highfield Road,Gaer,0.096736405,Newport
+4215,Highfield Road,Graig,0.222517464,Newport
+4216,Hill Street,Stow Hill,0.0433057,Newport
+4217,Hilla Road,Allt-yr-yn,0.12776855,Newport
+4218,Hillside Crescent,Rogerstone,0.110377729,Newport
+4219,Hillside Gardens,Gaer,0.115353056,Newport
+4220,Hillview Crescent,Liswerry,0.140734493,Newport
+4221,Hobart Close,Allt-yr-yn,0.25772135,Newport
+4222,Hogarth Close,Beechwood,0.112090962,Newport
+4223,Holbein Road,Beechwood,0.336391846,Newport
+4224,Holland Close,Rogerstone,0.232884444,Newport
+4225,Hollybush Avenue,Malpas,0.148937415,Newport
+4226,Hollybush Close,Malpas,0.128014778,Newport
+4227,Hollyhock Close,Rogerstone,0.088473778,Newport
+4228,Holst Close,Ringland,0.039942231,Newport
+4229,Honeysuckle Close,Rogerstone,0.119563286,Newport
+4230,Hood Road,Ringland,0.099641875,Newport
+4231,Hopefield,Shaftesbury,0.048142026,Newport
+4232,Horrocks Close,Malpas,0.320606533,Newport
+4233,Hoskins Street,Shaftesbury,0.02323038,Newport
+4234,Hove Avenue,Beechwood,0.11676645,Newport
+4235,Howard Close,Ringland,0.117998286,Newport
+4236,Howe Circle,Ringland,0.057431379,Newport
+4237,Hubert Road,St. Julians,0.030389725,Newport
+4238,Humber Close,Bettws,0.144362944,Newport
+4239,Humber Road,Bettws,0.099067924,Newport
+4240,Hunter Close,Rogerstone,0.1362059,Newport
+4241,Hurricane Way,Rogerstone,0.00012,Newport
+4242,Huxley Green,Malpas,0.06456915,Newport
+4243,Hydrangea Close,Rogerstone,0.1964649,Newport
+4244,Ifor Hael Road,Rogerstone,0.166034273,Newport
+4245,Ifton Place,Liswerry,0.104100306,Newport
+4246,Ifton Street,Liswerry,0.015381861,Newport
+4247,Imperial Way,Coedkernew,0.3736189,Newport
+4248,Imperial Way,Tredegar Park,0.7341,Newport
+4249,Ingot Drive,Rogerstone,0.00012,Newport
+4250,Iris Road,Rogerstone,0.104459235,Newport
+4251,Itchen Close,Bettws,0.052647,Newport
+4252,Itchen Road,Bettws,0.207346304,Newport
+4253,Ivor Street,Stow Hill,0.079780656,Newport
+4254,Ivy Road,Allt-yr-yn,0.0607495,Newport
+4255,Jackson Court,Victoria,0.225869,Newport
+4256,Jackson Place,Victoria,0.014189111,Newport
+4257,Jamaica Circle,Coedkernew,0.085853386,Newport
+4258,Jamaica Close,Coedkernew,0.063800833,Newport
+4259,Jamaica Drive,Coedkernew,0.125450429,Newport
+4260,Jamaica Drive,Tredegar Park,0.043956,Newport
+4261,Jamaica Gardens,Coedkernew,0.0137005,Newport
+4262,Jamaica Grove,Coedkernew,0.059435675,Newport
+4263,James Street,Pillgwenlly,0.056828321,Newport
+4264,Jane Austen Close,Gaer,0.233267923,Newport
+4265,Jane Close,Tredegar Park,0.126087813,Newport
+4266,Japonica Close,Malpas,0.204845458,Newport
+4267,Jasmine Close,Graig,0.14071365,Newport
+4268,Jeans Close,Malpas,0.1607195,Newport
+4269,Jeddo Close,Pillgwenlly,0.241497107,Newport
+4270,Jeddo Street,Pillgwenlly,0.29397615,Newport
+4271,Jeffrey Street,Victoria,0.019336526,Newport
+4272,Jellicoe Close,Ringland,0.210311333,Newport
+4273,Jenkins Street,Liswerry,0.043733438,Newport
+4274,Jessop Close,Rogerstone,0.152014357,Newport
+4275,Jessop Road,Rogerstone,0.112045667,Newport
+4276,John Bull Close,Ringland,0.108360375,Newport
+4277,John Ireland Close,Alway,0.069452135,Newport
+4278,John Street,Pillgwenlly,0.045931636,Newport
+4279,Johnston Close,Rogerstone,0.081544056,Newport
+4280,Jones Street,Stow Hill,0.009174121,Newport
+4281,Joyce Close,Gaer,0.1000901,Newport
+4282,Jubilee Way,Rogerstone,0.00012,Newport
+4283,Junction Road,St. Julians,0.070235564,Newport
+4284,Keats Close,Gaer,0.347941469,Newport
+4285,Keene Avenue,Rogerstone,0.225743543,Newport
+4286,Keene Street,Liswerry,0.074613636,Newport
+4287,Kelly Road,Beechwood,0.153956237,Newport
+4288,Kelvedon Street,Victoria,0.0475675,Newport
+4289,Kelvin Close,Malpas,0.274826368,Newport
+4290,Kenilworth Road,Alway,0.013961324,Newport
+4291,Kensington Gardens,Beechwood,0.2723375,Newport
+4292,Kensington Grove,Beechwood,0.047567438,Newport
+4293,Kensington Place,Beechwood,0.276411221,Newport
+4294,Kent Close,Rogerstone,0.174576667,Newport
+4295,Kestrel Way,Tredegar Park,0.237517528,Newport
+4296,Keynsham Avenue,Stow Hill,0.084381224,Newport
+4297,Kidwelly Close,Coedkernew,0.0800085,Newport
+4298,Kier Hardie Crescent,Ringland,0.095453311,Newport
+4299,Kier Hardie Drive,Ringland,0.18067086,Newport
+4300,King's Acre,Allt-yr-yn,0.2793666,Newport
+4301,King's Parade,Pillgwenlly,0.063449741,Newport
+4302,King Lane,Stow Hill,0.0329885,Newport
+4303,King Street,Stow Hill,0.048412867,Newport
+4304,Kingshill Court,Stow Hill,0.033823167,Newport
+4305,Kingsmill Terrace,Stow Hill,0.097229889,Newport
+4306,Kingston Road,Victoria,0.281535833,Newport
+4307,Kingsway,Stow Hill,0.060750714,Newport
+4308,Kipling Hill,Gaer,0.224694329,Newport
+4309,Kirby Daniel Court,Pillgwenlly,0.072065643,Newport
+4310,Kirby Lane,Pillgwenlly,0.2680966,Newport
+4311,Kitty Hawk Drive,Liswerry,0.386899081,Newport
+4312,Laburnham Bush Lane,Liswerry,0.068206556,Newport
+4313,Laburnum Close,Rogerstone,0.115827175,Newport
+4314,Laburnum Drive,Alway,0.235133375,Newport
+4315,Ladyhill Court,Alway,0.04471835,Newport
+4316,Ladyhill Gardens,Alway,0.187425167,Newport
+4317,Ladyhill Green,Alway,0.022023667,Newport
+4318,Ladyhill Road,Alway,0.163167409,Newport
+4319,Lake Road,Liswerry,0.1415244,Newport
+4320,Lakeside Drive,Coedkernew,0.215890848,Newport
+4321,Lamb Close,Gaer,0.149946364,Newport
+4322,Lambert Close,Allt-yr-yn,0.2711818,Newport
+4323,Lambert Close,Shaftesbury,0.081579955,Newport
+4324,Lambert Street,Shaftesbury,0.050277478,Newport
+4325,Lambourne Crescent,Bettws,0.152494186,Newport
+4326,Lambourne Walk,Bettws,0.248833808,Newport
+4327,Lambourne Way,Bettws,0.20814182,Newport
+4328,Lancers Way,Tredegar Park,0.117038333,Newport
+4329,Landseer Close,Beechwood,0.363289615,Newport
+4330,Langland Way,Liswerry,0.157167705,Newport
+4331,Langstone Court Road,Langstone,0.707350409,Newport
+4332,Langstone Rise,Langstone,0.23330325,Newport
+4333,Lansdowne Road,Gaer,0.087574745,Newport
+4334,Larch Court,Malpas,0.375316727,Newport
+4335,Larch Grove,Malpas,0.136997946,Newport
+4336,Laurel Crescent,Malpas,0.174500981,Newport
+4337,Laurel Drive,Graig,0.163369625,Newport
+4338,Laurel Road,Graig,0.208143902,Newport
+4339,Lavender Way,Graig,0.122620563,Newport
+4340,Lavery Close,Beechwood,0.111324545,Newport
+4341,Lawrence Hill,Alway,0.330562617,Newport
+4342,Lawrence Hill Avenue,Alway,0.119102855,Newport
+4343,Lea Close,Bettws,0.105877481,Newport
+4344,Leach Road,Bettws,0.463791883,Newport
+4345,Ledbury Drive,Shaftesbury,0.186255091,Newport
+4346,Lee Way,Liswerry,0.069933631,Newport
+4347,Leeway Court,Liswerry,0.049023773,Newport
+4348,Leicester Road,St. Julians,0.04910019,Newport
+4349,Lennard Street,Victoria,0.009848286,Newport
+4350,Lewis Close,Pillgwenlly,0.165973045,Newport
+4351,Libeneth Road,Alway,0.319393664,Newport
+4352,Liberty Grove,Liswerry,0.239042652,Newport
+4353,Lighthouse Road,Tredegar Park,0.501406446,Newport
+4354,Lilac Grove,Graig,0.294410214,Newport
+4355,Lilburne Drive,Liswerry,0.21017931,Newport
+4356,Lilleshall Street,Liswerry,0.166658391,Newport
+4357,Lily Way,Rogerstone,0.200568754,Newport
+4358,Lime Close,Pillgwenlly,0.0272995,Newport
+4359,Lime Crescent,Alway,0.13208994,Newport
+4360,Lincoln Close,Beechwood,0.122768583,Newport
+4361,Lindbergh Close,Liswerry,0.1402475,Newport
+4362,Linden Road,Alway,0.20331312,Newport
+4363,Linley Close,Ringland,0.154055714,Newport
+4364,Linton Street,Pillgwenlly,0.018716222,Newport
+4365,Liscombe Street,Liswerry,0.037485289,Newport
+4366,Lister Green,Malpas,0.091561444,Newport
+4367,Liswerry Park Drive,Alway,0.208005089,Newport
+4368,Liswerry Road,Alway,0.139017451,Newport
+4369,Liswerry Road,Liswerry,0.109030371,Newport
+4370,Little Oaks View,Rogerstone,0.1236694,Newport
+4371,Livale Close,Bettws,0.218777714,Newport
+4372,Livale Court,Bettws,0.0978762,Newport
+4373,Livale Road,Bettws,0.152424,Newport
+4374,Liverpool Street,Victoria,0.003002531,Newport
+4375,Livingstone Place,Victoria,0.077538,Newport
+4376,Llanberis Close,Graig,0.181095583,Newport
+4377,Llandaff Street,Stow Hill,0.161864538,Newport
+4378,Llandegfedd Close,Rogerstone,0.170899182,Newport
+4379,Llangorse Drive,Rogerstone,0.166088276,Newport
+4380,Llanidloes Mews,Coedkernew,0.010805333,Newport
+4381,Llanover Close,Malpas,0.227459405,Newport
+4382,Llanover Close,Shaftesbury,0.4475526,Newport
+4383,Llanthewy Road,Allt-yr-yn,0.141399098,Newport
+4384,Llanvair Road,St. Julians,0.0592192,Newport
+4385,Llanwern Road,Ringland,0.212102385,Newport
+4386,Llanwern Street,Victoria,0.020340333,Newport
+4387,Llewellyn Grove,Malpas,0.103241,Newport
+4388,Llewellyn Street,Alway,0.009942143,Newport
+4389,Llewellyn Walk,Malpas,0.071505423,Newport
+4390,Lloyd Street,Liswerry,0.015166457,Newport
+4391,Llwyn Deri Close,Graig,0.202265417,Newport
+4392,Llwynderi Road,Allt-yr-yn,0.122923158,Newport
+4393,Llyn Berwyn Close,Rogerstone,0.11312835,Newport
+4394,Llyn Celyn Close,Rogerstone,0.254053167,Newport
+4395,Lobelia Close,Rogerstone,0.095216842,Newport
+4396,Locke Street,Allt-yr-yn,0.008649295,Newport
+4397,Lodden Close,Bettws,0.1620577,Newport
+4398,London Street,Victoria,0.010259964,Newport
+4399,Longditch Lane,Liswerry,0.2271328,Newport
+4400,Longtown Grove,Coedkernew,0.106540932,Newport
+4401,Lord Street,St. Julians,0.075991667,Newport
+4402,Lower Dock Street,Pillgwenlly,0.060052606,Newport
+4403,Lower Dock Street,Stow Hill,0.014424403,Newport
+4404,Lower George Street,Pillgwenlly,0.066645167,Newport
+4405,Lower George Street,Stow Hill,0.092764368,Newport
+4406,Lowndes Close,Graig,0.2051245,Newport
+4407,Lucas Street,Allt-yr-yn,0.013730447,Newport
+4408,Ludlow Close,Liswerry,0.0884175,Newport
+4409,Lundy Drive,Beechwood,0.114769667,Newport
+4410,Lupin Grove,Rogerstone,0.068624,Newport
+4411,Lyndhurst Avenue,Gaer,0.099335189,Newport
+4412,Lyne Road,Shaftesbury,0.178621655,Newport
+4413,Lysaght Avenue,Liswerry,0.001907185,Newport
+4414,Lysaght Circle,Liswerry,0.032125875,Newport
+4415,Lysaght Way,Liswerry,0.00338985,Newport
+4416,Macaulay Gardens,Gaer,0.05166725,Newport
+4417,Maesglas Avenue,Gaer,0.068879051,Newport
+4418,Maesglas Close,Gaer,0.136013593,Newport
+4419,Maesglas Crescent,Gaer,0.038244826,Newport
+4420,Maesglas Grove,Gaer,0.102982951,Newport
+4421,Maesglas Road,Gaer,0.072767954,Newport
+4422,Maesglas Road,Pillgwenlly,0.44453425,Newport
+4423,Magnolia Close,Malpas,0.0887135,Newport
+4424,Magor Road,Langstone,0.3046761,Newport
+4425,Magor Street,Liswerry,0.020653529,Newport
+4426,Maindee Parade,Victoria,0.038372074,Newport
+4427,Malcolm Sargent Close,Ringland,0.310419151,Newport
+4428,Mallard Way,Tredegar Park,0.109542735,Newport
+4429,Malmesbury Close,Shaftesbury,0.388818167,Newport
+4430,Malpas Road,,0.2012235,Newport
+4431,Malpas Road,Llantarnam,0.35546725,Newport
+4432,Malpas Road,Malpas,0.178659938,Newport
+4433,Malpas Road,Shaftesbury,0.115823393,Newport
+4434,Malvern Close,Beechwood,0.201816364,Newport
+4435,Malvern Road,Victoria,0.065756111,Newport
+4436,Manchester Street,Victoria,0.010118013,Newport
+4437,Manley Road,Allt-yr-yn,0.195262375,Newport
+4438,Manor Park,Tredegar Park,0.118805695,Newport
+4439,Mansel Street,Alway,0.021438607,Newport
+4440,Maplewood,Langstone,0.0525304,Newport
+4441,Marayat Walk,Gaer,0.260765,Newport
+4442,Marconi Close,Malpas,0.4209027,Newport
+4443,Margaret Avenue,St. Julians,0.026964167,Newport
+4444,Marigold Close,Graig,0.125023583,Newport
+4445,Mariner Way,Nash,0.171278029,Newport
+4446,Marion Place,Pillgwenlly,0.195216515,Newport
+4447,Marion Street,Pillgwenlly,0.340680068,Newport
+4448,Marlborough Road,Victoria,0.035076478,Newport
+4449,Marlow Close,Rogerstone,0.1303025,Newport
+4450,Marlowe Gardens,Gaer,0.259993,Newport
+4451,Marshfield Street,Liswerry,0.01766255,Newport
+4452,Marston Court,Allt-yr-yn,0.125745667,Newport
+4453,Masefield Vale,Gaer,0.348204612,Newport
+4454,Maugham Close,Gaer,0.22480585,Newport
+4455,May Street,Victoria,0.054609375,Newport
+4456,Meadow Close,Allt-yr-yn,0.00012,Newport
+4457,Meadowlands Drive,Graig,0.293738641,Newport
+4458,Meads Close,Liswerry,0.1049453,Newport
+4459,Medlock Close,Bettws,0.113214292,Newport
+4460,Medlock Crescent,Bettws,0.086144766,Newport
+4461,Medway Close,Bettws,0.14728025,Newport
+4462,Medway Court,Bettws,0.103547318,Newport
+4463,Medway Road,Bettws,0.101527957,Newport
+4464,Melbourne Way,Allt-yr-yn,0.224837412,Newport
+4465,Melfort Gardens,Gaer,0.298854346,Newport
+4466,Melfort Road,Gaer,0.132015458,Newport
+4467,Mellon Street,Stow Hill,0.003901469,Newport
+4468,Mendalgief Road,Pillgwenlly,0.10117734,Newport
+4469,Mendip Close,Ringland,0.058077464,Newport
+4470,Meon Close,Bettws,0.088068857,Newport
+4471,Meredith Close,Gaer,0.109725081,Newport
+4472,Merlin Crescent,Beechwood,0.228988667,Newport
+4473,Merlin Crescent,St. Julians,0.110498989,Newport
+4474,Merriott Place,Victoria,0.098040333,Newport
+4475,Methuen Road,Victoria,0.105450391,Newport
+4476,Michaelmas Close,Rogerstone,0.074161885,Newport
+4477,Mill Heath,Bettws,0.193574238,Newport
+4478,Mill Lane,Langstone,0.726896813,Newport
+4479,Mill Parade,Pillgwenlly,0.102566913,Newport
+4480,Mill Street,Stow Hill,0.06936,Newport
+4481,Miller Close,Langstone,0.237323848,Newport
+4482,Milman Street,Pillgwenlly,0.066620176,Newport
+4483,Milner Street,Liswerry,0.075408173,Newport
+4484,Milton Close,Ringland,0.233584278,Newport
+4485,Milton Road,Beechwood,0.109233029,Newport
+4486,Mission Court,Pillgwenlly,0.046840674,Newport
+4487,Mole Close,Bettws,0.0794489,Newport
+4488,Monet Crescent,Beechwood,0.414294952,Newport
+4489,Monmouth Castle Drive,Pillgwenlly,0.003160936,Newport
+4490,Monmouth Castle Drive,Stow Hill,0.0495985,Newport
+4491,Monmouth Drive,Beechwood,0.16151775,Newport
+4492,Monnow Walk,Bettws,0.098200011,Newport
+4493,Monnow Way,Bettws,0.109228052,Newport
+4494,Mons Close,Allt-yr-yn,0.185721324,Newport
+4495,Montgomery Road,Malpas,0.092421212,Newport
+4496,Montreal Close,Allt-yr-yn,0.218227136,Newport
+4497,Moore Crescent,Ringland,0.084091,Newport
+4498,Moorland Avenue,Liswerry,0.07949469,Newport
+4499,Moorland Gardens,Liswerry,0.185421889,Newport
+4500,Moorland Park,Liswerry,0.176505398,Newport
+4501,Morden Road,St. Julians,0.039723732,Newport
+4502,Morgan Street,St. Julians,0.107274708,Newport
+4503,Morgan Way,Tredegar Park,0.370328883,Newport
+4504,Morgraig Avenue,Coedkernew,0.198170056,Newport
+4505,Morlais Mews,Coedkernew,0.01527475,Newport
+4506,Morley Close,Ringland,0.06743,Newport
+4507,Morris Street,Victoria,0.146109241,Newport
+4508,Morton Way,Gaer,0.19570275,Newport
+4509,Mount Bax,Alway,0.2885716,Newport
+4510,Mount Pleasant,Malpas,0.35646075,Newport
+4511,Mountbatten Close,Ringland,0.174506759,Newport
+4512,Mountford Close,Rogerstone,0.195417318,Newport
+4513,Mountjoy Place,Pillgwenlly,0.170639,Newport
+4514,Mountjoy Road,Pillgwenlly,0.072722583,Newport
+4515,Mountjoy Street,Pillgwenlly,0.087067643,Newport
+4516,Moxon Road,Malpas,0.173731194,Newport
+4517,Mulberry Close,Rogerstone,0.166162846,Newport
+4518,Mulcaster Avenue,Liswerry,0.103605462,Newport
+4519,Munnings Drive,Beechwood,0.221372529,Newport
+4520,Myra Hess Close,Ringland,0.171731227,Newport
+4521,Myrtle Close,Rogerstone,0.212838375,Newport
+4522,Myrtle Drive,Rogerstone,0.381876618,Newport
+4523,Myrtle Grove,Alway,0.182041875,Newport
+4524,Nant Coch Drive,Allt-yr-yn,0.240927868,Newport
+4525,Nantcoch Rise,Allt-yr-yn,0.251249292,Newport
+4526,Narbeth Close,Coedkernew,0.017032938,Newport
+4527,Narcissus Grove,Rogerstone,0.089267138,Newport
+4528,Nash Close,Rogerstone,0.149445056,Newport
+4529,Nash Drive,Liswerry,0.199787909,Newport
+4530,Nash Grove,Liswerry,0.062218109,Newport
+4531,Nash Mead,Liswerry,0.293375573,Newport
+4532,Nash Road,Liswerry,0.230035237,Newport
+4533,Neath Abbey Grove,Pillgwenlly,0.00012,Newport
+4534,Nelson Drive,Ringland,0.085695849,Newport
+4535,Neston Road,Ringland,0.204801306,Newport
+4536,Neuadda Close,Graig,0.3106825,Newport
+4537,New Pastures,Gaer,0.10138012,Newport
+4538,New Quay Road,Nash,0.123217603,Newport
+4539,New Ruperra Street,Pillgwenlly,0.003391889,Newport
+4540,New Street,Pillgwenlly,0.001776091,Newport
+4541,Newman Close,Ringland,0.05991675,Newport
+4542,Newport Bridge,Stow Hill,0.12028025,Newport
+4543,Newport Bridge,Victoria,0.0055605,Newport
+4544,Newton Way,Malpas,0.225816091,Newport
+4545,Nidd Close,Bettws,0.220265275,Newport
+4546,Noral Place,Rogerstone,0.00012,Newport
+4547,Norfolk Road,Beechwood,0.106356769,Newport
+4548,Norfolk Road,St. Julians,0.024648833,Newport
+4549,North Lake Drive,Coedkernew,0.050027046,Newport
+4550,North Street,Stow Hill,0.051708579,Newport
+4551,Northumberland Road,Beechwood,0.092238917,Newport
+4552,Oak Road,Rogerstone,0.194773681,Newport
+4553,Oak Street,St. Julians,0.02906287,Newport
+4554,Oak Tree Drive,Rogerstone,0.19622473,Newport
+4555,Oakfield Gardens,Allt-yr-yn,0.573301667,Newport
+4556,Oakfield Road,Allt-yr-yn,0.234451681,Newport
+4557,Oaklands Park Drive,Graig,0.102378122,Newport
+4558,Oaklands Road,Beechwood,0.468103208,Newport
+4559,Oakley Street,Liswerry,0.031218089,Newport
+4560,Oaks Close,Gaer,0.1523053,Newport
+4561,Obama Grove,Rogerstone,0.086579771,Newport
+4562,Octavius Close,Tredegar Park,0.136271125,Newport
+4563,Ogmore Crescent,Bettws,0.221082167,Newport
+4564,Ogmore Crescent,Rogerstone,0.598689,Newport
+4565,Old Barn,St. Julians,0.044619333,Newport
+4566,Old Cardiff Road,Gaer,0.159183229,Newport
+4567,Old Castle Close,Coedkernew,0.072682333,Newport
+4568,Old Chepstow Road,Langstone,0.531889138,Newport
+4569,Old Hall Close,Tredegar Park,0.1757558,Newport
+4570,Old Hill,Caerleon,0.616498893,Newport
+4571,Old Hill Crescent,Caerleon,0.183604491,Newport
+4572,Old Langstone Court Road,Langstone,0.470243387,Newport
+4573,Old Roman Road,Langstone,0.621296773,Newport
+4574,Oliphant Circle,Malpas,0.224752637,Newport
+4575,Oliver Road,Liswerry,0.120166167,Newport
+4576,Ombersley Road,Allt-yr-yn,0.137813,Newport
+4577,Orangery Walk,Tredegar Park,0.102649711,Newport
+4578,Orchard Court,St. Julians,0.018028,Newport
+4579,Orchard Gardens,St. Julians,0.083618333,Newport
+4580,Orchard Mews,St. Julians,0.0213833,Newport
+4581,Orchard Street,St. Julians,0.013187323,Newport
+4582,Oriel Road,Victoria,0.064844286,Newport
+4583,Oswald Road,Pillgwenlly,0.065150091,Newport
+4584,Otter Close,Bettws,0.105350143,Newport
+4585,Oxford Street,Beechwood,0.069377214,Newport
+4586,Oxwich Grove,Coedkernew,0.0184613,Newport
+4587,Oystermouth Mews,Coedkernew,0.048269214,Newport
+4588,Oystermouth Way,Coedkernew,0.06006364,Newport
+4589,Palm Square,Alway,0.179172667,Newport
+4590,Palmyra Place,Stow Hill,0.189739471,Newport
+4591,Pant Glas Court,Graig,0.332094714,Newport
+4592,Pant Road,Shaftesbury,0.025207308,Newport
+4593,Parfitt Street,Liswerry,0.068370375,Newport
+4594,Park Avenue,Gaer,0.109357196,Newport
+4595,Park Avenue,Rogerstone,0.051583208,Newport
+4596,Park Close,Gaer,0.498734222,Newport
+4597,Park Crescent,Gaer,0.155850096,Newport
+4598,Park Drive,Gaer,0.092119561,Newport
+4599,Park End,Langstone,0.158767519,Newport
+4600,Park Gardens,Gaer,0.16501725,Newport
+4601,Park Square,Stow Hill,0.2997921,Newport
+4602,Park View,Graig,0.211883768,Newport
+4603,Park View,Rogerstone,0.0701145,Newport
+4604,Park View Gardens,Graig,0.182088152,Newport
+4605,Park Way,Rogerstone,0.00012,Newport
+4606,Parkfield Place,Allt-yr-yn,0.116828118,Newport
+4607,Parklands Close,Rogerstone,0.115311917,Newport
+4608,Parkwood Drive,Graig,0.2117595,Newport
+4609,Parret Close,Bettws,0.156371386,Newport
+4610,Parret Road,Bettws,0.188687571,Newport
+4611,Parry Drive,Alway,0.134255085,Newport
+4612,Partridge Way,Tredegar Park,0.243805756,Newport
+4613,Patti Close,Ringland,0.306183344,Newport
+4614,Paul's End Court,Stow Hill,0.218803583,Newport
+4615,Pear Tree Lane,Liswerry,0.52303925,Newport
+4616,Pembroke Grove,Liswerry,0.060027281,Newport
+4617,Pen-y-bryn Close,Bettws,0.178606947,Newport
+4618,Pen y Groes Grove,Graig,0.149367192,Newport
+4619,Pencarn Avenue,Coedkernew,0.411079671,Newport
+4620,Pencarn Lane,Coedkernew,0.190645037,Newport
+4621,Pencarn Lane,Tredegar Park,0.486892,Newport
+4622,Pencarn Way,Coedkernew,0.502951,Newport
+4623,Pencarn Way,Tredegar Park,0.590804292,Newport
+4624,Penhow Mews,Coedkernew,0.075161375,Newport
+4625,Penkin Close,Alway,0.227881417,Newport
+4626,Penkin Hill,Alway,0.1130705,Newport
+4627,Penllyn Avenue,Allt-yr-yn,0.065573143,Newport
+4628,Pennard Close,Coedkernew,0.0206095,Newport
+4629,Penny Crescent,Malpas,0.260576959,Newport
+4630,Pensidan View,Graig,0.255618767,Newport
+4631,Pentonville,Allt-yr-yn,0.026295786,Newport
+4632,Pentre-poeth Close,Graig,0.206303421,Newport
+4633,Pentre-poeth Road,Graig,0.558003392,Newport
+4634,Pentre-tai Road,Graig,0.221721974,Newport
+4635,Pentwyn Lane,Bettws,0.536970489,Newport
+4636,Penylan Close,Graig,0.138087611,Newport
+4637,Penylan Road,Alway,0.113185444,Newport
+4638,Pepys Grove,Gaer,0.202013233,Newport
+4639,Petunia Walk,Graig,0.118511429,Newport
+4640,Phillip Street,Victoria,0.06723175,Newport
+4641,Picton Walk,Coedkernew,0.080247333,Newport
+4642,Pillmawr Circle,Malpas,0.130738727,Newport
+4643,Pillmawr Road,Malpas,0.21475453,Newport
+4644,Pilton Vale,Malpas,0.169633626,Newport
+4645,Pine Grove,Tredegar Park,0.196407923,Newport
+4646,Pinewood Close,Malpas,0.237529115,Newport
+4647,Piper Close,Beechwood,0.146351235,Newport
+4648,Piper Close,Caerleon,0.229778,Newport
+4649,Playford Crescent,Ringland,0.100842203,Newport
+4650,Plym Walk,Bettws,0.199886222,Newport
+4651,Pontfaen Road,Liswerry,0.115044135,Newport
+4652,Pontymason Close,Rogerstone,0.106094388,Newport
+4653,Pontymason Court,Rogerstone,0.073980444,Newport
+4654,Pontymason Lane,Rogerstone,0.300283872,Newport
+4655,Pontymason Rise,Rogerstone,0.104758773,Newport
+4656,Poplar Road,Alway,0.1864029,Newport
+4657,Poppy Place,Graig,0.14494455,Newport
+4658,Port Road,Pillgwenlly,0.256497453,Newport
+4659,Portland Street,Pillgwenlly,0.108260092,Newport
+4660,Portskewett Street,Liswerry,0.041661271,Newport
+4661,Potter Street,Pillgwenlly,0.031032532,Newport
+4662,Pottery Road,Pillgwenlly,0.025282269,Newport
+4663,Pottery Terrace,Pillgwenlly,0.194388328,Newport
+4664,Powell's Place,Stow Hill,0.003522,Newport
+4665,Power Street,Shaftesbury,0.392531309,Newport
+4666,Powis Close,Coedkernew,0.126306844,Newport
+4667,Preston Avenue,Allt-yr-yn,0.139627329,Newport
+4668,Price Close,Pillgwenlly,0.20104655,Newport
+4669,Priestley Close,Gaer,0.146265611,Newport
+4670,Primrose Way,Graig,0.105571682,Newport
+4671,Prince Street,Victoria,0.003252034,Newport
+4672,Priory Crescent,Langstone,0.160678652,Newport
+4673,Priory Drive,Langstone,0.378183558,Newport
+4674,Priory Gardens,Langstone,0.171416133,Newport
+4675,Priory Grove,Langstone,0.140729455,Newport
+4676,Priory View,Langstone,0.037706,Newport
+4677,Priory Way,Langstone,0.13811125,Newport
+4678,Probert Place,Victoria,0.042538188,Newport
+4679,Prospect Street,Shaftesbury,0.004094462,Newport
+4680,Pugsley Street,Shaftesbury,0.307657797,Newport
+4681,Pump Street,Stow Hill,0.08941815,Newport
+4682,Purcell Square,Alway,0.1414905,Newport
+4683,Pye Corner,Rogerstone,0.423613,Newport
+4684,Quantock Drive,Ringland,0.201940895,Newport
+4685,Quebec Close,Allt-yr-yn,0.239480333,Newport
+4686,Queen's Close,Allt-yr-yn,0.108489577,Newport
+4687,Queen's Croft,Allt-yr-yn,0.130547611,Newport
+4688,Queen's Hill,Allt-yr-yn,0.188941991,Newport
+4689,Queen's Hill,Shaftesbury,0.145251393,Newport
+4690,Queen's Hill Crescent,Allt-yr-yn,0.082194137,Newport
+4691,Queen Street,Stow Hill,0.08003,Newport
+4692,Queensway,Stow Hill,0.066807193,Newport
+4693,Queensway Meadows,Liswerry,0.365005649,Newport
+4694,Quilter Close,Ringland,0.136103346,Newport
+4695,Rachel Square,Tredegar Park,0.184759875,Newport
+4696,Radnor Road,St. Julians,0.138776929,Newport
+4697,Raglan Mews,Coedkernew,0.067686167,Newport
+4698,Railway Street,Stow Hill,0.02804,Newport
+4699,Ramsey Close,Beechwood,0.285413857,Newport
+4700,Rankine Close,Malpas,0.25091775,Newport
+4701,Raphael Close,Beechwood,0.151185462,Newport
+4702,Redbrick Gardens,St. Julians,0.03039705,Newport
+4703,Redbrook Road,Allt-yr-yn,0.197997369,Newport
+4704,Redland Street,Shaftesbury,0.004741667,Newport
+4705,Redvers Street,Liswerry,0.096449444,Newport
+4706,Reene Court,Liswerry,0.363435438,Newport
+4707,Rees Close,Malpas,0.200904889,Newport
+4708,Rembrandt Way,Beechwood,0.399953735,Newport
+4709,Rembrandt Way,St. Julians,0.320238417,Newport
+4710,Renoir Road,Beechwood,0.454511076,Newport
+4711,Renoir Road,Caerleon,0.521301667,Newport
+4712,Reservoir Close,Rogerstone,0.307940333,Newport
+4713,Reynolds Close,Beechwood,0.495262,Newport
+4714,Reynolds Close,St. Julians,0.481235273,Newport
+4715,Rhuddlan Close,Graig,0.3556411,Newport
+4716,Rhymney Way,Graig,0.196814347,Newport
+4717,Ribble Square,Bettws,0.112462237,Newport
+4718,Richmond Road,St. Julians,0.091496415,Newport
+4719,Ridgeway,Allt-yr-yn,0.416998774,Newport
+4720,Ridgeway Avenue,Allt-yr-yn,0.134394318,Newport
+4721,Ridgeway Close,Allt-yr-yn,0.11625836,Newport
+4722,Ridgeway Court,Allt-yr-yn,0.141384722,Newport
+4723,Ridgeway Crescent,Allt-yr-yn,0.185618671,Newport
+4724,Ridgeway Drive,Allt-yr-yn,0.11002987,Newport
+4725,Ridgeway Gardens,Allt-yr-yn,0.0323021,Newport
+4726,Ridgeway Grove,Allt-yr-yn,0.234991938,Newport
+4727,Ridgeway Hill,Allt-yr-yn,0.131613295,Newport
+4728,Ridgeway Park Road,Allt-yr-yn,0.123890873,Newport
+4729,Ridgeway Place,Allt-yr-yn,0.0668864,Newport
+4730,Ridgeway Reach,Allt-yr-yn,0.021281875,Newport
+4731,Ridgeway Rise,Allt-yr-yn,0.103589458,Newport
+4732,Ridgeway View,Allt-yr-yn,0.107258333,Newport
+4733,Ridgeway Villas,Allt-yr-yn,0.086313417,Newport
+4734,Ridgeway Walk,Allt-yr-yn,0.0651263,Newport
+4735,Ringland Circle,Alway,0.337965883,Newport
+4736,Ringland Circle,Ringland,0.252731263,Newport
+4737,Ringland Way,Llanwern,0.317917639,Newport
+4738,Ringland Way,Ringland,0.275485168,Newport
+4739,Ringwood Avenue,Ringland,0.123132228,Newport
+4740,Ringwood Hill,Alway,0.098114765,Newport
+4741,Ringwood Hill,Ringland,0.230974143,Newport
+4742,Ringwood Place,Alway,0.154087375,Newport
+4743,Risca Road,Allt-yr-yn,0.260066367,Newport
+4744,Risca Road,Rogerstone,0.325128786,Newport
+4745,Rivermead Way,Graig,0.293247208,Newport
+4746,Rivermead Way,Rogerstone,0.528797347,Newport
+4747,Riverside,St. Julians,0.090446344,Newport
+4748,Road D,Rogerstone,0.0080553,Newport
+4749,Robbin's Lane,Stow Hill,0.005552393,Newport
+4750,Robert Close,Pillgwenlly,0.135734867,Newport
+4751,Roberts Close,Rogerstone,0.125590727,Newport
+4752,Robertson Way,Malpas,0.171484689,Newport
+4753,Robin Hood Lane,Langstone,0.772462,Newport
+4754,Rochester Road,Beechwood,0.004353467,Newport
+4755,Rockfield Street,St. Julians,0.015047196,Newport
+4756,Roding Close,Bettws,0.256535263,Newport
+4757,Rodney Road,Victoria,0.097774738,Newport
+4758,Romney Close,Beechwood,0.208581278,Newport
+4759,Ronald Road,St. Julians,0.103629415,Newport
+4760,Rosamund Close,Tredegar Park,0.127334643,Newport
+4761,Rose Street,Allt-yr-yn,0.005658278,Newport
+4762,Rose Walk,Graig,0.097614429,Newport
+4763,Rosecroft Drive,Langstone,0.194025029,Newport
+4764,Rosendale Court,Beechwood,0.44661475,Newport
+4765,Ross Street,Shaftesbury,0.012753,Newport
+4766,Rosslyn Road,Beechwood,0.012723563,Newport
+4767,Rother Close,Bettws,0.077915875,Newport
+4768,Rothesay Road,Beechwood,0.009567233,Newport
+4769,Rowan Way,Malpas,0.173978968,Newport
+4770,Royal Oak Drive,Ringland,0.171646773,Newport
+4771,Royal Oak Hill,Caerleon,0.443231,Newport
+4772,Royal Oak Hill,Ringland,0.337729735,Newport
+4773,Royston Crescent,Liswerry,0.055200804,Newport
+4774,Rubens Close,Beechwood,0.160884,Newport
+4775,Rubens Close,St. Julians,0.365712,Newport
+4776,Rudry Street,St. Julians,0.0770179,Newport
+4777,Rugby Road,Victoria,0.057441531,Newport
+4778,Ruperra Close,Graig,0.199053444,Newport
+4779,Ruperra Lane,Pillgwenlly,0.057396958,Newport
+4780,Ruperra Street,Pillgwenlly,0.071135595,Newport
+4781,Rupert Brooke Drive,Gaer,0.083269604,Newport
+4782,Ruskin Avenue,Rogerstone,0.239667783,Newport
+4783,Ruskin Rise,Gaer,0.146009337,Newport
+4784,Russell Close,Graig,0.248243029,Newport
+4785,Russell Drive,Malpas,0.192946365,Newport
+4786,Russet Close,Langstone,0.1016062,Newport
+4787,Rutherford Hill,Malpas,0.115478852,Newport
+4788,Rutland Place,Pillgwenlly,0.0781662,Newport
+4789,Salisbury Close,Shaftesbury,0.363291667,Newport
+4790,Sandalwood Court,Victoria,0.053850357,Newport
+4791,Sandpiper Way,Tredegar Park,0.1243932,Newport
+4792,Sandy Lane,Tredegar Park,0.4493013,Newport
+4793,Scarborough Road,St. Julians,0.0947809,Newport
+4794,Scard Street,Stow Hill,0.0791434,Newport
+4795,Scholars Close,Rogerstone,0.189968545,Newport
+4796,School Lane,Stow Hill,0.052679075,Newport
+4797,School Terrace,Rogerstone,0.388471615,Newport
+4798,Schooner Avenue,Tredegar Park,0.077471383,Newport
+4799,Schooner Circle,Tredegar Park,0.05444819,Newport
+4800,Schooner Close,Tredegar Park,0.056321857,Newport
+4801,Scott Close,Gaer,0.297407591,Newport
+4802,Seabreeze Avenue,Liswerry,0.082056043,Newport
+4803,Seabreeze Avenue,Victoria,0.142068143,Newport
+4804,Seabreeze Crescent,Liswerry,0.040305464,Newport
+4805,Seabreeze Drive,Liswerry,0.06443131,Newport
+4806,Sedgemoor Court,Allt-yr-yn,0.1250605,Newport
+4807,Serpentine Road,Allt-yr-yn,0.309493896,Newport
+4808,Seven Stiles Avenue,Liswerry,0.161451838,Newport
+4809,Severn Terrace,Stow Hill,0.1258215,Newport
+4810,Shaftesbury Street,Shaftesbury,0.204152161,Newport
+4811,Shaftesbury Street,Stow Hill,0.189774167,Newport
+4812,Shakespeare Crescent,Gaer,0.130235459,Newport
+4813,Shannon Road,Bettws,0.238535714,Newport
+4814,Shaw Grove,Gaer,0.182338953,Newport
+4815,Sheaf Lane,Victoria,0.155835,Newport
+4816,Shelley Road,Beechwood,0.215929778,Newport
+4817,Shepherd Drive,Langstone,0.289429847,Newport
+4818,Sheridan Close,Gaer,0.20798275,Newport
+4819,Shetland Close,Beechwood,0.146131773,Newport
+4820,Shrewsbury Close,Shaftesbury,0.508931071,Newport
+4821,Sickert Close,Beechwood,0.121838556,Newport
+4822,Sidney Street,Stow Hill,0.077413333,Newport
+4823,Silure Way,Langstone,0.241277486,Newport
+4824,Silver Fir Square,Rogerstone,0.157626833,Newport
+4825,Simpson Close,Malpas,0.0621195,Newport
+4826,Sims Square,Alway,0.189107,Newport
+4827,Sir Briggs Avenue,Tredegar Park,0.407203353,Newport
+4828,Sir Charles Crescent,Tredegar Park,0.173786152,Newport
+4829,Sir Charles Square,Tredegar Park,0.127772143,Newport
+4830,Skenfrith Mews,Coedkernew,0.049002667,Newport
+4831,Skinner Street,Stow Hill,0.00372026,Newport
+4832,Slade Street,Liswerry,0.00947485,Newport
+4833,Snowdrop Lane,Graig,0.423325875,Newport
+4834,Soane Close,Rogerstone,0.125490067,Newport
+4835,Soho Street,Beechwood,0.20393125,Newport
+4836,Soho Street,Liswerry,0.489857946,Newport
+4837,Soho Street,Victoria,0.166301773,Newport
+4838,Somerset Road,St. Julians,0.034410542,Newport
+4839,Somerton Crescent,Alway,0.254123474,Newport
+4840,Somerton Lane,Liswerry,0.236969152,Newport
+4841,Somerton Park,Liswerry,0.138155487,Newport
+4842,Somerton Road,Alway,0.089840012,Newport
+4843,Somerton Road,Liswerry,0.082645689,Newport
+4844,Sorrel Drive,Allt-yr-yn,0.251443791,Newport
+4845,South Lake Drive,Coedkernew,0.167893452,Newport
+4846,South Market Street,Pillgwenlly,0.159388392,Newport
+4847,Southville Road,Allt-yr-yn,0.141249467,Newport
+4848,Spartan Close,Langstone,0.0991549,Newport
+4849,Speke Street,Victoria,0.031769222,Newport
+4850,Spencer Road,Allt-yr-yn,0.187980969,Newport
+4851,Spitfire Road,Rogerstone,0.00271362,Newport
+4852,Spooner Close,Coedkernew,0.200675378,Newport
+4853,Spring Gardens,Pillgwenlly,0.178466,Newport
+4854,Spring Street,Shaftesbury,0.004688833,Newport
+4855,Springfield Close,Graig,0.210143667,Newport
+4856,Springfield Drive,Ringland,0.276254776,Newport
+4857,Springfield Lane,Graig,0.228404419,Newport
+4858,Springfield Road,Graig,0.271241286,Newport
+4859,Spytty Lane,Liswerry,0.272490144,Newport
+4860,Spytty Road,Alway,0.1754455,Newport
+4861,Spytty Road,Liswerry,0.218936307,Newport
+4862,Squires Close,Rogerstone,0.447121188,Newport
+4863,Squires Gate,Rogerstone,0.224472144,Newport
+4864,St Basils Crescent,Graig,0.124260125,Newport
+4865,St Benedict's Court,Graig,0.195635,Newport
+4866,St Briavels Mews,Coedkernew,0.067223,Newport
+4867,St Brides Crescent,Gaer,0.32518153,Newport
+4868,St Brides Gardens,Gaer,0.228769987,Newport
+4869,St David's Crescent,Gaer,0.148470366,Newport
+4870,St Edward Street,Stow Hill,0.027077591,Newport
+4871,St John's Crescent,Rogerstone,0.20062189,Newport
+4872,St Julian Street,Stow Hill,0.023786808,Newport
+4873,St Martin's Court,Gaer,0.02743,Newport
+4874,St Mary's Court,Stow Hill,0.027837444,Newport
+4875,St Michael Street,Pillgwenlly,0.007828088,Newport
+4876,St Vincent Road,Victoria,0.015213328,Newport
+4877,St Woolos Road,Stow Hill,0.02530222,Newport
+4878,St. Anne's Close,Rogerstone,0.283809042,Newport
+4879,St. Anne's Crescent,St. Julians,0.260762391,Newport
+4880,St. George's Crescent,St. Julians,0.222152275,Newport
+4881,St. John's Road,Beechwood,0.137385183,Newport
+4882,St. John's Road,Liswerry,0.020420167,Newport
+4883,St. Julian's Avenue,St. Julians,0.072969026,Newport
+4884,St. Julian's Court,St. Julians,0.099072625,Newport
+4885,St. Julian's Road,Beechwood,0.23988875,Newport
+4886,St. Julian's Road,St. Julians,0.161128151,Newport
+4887,St. Mark's Crescent,Allt-yr-yn,0.245185056,Newport
+4888,St. Mary Street,Stow Hill,0.025492486,Newport
+4889,St. Merriots Place,Victoria,0.009486333,Newport
+4890,St. Michael's Mews,Pillgwenlly,0.094674727,Newport
+4891,St. Stephen's Road,Pillgwenlly,0.001715192,Newport
+4892,St. Woolos Place,Stow Hill,0.001595063,Newport
+4893,Stadium Way,Liswerry,0.321634015,Newport
+4894,Stafford Road,St. Julians,0.009831811,Newport
+4895,Stamford Court,Allt-yr-yn,0.25550025,Newport
+4896,Stanford Road,Alway,0.123960912,Newport
+4897,Stanford Road,Ringland,0.2113305,Newport
+4898,Stanley Road,Allt-yr-yn,0.043317583,Newport
+4899,Station Approach,Graig,0.283607536,Newport
+4900,Station Street,Stow Hill,0.0051296,Newport
+4901,Steer Crescent,Beechwood,0.309120118,Newport
+4902,Stelvio Park Avenue,Gaer,0.168156886,Newport
+4903,Stelvio Park Close,Gaer,0.0849365,Newport
+4904,Stelvio Park Crescent,Gaer,0.171199094,Newport
+4905,Stelvio Park Drive,Gaer,0.119652239,Newport
+4906,Stelvio Park Gardens,Gaer,0.20976325,Newport
+4907,Stelvio Park Grove,Gaer,0.022879,Newport
+4908,Stelvio Park Rise,Gaer,0.1042505,Newport
+4909,Stelvio Park View,Gaer,0.05037275,Newport
+4910,Stephenson Street,Liswerry,0.416945154,Newport
+4911,Stephenson Street,Nash,0.311078959,Newport
+4912,Stephenson Street,Pillgwenlly,0.013309278,Newport
+4913,Sterndale Bennett Road,Ringland,0.425023059,Newport
+4914,Stevenson Close,Rogerstone,0.166935029,Newport
+4915,Stockton Close,St. Julians,0.245833047,Newport
+4916,Stockton Road,St. Julians,0.047848369,Newport
+4917,Stockwood Close,Langstone,0.092019682,Newport
+4918,Stockwood View,Langstone,0.078723036,Newport
+4919,Stow Hill,Allt-yr-yn,0.060603,Newport
+4920,Stow Hill,Gaer,0.197291788,Newport
+4921,Stow Hill,Stow Hill,0.089025534,Newport
+4922,Stow Park Avenue,Stow Hill,0.199669619,Newport
+4923,Stow Park Circle,Gaer,0.715528079,Newport
+4924,Stow Park Crescent,Gaer,0.467609343,Newport
+4925,Stow Park Drive,Stow Hill,0.248018063,Newport
+4926,Stow Park Gardens,Gaer,0.7188354,Newport
+4927,Sullivan Circle,Alway,0.063287,Newport
+4928,Sullivan Circle,Ringland,0.060697918,Newport
+4929,Summerhill Avenue,St. Julians,0.174541,Newport
+4930,Summerhill Avenue,Victoria,0.10435448,Newport
+4931,Sunbeam Close,Victoria,0.1035745,Newport
+4932,Sunnybank,Graig,0.270129095,Newport
+4933,Surrey Place,St. Julians,0.2486422,Newport
+4934,Sussex Close,Liswerry,0.1098376,Newport
+4935,Sutherland Crescent,Beechwood,0.303511611,Newport
+4936,Sutton Road,St. Julians,0.027481431,Newport
+4937,Swallow Way,Tredegar Park,0.233003005,Newport
+4938,Sward Close,Rogerstone,0.090466083,Newport
+4939,Swinburne Close,Beechwood,0.130906648,Newport
+4940,Sycamore Avenue,Alway,0.086321373,Newport
+4941,Sylvan Close,Malpas,0.137487813,Newport
+4942,Tabernacle Drive,Graig,0.055019412,Newport
+4943,Talbot Lane,Stow Hill,0.060801464,Newport
+4944,Taliesin Close,Rogerstone,0.124304289,Newport
+4945,Taliesin Drive,Rogerstone,0.203465039,Newport
+4946,Tallis Close,Ringland,0.164175,Newport
+4947,Tamar Close,Bettws,0.15117625,Newport
+4948,Tamar Valley Close,Pillgwenlly,0.00012,Newport
+4949,Tantallus Close,Liswerry,0.0189943,Newport
+4950,Tantallus Crescent,Liswerry,0.056865964,Newport
+4951,Tantallus Way,Liswerry,0.101158781,Newport
+4952,Tees Close,Bettws,0.155765071,Newport
+4953,Telford Close,Rogerstone,0.0575939,Newport
+4954,Telford Court,Victoria,0.011999375,Newport
+4955,Telford Street,Liswerry,0.0639433,Newport
+4956,Telford Street,Victoria,0.006541833,Newport
+4957,Temple Street,Pillgwenlly,0.136255543,Newport
+4958,Tenby Close,Coedkernew,0.0495909,Newport
+4959,Tennyson Road,Beechwood,0.079957778,Newport
+4960,Tetbury Close,Shaftesbury,0.231383222,Newport
+4961,Thames Close,Bettws,0.223785,Newport
+4962,The Bryn,Bettws,0.24809275,Newport
+4963,The Coldra,Ringland,0.18505101,Newport
+4964,The Coppins,Malpas,0.08917975,Newport
+4965,The Firs,Malpas,0.456263567,Newport
+4966,The Glen,Langstone,0.485307821,Newport
+4967,The Griffin,Graig,0.3916979,Newport
+4968,The Moorings,St. Julians,0.148548811,Newport
+4969,The Nurseries,Langstone,0.170431915,Newport
+4970,The Paddocks,Langstone,0.225875688,Newport
+4971,The Redlands,Alway,0.071475333,Newport
+4972,The Rosegarden,Allt-yr-yn,0.4419485,Newport
+4973,The Spinney,Malpas,0.050181188,Newport
+4974,The Turnstiles,Shaftesbury,0.090729646,Newport
+4975,The Uplands,Rogerstone,0.118835253,Newport
+4976,Thirlmere Place,Beechwood,0.0829725,Newport
+4977,Thirlmere Place,St. Julians,0.253058983,Newport
+4978,Thompson Avenue,Liswerry,0.092679601,Newport
+4979,Thompson Close,Liswerry,0.033023167,Newport
+4980,Thornbury Park,Rogerstone,0.338249958,Newport
+4981,Thornhill Gardens,Rogerstone,0.234476367,Newport
+4982,Thornhill Way,Rogerstone,0.098611923,Newport
+4983,Tippett Close,Ringland,0.126041875,Newport
+4984,Tom Mann Close,Ringland,0.096035885,Newport
+4985,Tone Close,Bettws,0.08158264,Newport
+4986,Tone Road,Bettws,0.062325851,Newport
+4987,Tone Square,Bettws,0.0312825,Newport
+4988,Toronto Close,Allt-yr-yn,0.242424346,Newport
+4989,Torridge Road,Bettws,0.093440375,Newport
+4990,Traston Avenue,Liswerry,0.103256543,Newport
+4991,Traston Close,Liswerry,0.138905621,Newport
+4992,Traston Lane,Liswerry,0.400581778,Newport
+4993,Traston Road,Liswerry,0.094085033,Newport
+4994,Traston Road,Nash,0.290077452,Newport
+4995,Treberth Avenue,Ringland,0.074308886,Newport
+4996,Treberth Close,Ringland,0.097268389,Newport
+4997,Treberth Court,Ringland,0.0545624,Newport
+4998,Treberth Crescent,Ringland,0.101730591,Newport
+4999,Treberth Drive,Ringland,0.065455714,Newport
+5000,Treberth Gardens,Ringland,0.038673417,Newport
+5001,Treberth Grove,Ringland,0.075578375,Newport
+5002,Treberth Rise,Ringland,0.069587278,Newport
+5003,Treberth View,Ringland,0.097048167,Newport
+5004,Treberth Way,Ringland,0.063746661,Newport
+5005,Tredegar House Drive,Tredegar Park,0.174497696,Newport
+5006,Tredegar Park View,Rogerstone,0.215623158,Newport
+5007,Tredegar Street,Graig,0.108607625,Newport
+5008,Tredegar Street,Pillgwenlly,0.0935622,Newport
+5009,Tregare Street,St. Julians,0.3286275,Newport
+5010,Tregarn Close,Langstone,0.356109214,Newport
+5011,Tregarn Court,Langstone,0.183116025,Newport
+5012,Tregarn Road,Langstone,0.411341459,Newport
+5013,Tregwilym Close,Rogerstone,0.2794055,Newport
+5014,Tregwilym Road,Rogerstone,0.39221344,Newport
+5015,Tregwilym Walk,Rogerstone,0.281918857,Newport
+5016,Trent Road,Bettws,0.114210735,Newport
+5017,Trevithick Close,Malpas,0.12977555,Newport
+5018,Trinity Place,Pillgwenlly,0.0340414,Newport
+5019,Trostrey Street,St. Julians,0.372656,Newport
+5020,Tudor Crescent,Rogerstone,0.206989981,Newport
+5021,Tudor Road,St. Julians,0.091287548,Newport
+5022,Tulip Walk,Rogerstone,0.109310136,Newport
+5023,Tunnel Terrace,Allt-yr-yn,0.0763295,Newport
+5024,Tunnel Terrace,Stow Hill,0.319096882,Newport
+5025,Turner Street,St. Julians,0.123733342,Newport
+5026,Tweedy Lane,Beechwood,0.065072688,Newport
+5027,Ty-Du View,Rogerstone,0.234173579,Newport
+5028,Ty Coch Close,Graig,0.216535,Newport
+5029,Tyllwyd Road,Allt-yr-yn,0.159712353,Newport
+5030,Tyne Close,Bettws,0.125171318,Newport
+5031,Uplands Court,Rogerstone,0.201742143,Newport
+5032,Upper Dock Street,Stow Hill,0.068058727,Newport
+5033,Upper Power Street,Shaftesbury,0.211992771,Newport
+5034,Upper Tennyson Road,Beechwood,0.244316,Newport
+5035,Upton Road,Allt-yr-yn,0.053298889,Newport
+5036,Usk Street,St. Julians,0.000779316,Newport
+5037,Usk View,Beechwood,0.088489625,Newport
+5038,Usk Way,Pillgwenlly,0.146823443,Newport
+5039,Usk Way,Stow Hill,0.197437228,Newport
+5040,Vale View,Beechwood,0.25384258,Newport
+5041,Van Dyke Close,St. Julians,0.431389,Newport
+5042,Vanbrugh Close,Rogerstone,0.178757214,Newport
+5043,Vancouver Drive,Allt-yr-yn,0.1852567,Newport
+5044,Vaughan Court,Coedkernew,0.05736325,Newport
+5045,Vaughan Williams Drive,Alway,0.136097522,Newport
+5046,Velodrome Way,Liswerry,0.126320012,Newport
+5047,Vermeer Crescent,Beechwood,0.141244389,Newport
+5048,Veronica Close,Rogerstone,0.16137995,Newport
+5049,Viaduct Close,Graig,0.104014725,Newport
+5050,Viaduct View,Graig,0.110118722,Newport
+5051,Viaduct Way,Graig,0.333326927,Newport
+5052,Vicarage Close,Graig,0.620989767,Newport
+5053,Vicarage Gardens,Rogerstone,0.2188921,Newport
+5054,Vicarage Hill,Stow Hill,0.15757885,Newport
+5055,Victoria Avenue,Beechwood,0.123175576,Newport
+5056,Victoria Avenue,Victoria,0.090021,Newport
+5057,Victoria Close,Stow Hill,0.067036214,Newport
+5058,Victoria Court,Beechwood,0.039340214,Newport
+5059,Victoria Crescent,Stow Hill,0.137819786,Newport
+5060,Victoria Lane,Beechwood,0.4843545,Newport
+5061,Victoria Place,Stow Hill,0.0588481,Newport
+5062,Victoria Road,Stow Hill,0.115811423,Newport
+5063,Vine Place,Victoria,0.0553442,Newport
+5064,Violet Walk,Graig,0.054740222,Newport
+5065,Viscount Evan Drive,Tredegar Park,0.158355115,Newport
+5066,Vivian Road,Victoria,0.044669852,Newport
+5067,Walden Grange Close,Alway,0.066498727,Newport
+5068,Walford Davies Drive,Alway,0.063457067,Newport
+5069,Walford Street,Shaftesbury,0.009667587,Newport
+5070,Wallis Street,Pillgwenlly,0.000777611,Newport
+5071,Walmer Road,Beechwood,0.006555289,Newport
+5072,Walsall Street,Liswerry,0.047993705,Newport
+5073,Walton Close,Alway,0.00404425,Newport
+5074,Ward Close,Beechwood,0.156034583,Newport
+5075,Warlock Close,Ringland,0.060355,Newport
+5076,Warwick Road,Alway,0.008633176,Newport
+5077,Watch House Parade,Pillgwenlly,0.018292538,Newport
+5078,Waterloo Road,Stow Hill,0.301654814,Newport
+5079,Waterside Close,Rogerstone,0.265925773,Newport
+5080,Waterside Court,Shaftesbury,0.170653,Newport
+5081,Watts Close,Rogerstone,0.163585625,Newport
+5082,Wavell Drive,Malpas,0.1555505,Newport
+5083,Waveney Close,Bettws,0.174752591,Newport
+5084,Weare Close,Bettws,0.112964474,Newport
+5085,Wednesbury Street,Liswerry,0.053218,Newport
+5086,Welland Circle,Bettws,0.139573588,Newport
+5087,Welland Crescent,Bettws,0.095932588,Newport
+5088,Wellington Road,Allt-yr-yn,0.173801033,Newport
+5089,Wells Close,Gaer,0.074297875,Newport
+5090,Wentworth Close,Graig,0.195115917,Newport
+5091,Wern Terrace,Rogerstone,0.300842693,Newport
+5092,West Market Street,Pillgwenlly,0.042097,Newport
+5093,West Park Road,Allt-yr-yn,0.01761405,Newport
+5094,West Park Road,Gaer,0.0325805,Newport
+5095,West Street,Stow Hill,0.001083967,Newport
+5096,West Way Road,Pillgwenlly,0.422609705,Newport
+5097,Western Avenue,Allt-yr-yn,0.228156277,Newport
+5098,Western Valley Road,Rogerstone,0.223017317,Newport
+5099,Westfield Avenue,Malpas,0.058842577,Newport
+5100,Westfield Drive,Malpas,0.169375469,Newport
+5101,Westfield Gardens,Malpas,0.175221022,Newport
+5102,Westfield Rise,Malpas,0.029307889,Newport
+5103,Westfield Road,Allt-yr-yn,0.350678589,Newport
+5104,Westfield Way,Malpas,0.121145148,Newport
+5105,Westmoor Close,Liswerry,0.0826935,Newport
+5106,Westray Close,Beechwood,0.062955286,Newport
+5107,Westville Road,Allt-yr-yn,0.079111667,Newport
+5108,Wharf Lane,Victoria,0.022391545,Newport
+5109,Wharf Road,Beechwood,0.094404659,Newport
+5110,Wharf Road,Victoria,0.142078935,Newport
+5111,Wheeler Street,Shaftesbury,0.153983575,Newport
+5112,Whistler Close,Beechwood,0.409366333,Newport
+5113,Whitby Place,Victoria,0.065135444,Newport
+5114,White Avenue,Coedkernew,0.123387625,Newport
+5115,Whitstone Road,Alway,0.157519986,Newport
+5116,Whittle Drive,Malpas,0.101130266,Newport
+5117,Willenhall Street,Victoria,0.140725511,Newport
+5118,William Lovett Gardens,Stow Hill,0.1708941,Newport
+5119,William Morris Drive,Ringland,0.214864014,Newport
+5120,Willow Close,Liswerry,0.111620118,Newport
+5121,Willow Walk,Rogerstone,0.344557958,Newport
+5122,Wilson Road,Beechwood,0.136844773,Newport
+5123,Wilson Street,Pillgwenlly,0.000171611,Newport
+5124,Winchester Close,Gaer,0.123347375,Newport
+5125,Windermere Square,St. Julians,0.0472945,Newport
+5126,Windrush Close,Bettws,0.145656625,Newport
+5127,Windsor Castle Road,Pillgwenlly,0.00012,Newport
+5128,Windsor Road,Beechwood,0.010389643,Newport
+5129,Windsor Terrace,Stow Hill,0.227086577,Newport
+5130,Wingate Street,Pillgwenlly,0.0096042,Newport
+5131,Wistaria Close,Malpas,0.121594,Newport
+5132,Witham Street,Victoria,0.052531882,Newport
+5133,Wolseley Close,Pillgwenlly,0.0747449,Newport
+5134,Wolseley Street,Pillgwenlly,0.04949397,Newport
+5135,Wood Close,Rogerstone,0.318925525,Newport
+5136,Wood Crescent,Rogerstone,0.234404866,Newport
+5137,Woodland Drive,Graig,0.108307032,Newport
+5138,Woodland Drive,Rogerstone,0.336655862,Newport
+5139,Woodland Park Road,Beechwood,0.265635032,Newport
+5140,Woodland Road,Beechwood,0.289012116,Newport
+5141,Woodlands Drive,Malpas,0.299654071,Newport
+5142,Woodside,Tredegar Park,0.212801586,Newport
+5143,Woodville Road,Allt-yr-yn,0.225450606,Newport
+5144,Worcester Crescent,Beechwood,0.158899212,Newport
+5145,Wordsworth Road,Beechwood,0.132152568,Newport
+5146,Wright Close,Liswerry,0.217745176,Newport
+5147,Wye Crescent,Bettws,0.225785576,Newport
+5148,Wyeverne Road,Alway,0.016751971,Newport
+5149,Wyndham Street,Shaftesbury,0.415942083,Newport
+5150,Yeo Close,Bettws,0.144975088,Newport
+5151,Yeo Road,Bettws,0.383502643,Newport
+5152,Yewberry Close,Malpas,0.257786438,Newport
+5153,Yewberry Lane,Malpas,0.388919205,Newport
+5154,Yewberry Lane,Shaftesbury,0.368598175,Newport
+5155,York Place,Stow Hill,0.092333465,Newport
+5156,York Road,St. Julians,0.019419133,Newport
