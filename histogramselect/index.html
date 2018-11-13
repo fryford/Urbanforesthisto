@@ -154,6 +154,12 @@
       opacity: 1; /* Firefox */
   }
 
+  #errorMessage {
+      color: red;
+      font-size: 16px;
+      margin:0px;
+  }
+
   </style>
 </head>
 
@@ -177,6 +183,7 @@
   <label>or select from the drop down</label>
 </div>
 </div>
+<div id="errorMessage"></div>
 <div id="vis"></div>
 <div id="source"></div>
 
@@ -268,16 +275,7 @@ function drawGraphic() {
       }
     });
 
-    // apply histogram generator to each region's values
-    // allregions = allnest.map(function(d) {
-    //   return {
-    //     key: d.key,
-    //     values: histogram(d.values),
-    //     no: d.values.length
-    //   }
-    // });
 
-console.log(allregions)
     // calculate local y-max for each region
     var localMax = regions.map(function(d) {
       return {
@@ -376,20 +374,18 @@ console.log(allregions)
         var line = d3.line()
             .x(function(d) { return x(d.xval); })
             .y(function(d) { return y(d.yval); })
-            .curve(d3.curveBasis);
+            .curve(d3.curveCardinal);
 
 
         var lines = {};
         allregions.forEach(function(d){
-          lines[d.key] = d.values.map(function(t) {
+          lines["all"] = d.values.map(function(t) {
             return {
                 'xval': (t.x0 + t.x1)/2,
                 'yval': t.length/d.no
             };
           })
         })
-
-        console.log(lines)
 
       var linesdraw = hist.selectAll(".path")
         .data([d3.entries(lines)[0]])
@@ -404,6 +400,24 @@ console.log(allregions)
         .attr('d', function(d) {
             return line(d.value);
         });
+
+        console.log(lines)
+
+      hist.append("g")
+				.selectAll("circles")
+				.data(lines["all"]) // raw data
+				.enter()
+				.append('circle')
+				.style('fill', '#fff')
+				.style('stroke', "#000")
+				.style('stroke-width', 2)
+				.attr("cx", function(d){
+											return x(d.xval);
+										})
+				.attr("cy", function(d){
+											return y(d.yval);
+										})
+				.attr("r", 3)
 
         // var linesdraw = hist.selectAll(".path")
         //   .data([d3.entries(lines)[1]])
@@ -500,6 +514,8 @@ $("#submitPost").click(function( event ) {
               console.log(city)
               if(city == "Newport" || city == "Cardiff") {
 
+                $("#errorMessage").text("");
+
                 //Find position in array
                 //var fruits = ["Banana", "Orange", "Apple", "Mango"];
                 var place = areanames.indexOf(parish);
@@ -507,7 +523,8 @@ $("#submitPost").click(function( event ) {
                 updateBars(place);
                 $("#areaselect").val(place).trigger("chosen:updated");
               } else {
-                $("#errorMessage").text("Sorry, that's not a postcode we recognise. Please try again.");
+                console.log("should be here")
+                $("#errorMessage").html('Sorry, that postcode is not covered by this research. It currently covers <a href="http://geoportal.statistics.gov.uk/datasets/major-towns-and-cities-december-2015-boundaries?geometry=-3.587%2C51.424%2C-2.544%2C51.573" target="_blank">major towns and city boundaries</a> for Cardiff & Newport.');
               }
 
           } else {
