@@ -205,6 +205,24 @@ function drawGraphic() {
           .tickFormat(tickformat)
         );
 
+    svg.append("text")
+        .attr("fill", function(d,i){if(i != 0) {return "none"} else {return "#414042"}})
+        .attr("x", margin.left)
+        .attr("y", 13)
+        .attr("text-anchor","start")
+        .attr("font-size", "16px")
+        .attr("font-weight", "bold")
+        .text("Top 3")
+
+    svg.append("text")
+        .attr("fill", function(d,i){if(i != dvc.ons.numberrows_sm_md_lg[size]) {return "none"} else {return "#414042"}})
+        .attr("x", margin.left)
+        .attr("y", 13)
+        .attr("text-anchor","start")
+        .attr("font-size", "16px")
+        .attr("font-weight", "bold")
+        .text("Bottom 3")
+
     hist.append("text")
         .attr("class", function(d,i){if(i%dvc.ons.numberrows_sm_md_lg[size]) {return "xlabel noshow"} else {return "xlabel labelshow"}})
         .attr("x", width/2)
@@ -240,7 +258,7 @@ function drawGraphic() {
         .attr("height", function(s) {return height - y(s.length/d3.select(this.parentNode.parentNode).datum().no); })
         .attr("fill", "#6EB54A");
 
-    d3.selectAll("#source").text(dvc.ons.source);
+    d3.selectAll("#source").text("Source: " + dvc.ons.source);
 
     if (pymChild) {
         pymChild.sendHeight();

@@ -250,7 +250,6 @@ function drawGraphic() {
         .key(function(d) { return d.region; }).sortKeys(d3.ascending)
         .entries(graphic_data);
 
-    console.log(nest)
 
     var allnest = [{"key": "All",
 		"values": graphic_data,
@@ -259,8 +258,6 @@ function drawGraphic() {
     // var allnest = d3.nest()
     //     .key(function(d) { return d.city; }).sortKeys(d3.ascending)
     //     .entries(graphic_data);
-
-    console.log(allnest)
 
     // apply histogram generator to each region's values
     regions = nest.map(function(d) {
@@ -273,7 +270,6 @@ function drawGraphic() {
 
     selectlist(regions)
 
-    console.log(d3.entries(graphic_data))
 
     // apply histogram generator to each region's values
     allregions = allnest.map(function(d) {
@@ -301,7 +297,7 @@ function drawGraphic() {
       y.domain(dvc.ons.yAxisScale)
     }
 
-    console.log(regions)
+
     // for each region, set up a svg with axis and label
     var svg = d3.select("#vis")
         .append("svg")
@@ -441,7 +437,7 @@ function drawGraphic() {
 
         const fixedannotations = [{
                    note: {
-                     label: "Cardiff & Newport",
+                     label: "Cardiff and Newport average",
                      bgPadding:5,
                      wrap: 150,
                      align: "middle",
@@ -490,7 +486,7 @@ function drawGraphic() {
         //       return line(d.value);
         //   });
 
-    d3.selectAll("#source").text(dvc.ons.source);
+    d3.selectAll("#source").text("Source: " + dvc.ons.source);
 
     if (pymChild) {
         pymChild.sendHeight();
@@ -526,7 +522,6 @@ function selectlist(datacsv) {
   $('#areaselect').chosen({allow_single_deselect:true}).on('change',function(evt,params){
 
       if(typeof params != 'undefined') {
-          console.log(params)
           updateBars(params.selected)
 
       }
@@ -568,7 +563,7 @@ $("#submitPost").click(function( event ) {
             //$("#pcError").hide();
             city = data1.result.admin_district
             parish = data1.result.parish;
-              console.log(city)
+
               if(city == "Newport" || city == "Cardiff") {
 
                 $("#errorMessage").text("");
@@ -580,7 +575,7 @@ $("#submitPost").click(function( event ) {
                 updateBars(place);
                 $("#areaselect").val(place).trigger("chosen:updated");
               } else {
-                console.log("should be here")
+
                 $("#errorMessage").html('Sorry, that postcode is not covered by this research. It currently covers <a href="http://geoportal.statistics.gov.uk/datasets/major-towns-and-cities-december-2015-boundaries?geometry=-3.587%2C51.424%2C-2.544%2C51.573" target="_blank">major towns and city boundaries</a> for Cardiff & Newport.');
                 $("#areaselect").val("").trigger("chosen:updated");
               }

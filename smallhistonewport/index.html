@@ -89,7 +89,7 @@ var pymChild = null;
 function drawGraphic() {
 
   bodywidth = parseInt(d3.select("body").style("width"))
-  console.log(bodywidth)
+
 
   if(bodywidth > dvc.ons.thresholds_sm_md[1]) {
     size = 2;
@@ -177,14 +177,14 @@ function drawGraphic() {
         .attr("height", height + margin.top + margin.bottom);
 
 
-        percentlabel = ["44","38","36","11","11","6"];
+    percentlabel = ["35","25","24","11","11","6"];
 
-        svg.append("text")
-            .attr("class", "region label")
-            .attr("x", margin.left)
-            .attr("y", (margin.top/2)-10)
-            .attr("font-size", "14px")
-            .text(function(d,i) {return d.key + " - " + percentlabel[i] + "%"})
+    svg.append("text")
+        .attr("class", "region label")
+        .attr("x", margin.left)
+        .attr("y", (margin.top/2)-10)
+        .attr("font-size", "14px")
+        .text(function(d,i) {return d.key + " - " + percentlabel[i] + "%"})
 
 
     var hist = svg.append("g")
@@ -207,6 +207,24 @@ function drawGraphic() {
           .tickFormat(tickformat)
         );
 
+    svg.append("text")
+        .attr("fill", function(d,i){if(i != 0) {return "none"} else {return "#414042"}})
+        .attr("x", margin.left)
+        .attr("y", 13)
+        .attr("text-anchor","start")
+        .attr("font-size", "16px")
+        .attr("font-weight", "bold")
+        .text("Top 3")
+
+    svg.append("text")
+        .attr("fill", function(d,i){if(i != dvc.ons.numberrows_sm_md_lg[size]) {return "none"} else {return "#414042"}})
+        .attr("x", margin.left)
+        .attr("y", 13)
+        .attr("text-anchor","start")
+        .attr("font-size", "16px")
+        .attr("font-weight", "bold")
+        .text("Bottom 3")
+
     hist.append("text")
         .attr("class", function(d,i){if(i%dvc.ons.numberrows_sm_md_lg[size]) {return "xlabel noshow"} else {return "xlabel labelshow"}})
         .attr("x", width/2)
@@ -221,7 +239,7 @@ function drawGraphic() {
         .attr("y", 0 - 15)
         .attr("text-anchor","start")
         .attr("font-size", "12px")
-        .html(dvc.ons.yaxislabel)
+        .text(dvc.ons.yaxislabel)
 
     // draw histogram bars
     var bars = hist.selectAll(".bar")
@@ -230,7 +248,7 @@ function drawGraphic() {
         .append("g")
         .attr("class", "bar")
         .attr("transform", function(s,i) {
-          console.log(d3.select(this.parentNode).datum().no)
+
 
           return "translate(" + x(s.x0) + "," + y(s.length/d3.select(this.parentNode).datum().no) + ")";
         });
@@ -242,20 +260,8 @@ function drawGraphic() {
         .attr("height", function(s) {return height - y(s.length/d3.select(this.parentNode.parentNode).datum().no); })
         .attr("fill", "#6EB54A");
 
-    // bars.append("text")
-    //     .attr("class", "hist label")
-    //     .attr("dy", ".75em")
-    //     .attr("y", -12)
-    //     .attr("x", function(s) { return (x(s.x1) - x(s.x0))/2; })
-    //     .attr("text-anchor", "middle")
-    //     .text(function(s) {
-    //       if (s.length > 0) {
-    //         return s.length;
-    //       }
-    //     })
-    //     .style("fill", "charcoal");
 
-    d3.selectAll("#source").text(dvc.ons.source);
+        d3.selectAll("#source").text("Source: " + dvc.ons.source);
 
     if (pymChild) {
         pymChild.sendHeight();
@@ -267,17 +273,16 @@ if (Modernizr.svg) {
 		   //load config
 			d3.json("config.json", function(error, config) {
 
-        console.log(config)
+
 			dvc=config
 				//load chart data
 				d3.csv(dvc.ons.graphic_data_url, function(error, data) {
 					graphic_data = data;
-          console.log(data)
+
 
 					//use pym to create iframed chart dependent on specified variables
 					pymChild = new pym.Child({ renderCallback: drawGraphic});
 
-          console.log(pymChild)
 				});
 			})
 		} else {
